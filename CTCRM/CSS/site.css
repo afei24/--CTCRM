@@ -1,0 +1,385 @@
+﻿html body
+{
+    font-family: "微软雅黑" , "宋体" , "黑体";
+    background: url("/images/bg.gif") repeat-x top left;
+    font-size: 12px;
+    margin: 0px;
+}
+
+.Warning
+{
+    color: Red;
+}
+.Notice
+{
+    color: Green;
+}
+.Tip
+{
+    color: Gray;
+}
+.ErrInput
+{
+    border: 2px solid red;
+}
+
+#wrapper
+{
+	height: 100%;
+    width: 950px;
+    margin: 0 auto;
+    position: relative;
+    left:-20px;
+}
+
+#banner
+{
+    height: 138px;
+    text-align: center;
+    background: url("../images/logo.png") no-repeat top left;
+}
+
+#dock
+{
+    top: 0px;
+    height: 29px;
+    right: 5px;
+    float: left;
+    position: absolute;
+}
+#dock .left
+{
+    width: 13px;
+    height: 29px;
+    float: left;
+    background-image: url("/images/ls.gif");
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-color: transparent;
+}
+#dock .right
+{
+    width: 13px;
+    height: 29px;
+    float: left;
+    background-image: url("/images/rs.gif");
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-color: transparent;
+}
+#dock .userinfo
+{
+    width: auto;
+    height: 29px;
+    color: #ffffff;
+    background-image: url("/images/cs.gif");
+    background-repeat: repeat-x;
+    float: left;
+}
+#dock .userinfo a
+{
+    color: #ffffff;
+}
+#dock .userinfo a:visited
+{
+    color: #ffffff;
+}
+#dock .userinfo a:hover
+{
+    color: #fad42e;
+}
+
+#navigation
+{
+    top: 91px;
+    height: 48px;
+    right: 0px;
+    float: left;
+    position: absolute;
+}
+
+#navigation ul
+{
+    margin: 0;
+    list-style: none;
+    text-align: left;
+}
+
+#navigation ul li
+{
+    float: left;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+#navigation ul li a
+{
+    width: 100px;
+    height: 36px;
+    float: left;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    padding-top: 12px;
+    text-align: center;
+}
+#navigation ul li a:hover
+{
+    color: #fad42e;
+}
+#navigation ul li a.selected
+{
+    color: #fbec88;
+    background: url('/images/selected.gif') no-repeat;
+}
+
+#body
+{
+    text-align: left;
+    background-color: transparent;
+    height: auto !important;
+    height: 420px;
+    overflow: visible;
+    padding: 9px;
+}
+
+#body .leftside
+{
+    float: left;
+    left: 9px;
+    width: 306px;
+    height: auto;
+    min-height: 100px;
+}
+#body .rightside
+{
+    float: left;
+    right: 9px;
+    width: 600px;
+    min-height: 100px;
+    margin-left:10px;
+}
+#footer
+{
+    width: 950px;
+    text-align: center;
+  /* border-top: solid 1px #014FBC;*/
+    padding: 10px;
+    font-size: 12px;
+}
+.intro
+{
+    width: 700px;
+    height: 400px;
+    float: left;
+    padding-bottom: 20px;
+}
+.splitter
+{
+    width: 950px;
+    text-align: center;
+    margin: 0 auto;
+    height: 20px;
+    border-top: solid 2px #414FBC;
+}
+.infoArea
+{
+    /*border-style: solid;
+    border-color: #8D0D02;*/
+    border-width: 1px;
+    margin-bottom: 7px;
+}
+.smallTitle
+{
+    /*border-bottom-style: solid;     border-bottom-width: 1px;     border-bottom-color: #4297d7;*/
+    height: 25px;
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-left: 0px;
+    color: white;
+    background-color:#00BFE9;
+    border-radius:5px;
+}
+.content
+{
+    font-size: 14px;
+}
+.ruleArea
+{
+    padding: 0 5px;
+}
+.orange
+{
+    color: #014FBC;
+}
+
+.banner div a
+{
+    color: darkblue;
+}
+
+
+
+.subHeader ul
+{
+    margin: 0;
+    list-style: none;
+    text-align: left;
+}
+
+.subHeader ul li
+{
+    float: left;
+    text-align: center;
+}
+
+.subHeader ul li a
+{
+    width: 160px;
+    height: 28px;
+    float: left;
+    text-decoration: none;
+    color: #A0A0A4;
+    font-size: 16px;
+    font-weight: bold;
+    padding-top: 9px;
+    text-align: center;
+}
+
+.subHeader ul li a:hover
+{
+    color: #576d07;
+}
+
+.subHeader ul li a.selected
+{
+    color: #014FBC;
+}
+.title
+{
+    font-size: 22px;
+    font-weight: bold;
+}
+.subTitle
+{
+    font-size: 18px;
+    font-weight: bold;
+}
+.numeric
+{
+    width: 30px;
+}
+.array
+{
+    width: 180px;
+}
+.home
+{
+    
+    width: 900px;
+    height: 350px;
+    border: 0;
+    color: #404040;
+}
+a.login
+{
+    background: url("../images/login.png") no-repeat top left;
+    width: 170px;
+    height: 38px;
+    display: block;
+}
+
+a.freetry
+{
+    background: url("../images/freetry.png") no-repeat top left;
+    width: 170px;
+    height: 38px;
+    display: block;
+}
+a img
+{
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    margin-right: 4px;
+}
+
+.floatRight
+{
+    float: right;
+}
+
+.floatLeft
+{
+    float: left;
+}
+
+
+.date
+{
+    font-size: 16px;
+    color: #999999;
+}
+
+.helpArea
+{
+    margin: 5px 20px;
+    padding: 2px;
+}
+
+.helpArea span
+{
+    margin-right: 0.3em; 
+    float: left;
+}
+
+
+.subMemu
+{
+    top: 0px;
+    height: 32px;
+    left: 50px;
+    float: left;
+    position: relative;
+}
+
+.subMemu ul
+{
+    margin: 0;
+    list-style: none;
+    text-align: left;
+}
+.subMemu ul li
+{
+    float: left;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.subMemu ul li a
+{
+    width: 100px;
+    height: 24px;
+    float: left;
+    text-decoration: none;
+    color: #2e6e9e;
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 0px;
+    text-align: center;
+}
+.subMemu ul li a:hover
+{
+    color: #fad42e;
+}
+.subMemu ul li a.selected
+{
+    color: #e17009;
+    background-color: #dfeffc;
+}

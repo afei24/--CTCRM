@@ -1,0 +1,84 @@
+
+===================================
+时间:           2016/10/15 13:03:05
+错误号:         1000
+标题:           对象名 'Buyer_export' 无效。
+内容:           对象名 'Buyer_export' 无效。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 131
+   在 CTCRM.DAL.BuyerexportDAL.CheckEndStatus(String sellerId) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\BuyerexportDAL.cs:行号 24
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/10/15 13:03:05
+错误号:         1000
+标题:           对象名 'Buyer_export' 无效。
+内容:           对象名 'Buyer_export' 无效。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 131
+   在 CTCRM.DAL.BuyerexportDAL.GetBuyerExportAll(String sellerId) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\BuyerexportDAL.cs:行号 183
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/10/15 15:03:53
+错误号:         1000
+标题:           在向服务器发送请求时发生传输级错误。 (provider: TCP 提供程序, error: 0 - 远程主机强迫关闭了一个现有的连接。)
+内容:           在向服务器发送请求时发生传输级错误。 (provider: TCP 提供程序, error: 0 - 远程主机强迫关闭了一个现有的连接。)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParserStateObject.WriteSni()
+   在 System.Data.SqlClient.TdsParserStateObject.WritePacket(Byte flushMode)
+   在 System.Data.SqlClient.TdsParserStateObject.ExecuteFlush()
+   在 System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 131
+   在 CTCRM.DAL.GroupDAL.GetGroupByID(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\GroupDAL.cs:行号 121
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================

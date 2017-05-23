@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\sdk-net-21088197\taobao-sdk-net-auto_1482718982003-20161226-source\bin\Debug\TopSdk.dll
+C:\Users\Administrator\Desktop\sdk-net-21088197\taobao-sdk-net-auto_1482718982003-20161226-source\bin\Debug\TopSdk.pdb
+C:\Users\Administrator\Desktop\sdk-net-21088197\taobao-sdk-net-auto_1482718982003-20161226-source\obj\Debug\TopSdk.dll
+C:\Users\Administrator\Desktop\sdk-net-21088197\taobao-sdk-net-auto_1482718982003-20161226-source\obj\Debug\TopSdk.pdb
+D:\代码\服务器代码\CTCRM-Source\源码\TopSdk\obj\Debug\TopSdk.dll
+D:\代码\服务器代码\CTCRM-Source\源码\TopSdk\obj\Debug\TopSdk.pdb
+D:\代码\服务器代码\CTCRM-Source\源码\TopSdk\bin\Debug\TopSdk.dll
+D:\代码\服务器代码\CTCRM-Source\源码\TopSdk\bin\Debug\TopSdk.pdb

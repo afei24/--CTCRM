@@ -1,0 +1,91 @@
+﻿.t_row {
+margin-top: -1px;
+background: #D6E0EF;
+}
+
+.colorfocus {
+	border: 1px #4B4B6F double;
+	background-color: #FFEEC2;
+}
+.colorblur {
+	border: 1px #cccccc double;
+	background-color: #ffffff;
+}
+
+.headertext {
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #799BC8;
+}
+
+
+.ubbtable
+{
+	color: #333333;
+	empty-cells: show;
+	border-collapse: separate !important;
+	border-collapse: collapse;
+	
+	border-left: 1px solid #86B9D6;
+	border-top: 1px solid #86B9D6;
+	border-spacing: 0px;
+
+}
+.ubbtable td
+{
+	padding: 4px;
+	border-bottom: 1px solid #86B9D6;
+	border-right: 1px solid #86B9D6;
+
+}
+.userAuthTableTd
+{
+	padding: 4px;
+	border-bottom: 1px solid;
+	border-right: 1px solid;
+}
+
+
+.btn_big {
+	BORDER-RIGHT: #7b9ebd 1px solid;
+	PADDING-RIGHT: 2px;
+	BORDER-TOP: #7b9ebd 1px solid;
+	PADDING-LEFT: 2px;
+	FONT-SIZE: 12px;
+FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#ffffff, EndColorStr=#cecfde); 
+	BORDER-LEFT: #7b9ebd 1px solid;
+	CURSOR: hand;
+	COLOR: black;
+	PADDING-TOP: 2px;
+	BORDER-BOTTOM: #7b9ebd 1px solid;
+	width: 120px;
+	
+}
+
+.btn_small{
+	border: 1px solid #7b9ebd;
+    PADDING-RIGHT: 2px;
+	    PADDING-LEFT: 2px;
+	    FONT-SIZE: 12px;
+    FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#ffffff, EndColorStr=#cecfde); 
+	    CURSOR: hand;
+	    COLOR: black;
+	    PADDING-TOP: 2px;
+	    width: 80px;
+    height: 23px;
+}
+
+.btn_msmall{
+	BORDER-RIGHT: #7b9ebd 1px solid;
+	PADDING-RIGHT: 2px;
+	BORDER-TOP: #7b9ebd 1px solid;
+	PADDING-LEFT: 2px;
+	FONT-SIZE: 12px;
+FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#ffffff, EndColorStr=#cecfde); 
+	BORDER-LEFT: #7b9ebd 1px solid;
+	CURSOR: hand;
+	COLOR: black;
+	PADDING-TOP: 2px;
+	BORDER-BOTTOM: #7b9ebd 1px solid;
+	width: auto;
+}

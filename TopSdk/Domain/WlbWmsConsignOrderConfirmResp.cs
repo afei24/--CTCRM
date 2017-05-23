@@ -1,0 +1,30 @@
+using System;
+using System.Xml.Serialization;
+
+namespace Top.Api.Domain
+{
+    /// <summary>
+    /// WlbWmsConsignOrderConfirmResp Data Structure.
+    /// </summary>
+    [Serializable]
+    public class WlbWmsConsignOrderConfirmResp : TopObject
+    {
+        /// <summary>
+        /// 错误码
+        /// </summary>
+        [XmlElement("error_code")]
+        public string ErrorCode { get; set; }
+
+        /// <summary>
+        /// 错误信息
+        /// </summary>
+        [XmlElement("error_msg")]
+        public string ErrorMsg { get; set; }
+
+        /// <summary>
+        /// 是否成功
+        /// </summary>
+        [XmlElement("success")]
+        public bool Success { get; set; }
+    }
+}

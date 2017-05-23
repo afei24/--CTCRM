@@ -1,0 +1,11 @@
+﻿body
+{
+	background-image: url("/images/spacer.gif");
+	_background-attachment: fixed;
+}
+div#prtDiaglog
+{
+	_position: absolute;
+	_top: expression(eval(document.body.scrollTop + 50));
+	z-index: 100;
+}

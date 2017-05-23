@@ -1,0 +1,30 @@
+
+===================================
+时间:           2015/12/3 10:32:30
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 171.214.183.179 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 171.214.183.179 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 c:\TB项目\CRM0101\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 c:\TB项目\CRM0101\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 c:\TB项目\CRM0101\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 c:\TB项目\CRM0101\CTCRM.Components\TopCRM\TBManager.cs:行号 48
+   在 CTCRM.member.index.btnAuothOpen_Click(Object sender, ImageClickEventArgs e) 位置 c:\TB项目\CRM0101\CTCRM\member\index.aspx.cs:行号 752
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2015/12/3 10:32:32
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 171.214.183.179 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 171.214.183.179 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 c:\TB项目\CRM0101\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 c:\TB项目\CRM0101\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 c:\TB项目\CRM0101\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 c:\TB项目\CRM0101\CTCRM.Components\TopCRM\TBManager.cs:行号 48
+   在 CTCRM.member.index.btnAuothOpen_Click(Object sender, ImageClickEventArgs e) 位置 c:\TB项目\CRM0101\CTCRM\member\index.aspx.cs:行号 752
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================

@@ -1,0 +1,130 @@
+﻿BODY
+{
+    FONT-FAMILY: "宋体";
+    FONT-SIZE: 9pt;
+    BACKGROUND-COLOR: #ffffff;
+    COLOR: #000000;
+    LINE-HEIGHT: 150%;
+    MARGIN-TOP: 1px;
+    MARGIN-LEFT: 0px;
+    MARGIN-RIGHT: 0px;
+}
+BODY.tvadmin
+{
+    FONT-FAMILY: "宋体";
+    FONT-SIZE: 9pt;
+    BACKGROUND-COLOR: #f1f8ff;
+    COLOR: #ffffff;
+    LINE-HEIGHT: 150%;
+    MARGIN-TOP: 0px;
+    MARGIN-LEFT: 0px;
+    MARGIN-RIGHT: 0px;
+}
+BODY.nomargin
+{
+    FONT-FAMILY: "宋体";
+    FONT-SIZE: 9pt;
+    COLOR: #000000;
+    LINE-HEIGHT: 150%;
+    MARGIN-TOP: 0px;
+    MARGIN-LEFT: 0px;
+    MARGIN-RIGHT: 0px;
+}
+DIV
+{
+    FONT-FAMILY: 宋体;
+    FONT-SIZE: 9pt;
+    LINE-HEIGHT: 150%
+}
+
+P.title
+{
+    FONT-FAMILY: 宋体;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold
+}
+
+P
+{
+    FONT-FAMILY: 宋体;
+    FONT-SIZE: 9pt;
+    LINE-HEIGHT: 150%
+}
+
+CAPTION
+{
+    FONT-FAMILY: 宋体;
+    FONT-SIZE: 9pt;
+    LINE-HEIGHT: 150%
+}
+
+FORM
+{
+    FONT-FAMILY: 宋体;
+    FONT-SIZE: 9pt;
+    LINE-HEIGHT: 150%
+}
+
+UL
+{
+    FONT-FAMILY: 宋体;
+    FONT-SIZE: 9pt;
+    LINE-HEIGHT: 150%
+}
+
+
+table
+{
+    font-size: 9pt;
+    line-height: 150%;
+    border:#a2b5c5 1px solid;
+    text-align:center;
+    
+}
+
+
+td.title
+{
+	height:15;
+	text-align:center;
+    font-family: 宋体;
+    font-weight:bold;
+    font-size: 14pt;
+    background: #e5f3f4;
+    border-bottom: #a2b5c6 1px solid;
+    border-top: white 1px solid;
+    color: #2d6b9c;
+    line-height: 150%
+  
+}
+
+
+.gvheader
+{
+	height:34px;
+	background-image:url(/images//images/gvHeadbg.gif);	
+	color:#306b97;
+	font-weight:normal;
+}
+
+.gvbottom
+{	
+	background-image:url(/images//images/gvFootbg.gif);	
+}
+ 
+
+.unwatermark
+{
+	font-size:9pt;
+	padding:1px 0 1px 1px;
+	font-weight:lighter;
+	color:#696969;
+}
+.watermark
+{
+	font-size:9pt;
+	padding:1px 0 1px 1px;
+	background-color:#f0f8ff;
+	font-weight:lighter;
+	color:#696969;
+}

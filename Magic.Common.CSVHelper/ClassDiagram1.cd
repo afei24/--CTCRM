@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Interface Name="Magic.Common.CSVHelper.ICSVHelper">
+    <Position X="3.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>ICSVHelper.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Magic.Common.CSVHelper.IEntityObject" Collapsed="true">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAgAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICSVHelper.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

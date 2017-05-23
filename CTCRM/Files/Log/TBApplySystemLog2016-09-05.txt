@@ -1,0 +1,827 @@
+
+===================================
+时间:           2016/9/5 11:08:08
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 11:11:49
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 11:13:42
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 11:14:34
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 11:16:16
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 11:16:36
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 11:16:48
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 11:16:49
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 11:16:50
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 11:16:51
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 11:16:52
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 11:16:52
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 11:18:55
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 11:19:03
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 11:19:49
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 13:30:42
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:20:09
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:20:26
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:21:41
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:21:58
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:23:54
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:24:35
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:25:53
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:27:15
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:29:14
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:30:03
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:30:24
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:30:28
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:30:43
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:30:54
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:31:22
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:31:49
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:32:50
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:32:56
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:33:27
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:33:59
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:34:20
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:35:21
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:35:22
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:36:40
+错误号:         1000
+标题:           远程服务器返回错误: (400) 错误的请求。
+内容:           远程服务器返回错误: (400) 错误的请求。
+CTCRM.Components
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(Byte[] data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 106
+   在 CTCRM.Components.TopCRM.TBManager.PostDataToUrl(String data, String url) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 59
+   在 CTCRM.Components.TopCRM.TBManager.WriteUserInfoToCookies() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 148
+   在 CTCRM.Components.SellersBLL.CheckSeller() 位置 d:\代码\CTCRM-Source\CTCRM.Components\SellersBLL.cs:行号 24
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 28
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:43:33
+错误号:         1000
+标题:           超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+内容:           超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+System.Data
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:43:35
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:43:35
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:43:35
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:43:35
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:43:35
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 14:43:35
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 16:13:23
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 16:13:37
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 16:13:37
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/5 16:13:37
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================

@@ -1,0 +1,2150 @@
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\kim-luo\主动通知\主动通知\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\kim-luo\主动通知\主动通知\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\kim-luo\主动通知\主动通知\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\kim-luo\主动通知\主动通知\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\kim-luo\主动通知\主动通知\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\kim-luo\主动通知\主动通知\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\kim-luo\主动通知\主动通知\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知\主动通知\主动通知\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知\主动通知\主动通知\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知\主动通知\主动通知\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知\主动通知\主动通知\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知\主动通知\主动通知\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知\主动通知\主动通知\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知\主动通知\主动通知\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知\主动通知\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知\主动通知\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知\主动通知\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知\主动通知\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知\主动通知\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知\主动通知\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知\主动通知\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0904\主动通知-0904\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0904\主动通知-0904\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0904\主动通知-0904\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0904\主动通知-0904\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0904\主动通知-0904\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0904\主动通知-0904\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0904\主动通知-0904\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0904\主动通知-0904\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0904\主动通知-0904\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0904\主动通知-0904\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0904\主动通知-0904\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0904\主动通知-0904\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0904\主动通知-0904\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0904\主动通知-0904\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0904\主动通知-0904\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0904\主动通知-0904\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0904\主动通知-0904\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0904\主动通知-0904\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0904\主动通知-0904\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0905\主动通知-0905\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0905\主动通知-0905\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0905\主动通知-0905\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0905\主动通知-0905\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0905\主动通知-0905\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0905\主动通知-0905\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0905\主动通知-0905\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0905\主动通知-0905\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0905\主动通知-0905\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0905\主动通知-0905\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0905\主动通知-0905\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0905\主动通知-0905\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0905\主动通知-0905\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0905\主动通知-0905\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0905\主动通知-0905\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0905\主动通知-0905\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0905\主动通知-0905\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0905\主动通知-0905\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0905\主动通知-0905\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0905\主动通知-0905\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0906\主动通知-0905\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0906\主动通知-0905\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0906\主动通知-0905\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0906\主动通知-0905\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0906\主动通知-0905\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0906\主动通知-0905\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0906\主动通知-0905\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0906\主动通知-0905\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0906\主动通知-0905\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0906\主动通知-0905\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0906\主动通知-0905\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0906\主动通知-0905\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0906\主动通知-0905\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0906\主动通知-0905\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0906\主动通知-0905\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0906\主动通知-0905\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0906\主动通知-0905\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0906\主动通知-0905\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0906\主动通知-0905\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0906\主动通知-0905\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0906\主动通知-0906\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0906\主动通知-0906\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0906\主动通知-0906\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0906\主动通知-0906\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0906\主动通知-0906\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0906\主动通知-0906\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0906\主动通知-0906\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0906\主动通知-0906\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0906\主动通知-0906\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0906\主动通知-0906\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0906\主动通知-0906\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0906\主动通知-0906\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0906\主动通知-0906\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0906\主动通知-0906\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0906\主动通知-0906\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0906\主动通知-0906\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0906\主动通知-0906\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0906\主动通知-0906\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0906\主动通知-0906\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0906\主动通知-0906\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator\桌面\主动通知-0907\主动通知-0906\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\Administrator\桌面\主动通知-0907\主动通知-0906\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator\桌面\主动通知-0907\主动通知-0906\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator\桌面\主动通知-0907\主动通知-0906\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\Administrator\桌面\主动通知-0907\主动通知-0906\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\Administrator\桌面\主动通知-0907\主动通知-0906\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\Administrator\桌面\主动通知-0907\主动通知-0906\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\Administrator\桌面\主动通知-0907\主动通知-0906\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator\桌面\主动通知-0907\主动通知-0906\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\Administrator\桌面\主动通知-0907\主动通知-0906\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\Administrator\桌面\主动通知-0907\主动通知-0906\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\Administrator\桌面\主动通知-0907\主动通知-0906\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\Administrator\桌面\主动通知-0907\主动通知-0906\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\Administrator\桌面\主动通知-0907\主动通知-0906\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\主动通知-0907\主动通知-0906\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\Administrator\桌面\主动通知-0907\主动通知-0906\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\Administrator\桌面\主动通知-0907\主动通知-0906\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\Administrator\桌面\主动通知-0907\主动通知-0906\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\主动通知-0907\主动通知-0906\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator\桌面\主动通知-0907\主动通知-0906\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0907\主动通知-0907\主动通知-0906\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0907\主动通知-0907\主动通知-0906\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0907\主动通知-0907\主动通知-0906\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0907\主动通知-0907\主动通知-0906\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0907\主动通知-0907\主动通知-0906\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0907\主动通知-0907\主动通知-0906\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0907\主动通知-0907\主动通知-0906\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0907\主动通知-0907\主动通知-0906\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0907\主动通知-0907\主动通知-0906\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0907\主动通知-0907\主动通知-0906\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0907\主动通知-0907\主动通知-0906\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0907\主动通知-0907\主动通知-0906\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0907\主动通知-0907\主动通知-0906\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0907\主动通知-0907\主动通知-0906\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0907\主动通知-0907\主动通知-0906\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0907\主动通知-0907\主动通知-0906\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0907\主动通知-0907\主动通知-0906\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0907\主动通知-0907\主动通知-0906\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0907\主动通知-0907\主动通知-0906\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0907\主动通知-0907\主动通知-0906\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0911\主动通知-0911\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0911\主动通知-0911\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0911\主动通知-0911\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0911\主动通知-0911\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0911\主动通知-0911\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0911\主动通知-0911\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0911\主动通知-0911\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0911\主动通知-0911\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0911\主动通知-0911\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0911\主动通知-0911\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0911\主动通知-0911\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0911\主动通知-0911\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0911\主动通知-0911\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0911\主动通知-0911\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0911\主动通知-0911\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0911\主动通知-0911\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0911\主动通知-0911\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0911\主动通知-0911\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0911\主动通知-0911\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知-0911\主动通知-0911\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0911\主动通知-0911\主动通知-0911\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0911\主动通知-0911\主动通知-0911\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0911\主动通知-0911\主动通知-0911\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0911\主动通知-0911\主动通知-0911\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0911\主动通知-0911\主动通知-0911\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0911\主动通知-0911\主动通知-0911\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0911\主动通知-0911\主动通知-0911\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0911\主动通知-0911\主动通知-0911\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0911\主动通知-0911\主动通知-0911\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0911\主动通知-0911\主动通知-0911\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0911\主动通知-0911\主动通知-0911\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0911\主动通知-0911\主动通知-0911\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0911\主动通知-0911\主动通知-0911\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0911\主动通知-0911\主动通知-0911\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0911\主动通知-0911\主动通知-0911\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0911\主动通知-0911\主动通知-0911\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0911\主动通知-0911\主动通知-0911\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0911\主动通知-0911\主动通知-0911\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0911\主动通知-0911\主动通知-0911\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知-0911\主动通知-0911\主动通知-0911\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知(AJAX)-0911\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知(AJAX)-0911\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知(AJAX)-0911\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知(AJAX)-0911\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知(AJAX)-0911\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知(AJAX)-0911\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知(AJAX)-0911\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知(AJAX)-0911\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知(AJAX)-0911\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知(AJAX)-0911\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知(AJAX)-0911\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知(AJAX)-0911\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知(AJAX)-0911\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知(AJAX)-0911\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知(AJAX)-0911\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知(AJAX)-0911\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知(AJAX)-0911\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知(AJAX)-0911\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知(AJAX)-0911\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\主动通知(AJAX)-0911\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0911\主动通知(AJAX)-0911\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0911\主动通知(AJAX)-0911\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0911\主动通知(AJAX)-0911\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0911\主动通知(AJAX)-0911\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0911\主动通知(AJAX)-0911\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0911\主动通知(AJAX)-0911\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0911\主动通知(AJAX)-0911\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0911\主动通知(AJAX)-0911\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0911\主动通知(AJAX)-0911\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0911\主动通知(AJAX)-0911\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0911\主动通知(AJAX)-0911\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0911\主动通知(AJAX)-0911\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0911\主动通知(AJAX)-0911\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0911\主动通知(AJAX)-0911\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0911\主动通知(AJAX)-0911\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0911\主动通知(AJAX)-0911\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0911\主动通知(AJAX)-0911\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0911\主动通知(AJAX)-0911\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0911\主动通知(AJAX)-0911\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0911\主动通知(AJAX)-0911\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0913\主动通知(AJAX)-0913\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0913\主动通知(AJAX)-0913\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0913\主动通知(AJAX)-0913\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0913\主动通知(AJAX)-0913\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0913\主动通知(AJAX)-0913\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0913\主动通知(AJAX)-0913\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0913\主动通知(AJAX)-0913\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0913\主动通知(AJAX)-0913\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0913\主动通知(AJAX)-0913\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0913\主动通知(AJAX)-0913\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0913\主动通知(AJAX)-0913\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0913\主动通知(AJAX)-0913\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0913\主动通知(AJAX)-0913\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0913\主动通知(AJAX)-0913\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0913\主动通知(AJAX)-0913\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0913\主动通知(AJAX)-0913\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0913\主动通知(AJAX)-0913\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0913\主动通知(AJAX)-0913\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0913\主动通知(AJAX)-0913\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0913\主动通知(AJAX)-0913\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0920\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0920\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0920\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0920\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0920\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0920\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0920\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0920\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0920\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0920\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0920\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0920\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0920\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0920\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0920\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0920\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0920\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0920\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0920\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-0920\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0925\主动通知(AJAX)-0925\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0925\主动通知(AJAX)-0925\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0925\主动通知(AJAX)-0925\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0925\主动通知(AJAX)-0925\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0925\主动通知(AJAX)-0925\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0925\主动通知(AJAX)-0925\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0925\主动通知(AJAX)-0925\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0925\主动通知(AJAX)-0925\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0925\主动通知(AJAX)-0925\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0925\主动通知(AJAX)-0925\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0925\主动通知(AJAX)-0925\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0925\主动通知(AJAX)-0925\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0925\主动通知(AJAX)-0925\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0925\主动通知(AJAX)-0925\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0925\主动通知(AJAX)-0925\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0925\主动通知(AJAX)-0925\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0925\主动通知(AJAX)-0925\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0925\主动通知(AJAX)-0925\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0925\主动通知(AJAX)-0925\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0925\主动通知(AJAX)-0925\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0929\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0929\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0929\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0929\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0929\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0929\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0929\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0929\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0929\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0929\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0929\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0929\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0929\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0929\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0929\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0929\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0929\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0929\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0929\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-0929\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\123\桌面\淘宝项目\系统\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1010\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1010\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1010\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1010\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1010\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1010\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1010\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1010\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1010\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1010\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1010\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1010\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1010\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1010\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1010\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1010\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1010\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1010\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1010\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1010\主动通知(AJAX)-1010\主动通知(AJAX)-1010\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1020\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1020\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1020\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1020\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1020\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1020\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1020\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1020\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1020\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1020\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1020\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1020\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1020\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1020\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1020\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1020\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1020\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1020\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1020\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1020\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator\桌面\kim\主动通知(AJAX)-1020\主动通知(AJAX)-1020\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\Administrator\桌面\kim\主动通知(AJAX)-1020\主动通知(AJAX)-1020\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator\桌面\kim\主动通知(AJAX)-1020\主动通知(AJAX)-1020\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator\桌面\kim\主动通知(AJAX)-1020\主动通知(AJAX)-1020\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\Administrator\桌面\kim\主动通知(AJAX)-1020\主动通知(AJAX)-1020\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\Administrator\桌面\kim\主动通知(AJAX)-1020\主动通知(AJAX)-1020\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\Administrator\桌面\kim\主动通知(AJAX)-1020\主动通知(AJAX)-1020\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\Administrator\桌面\kim\主动通知(AJAX)-1020\主动通知(AJAX)-1020\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator\桌面\kim\主动通知(AJAX)-1020\主动通知(AJAX)-1020\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\Administrator\桌面\kim\主动通知(AJAX)-1020\主动通知(AJAX)-1020\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\Administrator\桌面\kim\主动通知(AJAX)-1020\主动通知(AJAX)-1020\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\Administrator\桌面\kim\主动通知(AJAX)-1020\主动通知(AJAX)-1020\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\Administrator\桌面\kim\主动通知(AJAX)-1020\主动通知(AJAX)-1020\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\Administrator\桌面\kim\主动通知(AJAX)-1020\主动通知(AJAX)-1020\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\kim\主动通知(AJAX)-1020\主动通知(AJAX)-1020\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\Administrator\桌面\kim\主动通知(AJAX)-1020\主动通知(AJAX)-1020\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\Administrator\桌面\kim\主动通知(AJAX)-1020\主动通知(AJAX)-1020\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\Administrator\桌面\kim\主动通知(AJAX)-1020\主动通知(AJAX)-1020\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\kim\主动通知(AJAX)-1020\主动通知(AJAX)-1020\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator\桌面\kim\主动通知(AJAX)-1020\主动通知(AJAX)-1020\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1026\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1026\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1026\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1026\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1026\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1026\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1026\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1026\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1026\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1026\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1026\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1026\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1026\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1026\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1026\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1026\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1026\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1026\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1026\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-1026\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-2\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-2\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-2\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-2\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-2\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-2\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-2\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-2\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-2\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-2\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-2\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-2\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-2\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-2\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-2\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-2\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-2\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-2\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-2\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-2\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-10\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-10\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-10\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-10\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-10\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-10\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-10\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-10\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-10\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-10\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-10\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-10\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-10\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-10\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-10\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-10\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-10\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-10\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-10\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-10\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-28\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-28\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-28\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-28\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-28\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-28\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-28\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-28\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-28\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-28\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-28\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-28\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-28\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-28\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-28\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-28\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-28\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-28\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-28\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-28\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-29\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-29\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-29\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-29\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-29\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-29\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-29\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-29\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-29\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-29\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-29\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-29\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-29\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-29\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-29\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-29\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-29\SynTest\bin\Debug\TopSdk.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-29\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-29\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-11-29\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-11-29\主动通知(AJAX)-11-29\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\主动通知(AJAX)-11-29\主动通知(AJAX)-11-29\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-11-29\主动通知(AJAX)-11-29\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\主动通知(AJAX)-11-29\主动通知(AJAX)-11-29\SynTest\bin\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-11-29\主动通知(AJAX)-11-29\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-11-29\主动通知(AJAX)-11-29\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\主动通知(AJAX)-11-29\主动通知(AJAX)-11-29\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\主动通知(AJAX)-11-29\主动通知(AJAX)-11-29\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\主动通知(AJAX)-11-29\主动通知(AJAX)-11-29\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\主动通知(AJAX)-11-29\主动通知(AJAX)-11-29\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\主动通知(AJAX)-11-29\主动通知(AJAX)-11-29\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\主动通知(AJAX)-11-29\主动通知(AJAX)-11-29\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\主动通知(AJAX)-11-29\主动通知(AJAX)-11-29\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\主动通知(AJAX)-11-29\主动通知(AJAX)-11-29\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\主动通知(AJAX)-11-29\主动通知(AJAX)-11-29\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\主动通知(AJAX)-11-29\主动通知(AJAX)-11-29\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\主动通知(AJAX)-11-29\主动通知(AJAX)-11-29\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\主动通知(AJAX)-11-29\主动通知(AJAX)-11-29\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\主动通知(AJAX)-11-29\主动通知(AJAX)-11-29\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-1\主动通知(AJAX)-11-29\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-1\主动通知(AJAX)-11-29\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-1\主动通知(AJAX)-11-29\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-1\主动通知(AJAX)-11-29\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-1\主动通知(AJAX)-11-29\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-1\主动通知(AJAX)-11-29\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-1\主动通知(AJAX)-11-29\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-1\主动通知(AJAX)-11-29\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-1\主动通知(AJAX)-11-29\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-1\主动通知(AJAX)-11-29\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-1\主动通知(AJAX)-11-29\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-1\主动通知(AJAX)-11-29\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-1\主动通知(AJAX)-11-29\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-1\主动通知(AJAX)-11-29\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-1\主动通知(AJAX)-11-29\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-1\主动通知(AJAX)-11-29\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-1\主动通知(AJAX)-11-29\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-1\主动通知(AJAX)-11-29\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-1\主动通知(AJAX)-11-29\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\obj\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-2\主动通知(AJAX)-12-2\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-3\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-3\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-3\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-3\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-3\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-3\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-3\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-3\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-3\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-3\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-3\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-3\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-3\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-3\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-3\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-3\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-3\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-3\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-3\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-12-9\主动通知(AJAX)-12-9\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\主动通知(AJAX)-12-9\主动通知(AJAX)-12-9\SynTest\bin\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-12-9\主动通知(AJAX)-12-9\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-12-9\主动通知(AJAX)-12-9\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\主动通知(AJAX)-12-9\主动通知(AJAX)-12-9\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\主动通知(AJAX)-12-9\主动通知(AJAX)-12-9\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\主动通知(AJAX)-12-9\主动通知(AJAX)-12-9\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\主动通知(AJAX)-12-9\主动通知(AJAX)-12-9\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\主动通知(AJAX)-12-9\主动通知(AJAX)-12-9\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\主动通知(AJAX)-12-9\主动通知(AJAX)-12-9\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\主动通知(AJAX)-12-9\主动通知(AJAX)-12-9\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\主动通知(AJAX)-12-9\主动通知(AJAX)-12-9\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\主动通知(AJAX)-12-9\主动通知(AJAX)-12-9\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\主动通知(AJAX)-12-9\主动通知(AJAX)-12-9\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\主动通知(AJAX)-12-9\主动通知(AJAX)-12-9\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\主动通知(AJAX)-12-9\主动通知(AJAX)-12-9\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\主动通知(AJAX)-12-9\主动通知(AJAX)-12-9\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\主动通知(AJAX)-12-9\主动通知(AJAX)-12-9\SynTest\obj\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-12-9\主动通知(AJAX)-12-9\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-12-12\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\主动通知(AJAX)-12-12\SynTest\bin\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-12-12\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-12-12\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\主动通知(AJAX)-12-12\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\主动通知(AJAX)-12-12\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\主动通知(AJAX)-12-12\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\主动通知(AJAX)-12-12\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\主动通知(AJAX)-12-12\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\主动通知(AJAX)-12-12\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\主动通知(AJAX)-12-12\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\主动通知(AJAX)-12-12\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\主动通知(AJAX)-12-12\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\主动通知(AJAX)-12-12\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\主动通知(AJAX)-12-12\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\主动通知(AJAX)-12-12\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\主动通知(AJAX)-12-12\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\主动通知(AJAX)-12-12\SynTest\obj\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-12-12\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-12-19\主动通知(AJAX)-12-19\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\主动通知(AJAX)-12-19\主动通知(AJAX)-12-19\SynTest\bin\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-12-19\主动通知(AJAX)-12-19\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-12-19\主动通知(AJAX)-12-19\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\主动通知(AJAX)-12-19\主动通知(AJAX)-12-19\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\主动通知(AJAX)-12-19\主动通知(AJAX)-12-19\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\主动通知(AJAX)-12-19\主动通知(AJAX)-12-19\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\主动通知(AJAX)-12-19\主动通知(AJAX)-12-19\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\主动通知(AJAX)-12-19\主动通知(AJAX)-12-19\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\主动通知(AJAX)-12-19\主动通知(AJAX)-12-19\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\主动通知(AJAX)-12-19\主动通知(AJAX)-12-19\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\主动通知(AJAX)-12-19\主动通知(AJAX)-12-19\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\主动通知(AJAX)-12-19\主动通知(AJAX)-12-19\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\主动通知(AJAX)-12-19\主动通知(AJAX)-12-19\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\主动通知(AJAX)-12-19\主动通知(AJAX)-12-19\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\主动通知(AJAX)-12-19\主动通知(AJAX)-12-19\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\主动通知(AJAX)-12-19\主动通知(AJAX)-12-19\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\主动通知(AJAX)-12-19\主动通知(AJAX)-12-19\SynTest\obj\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-12-19\主动通知(AJAX)-12-19\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-12-19\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\主动通知(AJAX)-12-19\SynTest\bin\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-12-19\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-12-19\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\主动通知(AJAX)-12-19\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\主动通知(AJAX)-12-19\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\主动通知(AJAX)-12-19\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\主动通知(AJAX)-12-19\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\主动通知(AJAX)-12-19\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\主动通知(AJAX)-12-19\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\主动通知(AJAX)-12-19\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\主动通知(AJAX)-12-19\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\主动通知(AJAX)-12-19\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\主动通知(AJAX)-12-19\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\主动通知(AJAX)-12-19\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\主动通知(AJAX)-12-19\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\主动通知(AJAX)-12-19\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\主动通知(AJAX)-12-19\SynTest\obj\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-12-19\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-28-最终版本\主动通知(AJAX)-12-28\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-28-最终版本\主动通知(AJAX)-12-28\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-28-最终版本\主动通知(AJAX)-12-28\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-28-最终版本\主动通知(AJAX)-12-28\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-28-最终版本\主动通知(AJAX)-12-28\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-28-最终版本\主动通知(AJAX)-12-28\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-28-最终版本\主动通知(AJAX)-12-28\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-28-最终版本\主动通知(AJAX)-12-28\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-28-最终版本\主动通知(AJAX)-12-28\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-28-最终版本\主动通知(AJAX)-12-28\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-28-最终版本\主动通知(AJAX)-12-28\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-28-最终版本\主动通知(AJAX)-12-28\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-28-最终版本\主动通知(AJAX)-12-28\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-28-最终版本\主动通知(AJAX)-12-28\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-28-最终版本\主动通知(AJAX)-12-28\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-28-最终版本\主动通知(AJAX)-12-28\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-28-最终版本\主动通知(AJAX)-12-28\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-28-最终版本\主动通知(AJAX)-12-28\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator.CHENGTUA-2FD180\桌面\淘宝项目\会员管家\主动通知(AJAX)-12-28-最终版本\主动通知(AJAX)-12-28\SynTest\obj\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-1-6最终版本\主动通知(AJAX)-2013-1-6最终版本\SynTest\bin\Debug\SynTest.exe.config
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-1-6最终版本\主动通知(AJAX)-2013-1-6最终版本\SynTest\bin\Debug\SynTest.exe
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-1-6最终版本\主动通知(AJAX)-2013-1-6最终版本\SynTest\bin\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-1-6最终版本\主动通知(AJAX)-2013-1-6最终版本\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-1-6最终版本\主动通知(AJAX)-2013-1-6最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-1-6最终版本\主动通知(AJAX)-2013-1-6最终版本\SynTest\bin\Debug\CTCRM.Components.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-1-6最终版本\主动通知(AJAX)-2013-1-6最终版本\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-1-6最终版本\主动通知(AJAX)-2013-1-6最终版本\SynTest\bin\Debug\TopSdk.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-1-6最终版本\主动通知(AJAX)-2013-1-6最终版本\SynTest\bin\Debug\CTCRM.Common.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-1-6最终版本\主动通知(AJAX)-2013-1-6最终版本\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-1-6最终版本\主动通知(AJAX)-2013-1-6最终版本\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-1-6最终版本\主动通知(AJAX)-2013-1-6最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-1-6最终版本\主动通知(AJAX)-2013-1-6最终版本\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-1-6最终版本\主动通知(AJAX)-2013-1-6最终版本\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-1-6最终版本\主动通知(AJAX)-2013-1-6最终版本\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-1-6最终版本\主动通知(AJAX)-2013-1-6最终版本\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-1-6最终版本\主动通知(AJAX)-2013-1-6最终版本\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-1-6最终版本\主动通知(AJAX)-2013-1-6最终版本\SynTest\obj\Debug\SynTest.exe
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-1-6最终版本\主动通知(AJAX)-2013-1-6最终版本\SynTest\obj\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-2-27最终版本\主动通知(AJAX)-2013-2-27最终版本\SynTest\bin\Debug\SynTest.exe.config
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-2-27最终版本\主动通知(AJAX)-2013-2-27最终版本\SynTest\obj\Debug\SynTest.exe
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-2-27最终版本\主动通知(AJAX)-2013-2-27最终版本\SynTest\obj\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-2-27最终版本\主动通知(AJAX)-2013-2-27最终版本\SynTest\bin\Debug\SynTest.exe
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-2-27最终版本\主动通知(AJAX)-2013-2-27最终版本\SynTest\bin\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-2-27最终版本\主动通知(AJAX)-2013-2-27最终版本\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-2-27最终版本\主动通知(AJAX)-2013-2-27最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-2-27最终版本\主动通知(AJAX)-2013-2-27最终版本\SynTest\bin\Debug\CTCRM.Components.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-2-27最终版本\主动通知(AJAX)-2013-2-27最终版本\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-2-27最终版本\主动通知(AJAX)-2013-2-27最终版本\SynTest\bin\Debug\TopSdk.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-2-27最终版本\主动通知(AJAX)-2013-2-27最终版本\SynTest\bin\Debug\CTCRM.Common.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-2-27最终版本\主动通知(AJAX)-2013-2-27最终版本\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-2-27最终版本\主动通知(AJAX)-2013-2-27最终版本\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-2-27最终版本\主动通知(AJAX)-2013-2-27最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-2-27最终版本\主动通知(AJAX)-2013-2-27最终版本\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-2-27最终版本\主动通知(AJAX)-2013-2-27最终版本\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-2-27最终版本\主动通知(AJAX)-2013-2-27最终版本\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-2-27最终版本\主动通知(AJAX)-2013-2-27最终版本\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-2-27最终版本\主动通知(AJAX)-2013-2-27最终版本\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\主动通知(AJAX)-2013-3-16最终版本\主动通知(AJAX)-2013-3-16最终版本\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\主动通知(AJAX)-2013-3-16最终版本\主动通知(AJAX)-2013-3-16最终版本\SynTest\bin\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-2013-3-16最终版本\主动通知(AJAX)-2013-3-16最终版本\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-2013-3-16最终版本\主动通知(AJAX)-2013-3-16最终版本\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\主动通知(AJAX)-2013-3-16最终版本\主动通知(AJAX)-2013-3-16最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\主动通知(AJAX)-2013-3-16最终版本\主动通知(AJAX)-2013-3-16最终版本\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\主动通知(AJAX)-2013-3-16最终版本\主动通知(AJAX)-2013-3-16最终版本\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\主动通知(AJAX)-2013-3-16最终版本\主动通知(AJAX)-2013-3-16最终版本\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\主动通知(AJAX)-2013-3-16最终版本\主动通知(AJAX)-2013-3-16最终版本\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\主动通知(AJAX)-2013-3-16最终版本\主动通知(AJAX)-2013-3-16最终版本\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\主动通知(AJAX)-2013-3-16最终版本\主动通知(AJAX)-2013-3-16最终版本\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\主动通知(AJAX)-2013-3-16最终版本\主动通知(AJAX)-2013-3-16最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\主动通知(AJAX)-2013-3-16最终版本\主动通知(AJAX)-2013-3-16最终版本\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\主动通知(AJAX)-2013-3-16最终版本\主动通知(AJAX)-2013-3-16最终版本\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\主动通知(AJAX)-2013-3-16最终版本\主动通知(AJAX)-2013-3-16最终版本\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\主动通知(AJAX)-2013-3-16最终版本\主动通知(AJAX)-2013-3-16最终版本\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\主动通知(AJAX)-2013-3-16最终版本\主动通知(AJAX)-2013-3-16最终版本\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\主动通知(AJAX)-2013-3-16最终版本\主动通知(AJAX)-2013-3-16最终版本\SynTest\obj\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-2013-3-16最终版本\主动通知(AJAX)-2013-3-16最终版本\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-2013-3-27最终版本\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\主动通知(AJAX)-2013-3-27最终版本\SynTest\bin\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-2013-3-27最终版本\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-2013-3-27最终版本\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\主动通知(AJAX)-2013-3-27最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\主动通知(AJAX)-2013-3-27最终版本\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\主动通知(AJAX)-2013-3-27最终版本\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\主动通知(AJAX)-2013-3-27最终版本\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\主动通知(AJAX)-2013-3-27最终版本\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\主动通知(AJAX)-2013-3-27最终版本\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\主动通知(AJAX)-2013-3-27最终版本\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\主动通知(AJAX)-2013-3-27最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\主动通知(AJAX)-2013-3-27最终版本\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\主动通知(AJAX)-2013-3-27最终版本\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\主动通知(AJAX)-2013-3-27最终版本\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\主动通知(AJAX)-2013-3-27最终版本\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\主动通知(AJAX)-2013-3-27最终版本\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\主动通知(AJAX)-2013-3-27最终版本\SynTest\obj\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-2013-3-27最终版本\SynTest\obj\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-3-28最终版本\SynTest\bin\Debug\SynTest.exe.config
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-3-28最终版本\SynTest\bin\Debug\SynTest.exe
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-3-28最终版本\SynTest\bin\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-3-28最终版本\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-3-28最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-3-28最终版本\SynTest\bin\Debug\CTCRM.Components.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-3-28最终版本\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-3-28最终版本\SynTest\bin\Debug\TopSdk.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-3-28最终版本\SynTest\bin\Debug\CTCRM.Common.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-3-28最终版本\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-3-28最终版本\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-3-28最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-3-28最终版本\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-3-28最终版本\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-3-28最终版本\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-3-28最终版本\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-3-28最终版本\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-3-28最终版本\SynTest\obj\Debug\SynTest.exe
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-3-28最终版本\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-2013-4-1最终版本\主动通知(AJAX)-2013-4-1最终版本\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\主动通知(AJAX)-2013-4-1最终版本\主动通知(AJAX)-2013-4-1最终版本\SynTest\bin\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-2013-4-1最终版本\主动通知(AJAX)-2013-4-1最终版本\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-2013-4-1最终版本\主动通知(AJAX)-2013-4-1最终版本\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\主动通知(AJAX)-2013-4-1最终版本\主动通知(AJAX)-2013-4-1最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\主动通知(AJAX)-2013-4-1最终版本\主动通知(AJAX)-2013-4-1最终版本\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\主动通知(AJAX)-2013-4-1最终版本\主动通知(AJAX)-2013-4-1最终版本\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\主动通知(AJAX)-2013-4-1最终版本\主动通知(AJAX)-2013-4-1最终版本\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\主动通知(AJAX)-2013-4-1最终版本\主动通知(AJAX)-2013-4-1最终版本\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\主动通知(AJAX)-2013-4-1最终版本\主动通知(AJAX)-2013-4-1最终版本\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\主动通知(AJAX)-2013-4-1最终版本\主动通知(AJAX)-2013-4-1最终版本\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\主动通知(AJAX)-2013-4-1最终版本\主动通知(AJAX)-2013-4-1最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\主动通知(AJAX)-2013-4-1最终版本\主动通知(AJAX)-2013-4-1最终版本\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\主动通知(AJAX)-2013-4-1最终版本\主动通知(AJAX)-2013-4-1最终版本\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\主动通知(AJAX)-2013-4-1最终版本\主动通知(AJAX)-2013-4-1最终版本\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\主动通知(AJAX)-2013-4-1最终版本\主动通知(AJAX)-2013-4-1最终版本\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\主动通知(AJAX)-2013-4-1最终版本\主动通知(AJAX)-2013-4-1最终版本\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\主动通知(AJAX)-2013-4-1最终版本\主动通知(AJAX)-2013-4-1最终版本\SynTest\obj\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-2013-4-1最终版本\主动通知(AJAX)-2013-4-1最终版本\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-2013-4-8最终版本\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\主动通知(AJAX)-2013-4-8最终版本\SynTest\bin\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-2013-4-8最终版本\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-2013-4-8最终版本\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\主动通知(AJAX)-2013-4-8最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\主动通知(AJAX)-2013-4-8最终版本\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\主动通知(AJAX)-2013-4-8最终版本\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\主动通知(AJAX)-2013-4-8最终版本\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\主动通知(AJAX)-2013-4-8最终版本\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\主动通知(AJAX)-2013-4-8最终版本\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\主动通知(AJAX)-2013-4-8最终版本\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\主动通知(AJAX)-2013-4-8最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\主动通知(AJAX)-2013-4-8最终版本\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\主动通知(AJAX)-2013-4-8最终版本\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\主动通知(AJAX)-2013-4-8最终版本\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\主动通知(AJAX)-2013-4-8最终版本\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\主动通知(AJAX)-2013-4-8最终版本\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\主动通知(AJAX)-2013-4-8最终版本\SynTest\obj\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-2013-4-8最终版本\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-2013-4-10最终版本\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\主动通知(AJAX)-2013-4-10最终版本\SynTest\bin\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-2013-4-10最终版本\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-2013-4-10最终版本\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\主动通知(AJAX)-2013-4-10最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\主动通知(AJAX)-2013-4-10最终版本\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\主动通知(AJAX)-2013-4-10最终版本\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\主动通知(AJAX)-2013-4-10最终版本\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\主动通知(AJAX)-2013-4-10最终版本\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\主动通知(AJAX)-2013-4-10最终版本\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\主动通知(AJAX)-2013-4-10最终版本\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\主动通知(AJAX)-2013-4-10最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\主动通知(AJAX)-2013-4-10最终版本\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\主动通知(AJAX)-2013-4-10最终版本\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\主动通知(AJAX)-2013-4-10最终版本\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\主动通知(AJAX)-2013-4-10最终版本\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\主动通知(AJAX)-2013-4-10最终版本\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\主动通知(AJAX)-2013-4-10最终版本\SynTest\obj\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-2013-4-10最终版本\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\主动通知(AJAX)-2013-4-15最终版本\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\主动通知(AJAX)-2013-4-15最终版本\SynTest\obj\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-2013-4-15最终版本\SynTest\obj\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\SynTest.exe.config
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\SynTest.exe
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\CTCRM.Components.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\TopSdk.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\CTCRM.Common.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-15最终版本\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-15最终版本\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-15最终版本\SynTest\obj\Debug\SynTest.exe
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-15最终版本\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-2013-4-16最终版本\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\主动通知(AJAX)-2013-4-16最终版本\SynTest\bin\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-2013-4-16最终版本\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-2013-4-16最终版本\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\主动通知(AJAX)-2013-4-16最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\主动通知(AJAX)-2013-4-16最终版本\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\主动通知(AJAX)-2013-4-16最终版本\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\主动通知(AJAX)-2013-4-16最终版本\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\主动通知(AJAX)-2013-4-16最终版本\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\主动通知(AJAX)-2013-4-16最终版本\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\主动通知(AJAX)-2013-4-16最终版本\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\主动通知(AJAX)-2013-4-16最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\主动通知(AJAX)-2013-4-16最终版本\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\主动通知(AJAX)-2013-4-16最终版本\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\主动通知(AJAX)-2013-4-16最终版本\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\主动通知(AJAX)-2013-4-16最终版本\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\主动通知(AJAX)-2013-4-16最终版本\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\主动通知(AJAX)-2013-4-16最终版本\SynTest\obj\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-2013-4-16最终版本\SynTest\obj\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\SynTest.exe.config
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\SynTest.exe
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\CTCRM.Components.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\TopSdk.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\CTCRM.Common.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-17最终版本\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-17最终版本\SynTest\obj\Debug\SynTest.exe
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-17最终版本\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\主动通知(AJAX)-2013-4-17最终版本\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\主动通知(AJAX)-2013-4-17最终版本\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\主动通知(AJAX)-2013-4-17最终版本\SynTest\obj\Debug\SynTest.exe
+F:\CRM\主动通知(AJAX)-2013-4-17最终版本\SynTest\obj\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-18最终版本\SynTest\bin\Debug\SynTest.exe.config
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-18最终版本\SynTest\bin\Debug\SynTest.exe
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-18最终版本\SynTest\bin\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-18最终版本\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-18最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-18最终版本\SynTest\bin\Debug\CTCRM.Components.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-18最终版本\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-18最终版本\SynTest\bin\Debug\TopSdk.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-18最终版本\SynTest\bin\Debug\CTCRM.Common.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-18最终版本\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-18最终版本\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-18最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-18最终版本\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-18最终版本\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-18最终版本\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-18最终版本\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-18最终版本\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-18最终版本\SynTest\obj\Debug\SynTest.exe
+F:\淘宝项目\会员管家\主动通知(AJAX)-2013-4-18最终版本\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-21最终版本\主动通知(AJAX)-2013-4-21最终版本\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-21最终版本\主动通知(AJAX)-2013-4-21最终版本\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-21最终版本\主动通知(AJAX)-2013-4-21最终版本\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-21最终版本\主动通知(AJAX)-2013-4-21最终版本\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-21最终版本\主动通知(AJAX)-2013-4-21最终版本\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-21最终版本\主动通知(AJAX)-2013-4-21最终版本\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-21最终版本\主动通知(AJAX)-2013-4-21最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-21最终版本\主动通知(AJAX)-2013-4-21最终版本\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-21最终版本\主动通知(AJAX)-2013-4-21最终版本\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-21最终版本\主动通知(AJAX)-2013-4-21最终版本\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-21最终版本\主动通知(AJAX)-2013-4-21最终版本\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-21最终版本\主动通知(AJAX)-2013-4-21最终版本\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-21最终版本\主动通知(AJAX)-2013-4-21最终版本\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-21最终版本\主动通知(AJAX)-2013-4-21最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-21最终版本\主动通知(AJAX)-2013-4-21最终版本\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-21最终版本\主动通知(AJAX)-2013-4-21最终版本\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-21最终版本\主动通知(AJAX)-2013-4-21最终版本\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-21最终版本\主动通知(AJAX)-2013-4-21最终版本\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-21最终版本\主动通知(AJAX)-2013-4-21最终版本\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-25最终版本\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-25最终版本\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-25最终版本\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-25最终版本\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-25最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-25最终版本\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-25最终版本\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-25最终版本\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-25最终版本\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-25最终版本\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-25最终版本\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-25最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-25最终版本\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-25最终版本\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-25最终版本\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-25最终版本\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-25最终版本\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-25最终版本\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-25最终版本\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\Administrator\桌面\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\obj\Debug\SynTest.pdb
+D:\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\SynTest.exe.config
+D:\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\SynTest.exe
+D:\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\SynTest.pdb
+D:\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\CHENGTUAN.Components.dll
+D:\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+D:\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\CTCRM.Components.dll
+D:\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\CTCRM.Entity.dll
+D:\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\TopSdk.dll
+D:\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\CTCRM.Common.dll
+D:\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\CTCRM.DAL.dll
+D:\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\CTCRM.Entity.pdb
+D:\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+D:\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\CTCRM.Common.pdb
+D:\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\CTCRM.DAL.pdb
+D:\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\CTCRM.Components.pdb
+D:\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+D:\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\obj\Debug\ResolveAssemblyReference.cache
+D:\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\obj\Debug\SynTest.exe
+D:\大力店长\主动通知(AJAX)-2013-4-26最终版本\SynTest\obj\Debug\SynTest.pdb
+D:\CRM\CRM-2013-4-27\SynTest\bin\Debug\SynTest.exe.config
+D:\CRM\CRM-2013-4-27\SynTest\bin\Debug\SynTest.exe
+D:\CRM\CRM-2013-4-27\SynTest\bin\Debug\SynTest.pdb
+D:\CRM\CRM-2013-4-27\SynTest\bin\Debug\CHENGTUAN.Components.dll
+D:\CRM\CRM-2013-4-27\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+D:\CRM\CRM-2013-4-27\SynTest\bin\Debug\CTCRM.Components.dll
+D:\CRM\CRM-2013-4-27\SynTest\bin\Debug\CTCRM.Entity.dll
+D:\CRM\CRM-2013-4-27\SynTest\bin\Debug\TopSdk.dll
+D:\CRM\CRM-2013-4-27\SynTest\bin\Debug\CTCRM.Common.dll
+D:\CRM\CRM-2013-4-27\SynTest\bin\Debug\CTCRM.DAL.dll
+D:\CRM\CRM-2013-4-27\SynTest\bin\Debug\CTCRM.Entity.pdb
+D:\CRM\CRM-2013-4-27\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+D:\CRM\CRM-2013-4-27\SynTest\bin\Debug\CTCRM.Common.pdb
+D:\CRM\CRM-2013-4-27\SynTest\bin\Debug\CTCRM.DAL.pdb
+D:\CRM\CRM-2013-4-27\SynTest\bin\Debug\CTCRM.Components.pdb
+D:\CRM\CRM-2013-4-27\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+D:\CRM\CRM-2013-4-27\SynTest\obj\Debug\ResolveAssemblyReference.cache
+D:\CRM\CRM-2013-4-27\SynTest\obj\Debug\SynTest.exe
+D:\CRM\CRM-2013-4-27\SynTest\obj\Debug\SynTest.pdb
+D:\CRM\CRM-2013-4-28\SynTest\bin\Debug\SynTest.exe.config
+D:\CRM\CRM-2013-4-28\SynTest\bin\Debug\SynTest.exe
+D:\CRM\CRM-2013-4-28\SynTest\bin\Debug\SynTest.pdb
+D:\CRM\CRM-2013-4-28\SynTest\bin\Debug\CHENGTUAN.Components.dll
+D:\CRM\CRM-2013-4-28\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+D:\CRM\CRM-2013-4-28\SynTest\bin\Debug\CTCRM.Components.dll
+D:\CRM\CRM-2013-4-28\SynTest\bin\Debug\CTCRM.Entity.dll
+D:\CRM\CRM-2013-4-28\SynTest\bin\Debug\TopSdk.dll
+D:\CRM\CRM-2013-4-28\SynTest\bin\Debug\CTCRM.Common.dll
+D:\CRM\CRM-2013-4-28\SynTest\bin\Debug\CTCRM.DAL.dll
+D:\CRM\CRM-2013-4-28\SynTest\bin\Debug\CTCRM.Entity.pdb
+D:\CRM\CRM-2013-4-28\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+D:\CRM\CRM-2013-4-28\SynTest\bin\Debug\CTCRM.Common.pdb
+D:\CRM\CRM-2013-4-28\SynTest\bin\Debug\CTCRM.DAL.pdb
+D:\CRM\CRM-2013-4-28\SynTest\bin\Debug\CTCRM.Components.pdb
+D:\CRM\CRM-2013-4-28\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+D:\CRM\CRM-2013-4-28\SynTest\obj\Debug\ResolveAssemblyReference.cache
+D:\CRM\CRM-2013-4-28\SynTest\obj\Debug\SynTest.exe
+D:\CRM\CRM-2013-4-28\SynTest\obj\Debug\SynTest.pdb
+D:\CRM\CRM-2013-5-1\SynTest\bin\Debug\SynTest.exe.config
+D:\CRM\CRM-2013-5-1\SynTest\bin\Debug\SynTest.exe
+D:\CRM\CRM-2013-5-1\SynTest\bin\Debug\SynTest.pdb
+D:\CRM\CRM-2013-5-1\SynTest\bin\Debug\CHENGTUAN.Components.dll
+D:\CRM\CRM-2013-5-1\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+D:\CRM\CRM-2013-5-1\SynTest\bin\Debug\CTCRM.Components.dll
+D:\CRM\CRM-2013-5-1\SynTest\bin\Debug\CTCRM.Entity.dll
+D:\CRM\CRM-2013-5-1\SynTest\bin\Debug\TopSdk.dll
+D:\CRM\CRM-2013-5-1\SynTest\bin\Debug\CTCRM.Common.dll
+D:\CRM\CRM-2013-5-1\SynTest\bin\Debug\CTCRM.DAL.dll
+D:\CRM\CRM-2013-5-1\SynTest\bin\Debug\CTCRM.Entity.pdb
+D:\CRM\CRM-2013-5-1\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+D:\CRM\CRM-2013-5-1\SynTest\bin\Debug\CTCRM.Common.pdb
+D:\CRM\CRM-2013-5-1\SynTest\bin\Debug\CTCRM.DAL.pdb
+D:\CRM\CRM-2013-5-1\SynTest\bin\Debug\CTCRM.Components.pdb
+D:\CRM\CRM-2013-5-1\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+D:\CRM\CRM-2013-5-1\SynTest\obj\Debug\ResolveAssemblyReference.cache
+D:\CRM\CRM-2013-5-1\SynTest\obj\Debug\SynTest.exe
+D:\CRM\CRM-2013-5-1\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-1\CRM-2013-5-1\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\CRM-2013-5-1\CRM-2013-5-1\SynTest\bin\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-1\CRM-2013-5-1\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-1\CRM-2013-5-1\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\CRM-2013-5-1\CRM-2013-5-1\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\CRM-2013-5-1\CRM-2013-5-1\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\CRM-2013-5-1\CRM-2013-5-1\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\CRM-2013-5-1\CRM-2013-5-1\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\CRM-2013-5-1\CRM-2013-5-1\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\CRM-2013-5-1\CRM-2013-5-1\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\CRM-2013-5-1\CRM-2013-5-1\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\CRM-2013-5-1\CRM-2013-5-1\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\CRM-2013-5-1\CRM-2013-5-1\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\CRM-2013-5-1\CRM-2013-5-1\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\CRM-2013-5-1\CRM-2013-5-1\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\CRM-2013-5-1\CRM-2013-5-1\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\CRM-2013-5-1\CRM-2013-5-1\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\CRM-2013-5-1\CRM-2013-5-1\SynTest\obj\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-1\CRM-2013-5-1\SynTest\obj\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-2\CRM-2013-5-2\SynTest\bin\Debug\SynTest.exe.config
+F:\淘宝项目\会员管家\CRM-2013-5-2\CRM-2013-5-2\SynTest\bin\Debug\SynTest.exe
+F:\淘宝项目\会员管家\CRM-2013-5-2\CRM-2013-5-2\SynTest\bin\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-2\CRM-2013-5-2\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\淘宝项目\会员管家\CRM-2013-5-2\CRM-2013-5-2\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\淘宝项目\会员管家\CRM-2013-5-2\CRM-2013-5-2\SynTest\bin\Debug\CTCRM.Components.dll
+F:\淘宝项目\会员管家\CRM-2013-5-2\CRM-2013-5-2\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\淘宝项目\会员管家\CRM-2013-5-2\CRM-2013-5-2\SynTest\bin\Debug\TopSdk.dll
+F:\淘宝项目\会员管家\CRM-2013-5-2\CRM-2013-5-2\SynTest\bin\Debug\CTCRM.Common.dll
+F:\淘宝项目\会员管家\CRM-2013-5-2\CRM-2013-5-2\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\淘宝项目\会员管家\CRM-2013-5-2\CRM-2013-5-2\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-2\CRM-2013-5-2\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-2\CRM-2013-5-2\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-2\CRM-2013-5-2\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-2\CRM-2013-5-2\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-2\CRM-2013-5-2\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-2\CRM-2013-5-2\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\淘宝项目\会员管家\CRM-2013-5-2\CRM-2013-5-2\SynTest\obj\Debug\SynTest.exe
+F:\淘宝项目\会员管家\CRM-2013-5-2\CRM-2013-5-2\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-5\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\CRM-2013-5-5\SynTest\bin\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-5\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-5\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\CRM-2013-5-5\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\CRM-2013-5-5\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\CRM-2013-5-5\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\CRM-2013-5-5\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\CRM-2013-5-5\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\CRM-2013-5-5\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\CRM-2013-5-5\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\CRM-2013-5-5\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\CRM-2013-5-5\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\CRM-2013-5-5\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\CRM-2013-5-5\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\CRM-2013-5-5\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\CRM-2013-5-5\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\CRM-2013-5-5\SynTest\obj\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-5\SynTest\obj\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-6\SynTest\bin\Debug\SynTest.exe.config
+F:\淘宝项目\会员管家\CRM-2013-5-6\SynTest\bin\Debug\SynTest.exe
+F:\淘宝项目\会员管家\CRM-2013-5-6\SynTest\bin\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-6\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\淘宝项目\会员管家\CRM-2013-5-6\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\淘宝项目\会员管家\CRM-2013-5-6\SynTest\bin\Debug\CTCRM.Components.dll
+F:\淘宝项目\会员管家\CRM-2013-5-6\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\淘宝项目\会员管家\CRM-2013-5-6\SynTest\bin\Debug\TopSdk.dll
+F:\淘宝项目\会员管家\CRM-2013-5-6\SynTest\bin\Debug\CTCRM.Common.dll
+F:\淘宝项目\会员管家\CRM-2013-5-6\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\淘宝项目\会员管家\CRM-2013-5-6\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-6\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-6\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-6\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-6\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-6\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-6\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\淘宝项目\会员管家\CRM-2013-5-6\SynTest\obj\Debug\SynTest.exe
+F:\淘宝项目\会员管家\CRM-2013-5-6\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-6(最终版)\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\CRM-2013-5-6(最终版)\SynTest\bin\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-6(最终版)\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-6(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\CRM-2013-5-6(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\CRM-2013-5-6(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\CRM-2013-5-6(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\CRM-2013-5-6(最终版)\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\CRM-2013-5-6(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\CRM-2013-5-6(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\CRM-2013-5-6(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\CRM-2013-5-6(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\CRM-2013-5-6(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\CRM-2013-5-6(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\CRM-2013-5-6(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\CRM-2013-5-6(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\CRM-2013-5-6(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\CRM-2013-5-6(最终版)\SynTest\obj\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-6(最终版)\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-7(最终版)\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\CRM-2013-5-7(最终版)\SynTest\bin\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-7(最终版)\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-7(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\CRM-2013-5-7(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\CRM-2013-5-7(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\CRM-2013-5-7(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\CRM-2013-5-7(最终版)\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\CRM-2013-5-7(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\CRM-2013-5-7(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\CRM-2013-5-7(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\CRM-2013-5-7(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\CRM-2013-5-7(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\CRM-2013-5-7(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\CRM-2013-5-7(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\CRM-2013-5-7(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\CRM-2013-5-7(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\CRM-2013-5-7(最终版)\SynTest\obj\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-7(最终版)\SynTest\obj\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-8(最终版)\SynTest\bin\Debug\SynTest.exe.config
+F:\淘宝项目\会员管家\CRM-2013-5-8(最终版)\SynTest\bin\Debug\SynTest.exe
+F:\淘宝项目\会员管家\CRM-2013-5-8(最终版)\SynTest\bin\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-8(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\淘宝项目\会员管家\CRM-2013-5-8(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\淘宝项目\会员管家\CRM-2013-5-8(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+F:\淘宝项目\会员管家\CRM-2013-5-8(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\淘宝项目\会员管家\CRM-2013-5-8(最终版)\SynTest\bin\Debug\TopSdk.dll
+F:\淘宝项目\会员管家\CRM-2013-5-8(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+F:\淘宝项目\会员管家\CRM-2013-5-8(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\淘宝项目\会员管家\CRM-2013-5-8(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-8(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-8(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-8(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-8(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-8(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-8(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\淘宝项目\会员管家\CRM-2013-5-8(最终版)\SynTest\obj\Debug\SynTest.exe
+F:\淘宝项目\会员管家\CRM-2013-5-8(最终版)\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-8(最终版)\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\CRM-2013-5-8(最终版)\SynTest\bin\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-8(最终版)\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-8(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\CRM-2013-5-8(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\CRM-2013-5-8(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\CRM-2013-5-8(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\CRM-2013-5-8(最终版)\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\CRM-2013-5-8(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\CRM-2013-5-8(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\CRM-2013-5-8(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\CRM-2013-5-8(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\CRM-2013-5-8(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\CRM-2013-5-8(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\CRM-2013-5-8(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\CRM-2013-5-8(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\CRM-2013-5-8(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\CRM-2013-5-8(最终版)\SynTest\obj\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-8(最终版)\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-9(最终版)\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\CRM-2013-5-9(最终版)\SynTest\bin\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-9(最终版)\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-9(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\CRM-2013-5-9(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\CRM-2013-5-9(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\CRM-2013-5-9(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\CRM-2013-5-9(最终版)\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\CRM-2013-5-9(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\CRM-2013-5-9(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\CRM-2013-5-9(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\CRM-2013-5-9(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\CRM-2013-5-9(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\CRM-2013-5-9(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\CRM-2013-5-9(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\CRM-2013-5-9(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\CRM-2013-5-9(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\CRM-2013-5-9(最终版)\SynTest\obj\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-9(最终版)\SynTest\obj\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-9(最终版)\SynTest\bin\Debug\SynTest.exe.config
+F:\淘宝项目\会员管家\CRM-2013-5-9(最终版)\SynTest\bin\Debug\SynTest.exe
+F:\淘宝项目\会员管家\CRM-2013-5-9(最终版)\SynTest\bin\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-9(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\淘宝项目\会员管家\CRM-2013-5-9(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\淘宝项目\会员管家\CRM-2013-5-9(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+F:\淘宝项目\会员管家\CRM-2013-5-9(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\淘宝项目\会员管家\CRM-2013-5-9(最终版)\SynTest\bin\Debug\TopSdk.dll
+F:\淘宝项目\会员管家\CRM-2013-5-9(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+F:\淘宝项目\会员管家\CRM-2013-5-9(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\淘宝项目\会员管家\CRM-2013-5-9(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-9(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-9(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-9(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-9(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-9(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-9(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\淘宝项目\会员管家\CRM-2013-5-9(最终版)\SynTest\obj\Debug\SynTest.exe
+F:\淘宝项目\会员管家\CRM-2013-5-9(最终版)\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-12(最终版)\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\CRM-2013-5-12(最终版)\SynTest\bin\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-12(最终版)\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-12(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\CRM-2013-5-12(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\CRM-2013-5-12(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\CRM-2013-5-12(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\CRM-2013-5-12(最终版)\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\CRM-2013-5-12(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\CRM-2013-5-12(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\CRM-2013-5-12(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\CRM-2013-5-12(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\CRM-2013-5-12(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\CRM-2013-5-12(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\CRM-2013-5-12(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\CRM-2013-5-12(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\CRM-2013-5-12(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\CRM-2013-5-12(最终版)\SynTest\obj\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-12(最终版)\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-13(最终版)\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\CRM-2013-5-13(最终版)\SynTest\bin\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-13(最终版)\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-13(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\CRM-2013-5-13(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\CRM-2013-5-13(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\CRM-2013-5-13(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\CRM-2013-5-13(最终版)\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\CRM-2013-5-13(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\CRM-2013-5-13(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\CRM-2013-5-13(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\CRM-2013-5-13(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\CRM-2013-5-13(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\CRM-2013-5-13(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\CRM-2013-5-13(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\CRM-2013-5-13(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\CRM-2013-5-13(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\CRM-2013-5-13(最终版)\SynTest\obj\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-13(最终版)\SynTest\obj\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-14(最终版)\SynTest\bin\Debug\SynTest.exe.config
+F:\淘宝项目\会员管家\CRM-2013-5-14(最终版)\SynTest\bin\Debug\SynTest.exe
+F:\淘宝项目\会员管家\CRM-2013-5-14(最终版)\SynTest\bin\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-14(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\淘宝项目\会员管家\CRM-2013-5-14(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\淘宝项目\会员管家\CRM-2013-5-14(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+F:\淘宝项目\会员管家\CRM-2013-5-14(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\淘宝项目\会员管家\CRM-2013-5-14(最终版)\SynTest\bin\Debug\TopSdk.dll
+F:\淘宝项目\会员管家\CRM-2013-5-14(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+F:\淘宝项目\会员管家\CRM-2013-5-14(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\淘宝项目\会员管家\CRM-2013-5-14(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-14(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-14(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-14(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-14(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-14(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-14(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\淘宝项目\会员管家\CRM-2013-5-14(最终版)\SynTest\obj\Debug\SynTest.exe
+F:\淘宝项目\会员管家\CRM-2013-5-14(最终版)\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-15(最终版)\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\CRM-2013-5-15(最终版)\SynTest\bin\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-15(最终版)\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-15(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\CRM-2013-5-15(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\CRM-2013-5-15(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\CRM-2013-5-15(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\CRM-2013-5-15(最终版)\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\CRM-2013-5-15(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\CRM-2013-5-15(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\CRM-2013-5-15(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\CRM-2013-5-15(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\CRM-2013-5-15(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\CRM-2013-5-15(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\CRM-2013-5-15(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\CRM-2013-5-15(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\CRM-2013-5-15(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\CRM-2013-5-15(最终版)\SynTest\obj\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-15(最终版)\SynTest\obj\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-15(最终版)\SynTest\bin\Debug\SynTest.exe.config
+F:\淘宝项目\会员管家\CRM-2013-5-15(最终版)\SynTest\bin\Debug\SynTest.exe
+F:\淘宝项目\会员管家\CRM-2013-5-15(最终版)\SynTest\bin\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-15(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\淘宝项目\会员管家\CRM-2013-5-15(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\淘宝项目\会员管家\CRM-2013-5-15(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+F:\淘宝项目\会员管家\CRM-2013-5-15(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\淘宝项目\会员管家\CRM-2013-5-15(最终版)\SynTest\bin\Debug\TopSdk.dll
+F:\淘宝项目\会员管家\CRM-2013-5-15(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+F:\淘宝项目\会员管家\CRM-2013-5-15(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\淘宝项目\会员管家\CRM-2013-5-15(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-15(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-15(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-15(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-15(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-15(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-15(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\淘宝项目\会员管家\CRM-2013-5-15(最终版)\SynTest\obj\Debug\SynTest.exe
+F:\淘宝项目\会员管家\CRM-2013-5-15(最终版)\SynTest\obj\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-18(最终版)\SynTest\bin\Debug\SynTest.exe.config
+F:\淘宝项目\会员管家\CRM-2013-5-18(最终版)\SynTest\bin\Debug\SynTest.exe
+F:\淘宝项目\会员管家\CRM-2013-5-18(最终版)\SynTest\bin\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-18(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\淘宝项目\会员管家\CRM-2013-5-18(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\淘宝项目\会员管家\CRM-2013-5-18(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+F:\淘宝项目\会员管家\CRM-2013-5-18(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\淘宝项目\会员管家\CRM-2013-5-18(最终版)\SynTest\bin\Debug\TopSdk.dll
+F:\淘宝项目\会员管家\CRM-2013-5-18(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+F:\淘宝项目\会员管家\CRM-2013-5-18(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\淘宝项目\会员管家\CRM-2013-5-18(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-18(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-18(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-18(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-18(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-18(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-18(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\淘宝项目\会员管家\CRM-2013-5-18(最终版)\SynTest\obj\Debug\SynTest.exe
+F:\淘宝项目\会员管家\CRM-2013-5-18(最终版)\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-20(最终版)\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\CRM-2013-5-20(最终版)\SynTest\bin\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-20(最终版)\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-20(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\CRM-2013-5-20(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\CRM-2013-5-20(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\CRM-2013-5-20(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\CRM-2013-5-20(最终版)\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\CRM-2013-5-20(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\CRM-2013-5-20(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\CRM-2013-5-20(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\CRM-2013-5-20(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\CRM-2013-5-20(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\CRM-2013-5-20(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\CRM-2013-5-20(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\CRM-2013-5-20(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\CRM-2013-5-20(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\CRM-2013-5-20(最终版)\SynTest\obj\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-20(最终版)\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-21(最终版)\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\CRM-2013-5-21(最终版)\SynTest\bin\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-21(最终版)\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-21(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\CRM-2013-5-21(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\CRM-2013-5-21(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\CRM-2013-5-21(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\CRM-2013-5-21(最终版)\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\CRM-2013-5-21(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\CRM-2013-5-21(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\CRM-2013-5-21(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\CRM-2013-5-21(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\CRM-2013-5-21(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\CRM-2013-5-21(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\CRM-2013-5-21(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\CRM-2013-5-21(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\CRM-2013-5-21(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\CRM-2013-5-21(最终版)\SynTest\obj\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-21(最终版)\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-22(最终版)\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\CRM-2013-5-22(最终版)\SynTest\bin\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-22(最终版)\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-22(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\CRM-2013-5-22(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\CRM-2013-5-22(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\CRM-2013-5-22(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\CRM-2013-5-22(最终版)\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\CRM-2013-5-22(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\CRM-2013-5-22(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\CRM-2013-5-22(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\CRM-2013-5-22(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\CRM-2013-5-22(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\CRM-2013-5-22(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\CRM-2013-5-22(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\CRM-2013-5-22(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\CRM-2013-5-22(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\CRM-2013-5-22(最终版)\SynTest\obj\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-22(最终版)\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-24(最终版)\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\CRM-2013-5-24(最终版)\SynTest\bin\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-24(最终版)\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-24(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\CRM-2013-5-24(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\CRM-2013-5-24(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\CRM-2013-5-24(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\CRM-2013-5-24(最终版)\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\CRM-2013-5-24(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\CRM-2013-5-24(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\CRM-2013-5-24(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\CRM-2013-5-24(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\CRM-2013-5-24(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\CRM-2013-5-24(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\CRM-2013-5-24(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\CRM-2013-5-24(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\CRM-2013-5-24(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\CRM-2013-5-24(最终版)\SynTest\obj\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-24(最终版)\SynTest\obj\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-24(最终版)\SynTest\bin\Debug\SynTest.exe.config
+F:\淘宝项目\会员管家\CRM-2013-5-24(最终版)\SynTest\bin\Debug\SynTest.exe
+F:\淘宝项目\会员管家\CRM-2013-5-24(最终版)\SynTest\bin\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-24(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\淘宝项目\会员管家\CRM-2013-5-24(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\淘宝项目\会员管家\CRM-2013-5-24(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+F:\淘宝项目\会员管家\CRM-2013-5-24(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\淘宝项目\会员管家\CRM-2013-5-24(最终版)\SynTest\bin\Debug\TopSdk.dll
+F:\淘宝项目\会员管家\CRM-2013-5-24(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+F:\淘宝项目\会员管家\CRM-2013-5-24(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\淘宝项目\会员管家\CRM-2013-5-24(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-24(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-24(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-24(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-24(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-24(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-24(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\淘宝项目\会员管家\CRM-2013-5-24(最终版)\SynTest\obj\Debug\SynTest.exe
+F:\淘宝项目\会员管家\CRM-2013-5-24(最终版)\SynTest\obj\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-26(最终版)\SynTest\bin\Debug\SynTest.exe.config
+F:\淘宝项目\会员管家\CRM-2013-5-26(最终版)\SynTest\bin\Debug\SynTest.exe
+F:\淘宝项目\会员管家\CRM-2013-5-26(最终版)\SynTest\bin\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-26(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\淘宝项目\会员管家\CRM-2013-5-26(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\淘宝项目\会员管家\CRM-2013-5-26(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+F:\淘宝项目\会员管家\CRM-2013-5-26(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\淘宝项目\会员管家\CRM-2013-5-26(最终版)\SynTest\bin\Debug\TopSdk.dll
+F:\淘宝项目\会员管家\CRM-2013-5-26(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+F:\淘宝项目\会员管家\CRM-2013-5-26(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\淘宝项目\会员管家\CRM-2013-5-26(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-26(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-26(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-26(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-26(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-26(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-26(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\淘宝项目\会员管家\CRM-2013-5-26(最终版)\SynTest\obj\Debug\SynTest.exe
+F:\淘宝项目\会员管家\CRM-2013-5-26(最终版)\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-26(最终版)\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\CRM-2013-5-26(最终版)\SynTest\bin\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-26(最终版)\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-26(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\CRM-2013-5-26(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\CRM-2013-5-26(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\CRM-2013-5-26(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\CRM-2013-5-26(最终版)\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\CRM-2013-5-26(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\CRM-2013-5-26(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\CRM-2013-5-26(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\CRM-2013-5-26(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\CRM-2013-5-26(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\CRM-2013-5-26(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\CRM-2013-5-26(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\CRM-2013-5-26(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\CRM-2013-5-26(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\CRM-2013-5-26(最终版)\SynTest\obj\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-26(最终版)\SynTest\obj\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-27(最终版)\SynTest\bin\Debug\SynTest.exe.config
+F:\淘宝项目\会员管家\CRM-2013-5-27(最终版)\SynTest\bin\Debug\SynTest.exe
+F:\淘宝项目\会员管家\CRM-2013-5-27(最终版)\SynTest\bin\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-27(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\淘宝项目\会员管家\CRM-2013-5-27(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\淘宝项目\会员管家\CRM-2013-5-27(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+F:\淘宝项目\会员管家\CRM-2013-5-27(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\淘宝项目\会员管家\CRM-2013-5-27(最终版)\SynTest\bin\Debug\TopSdk.dll
+F:\淘宝项目\会员管家\CRM-2013-5-27(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+F:\淘宝项目\会员管家\CRM-2013-5-27(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\淘宝项目\会员管家\CRM-2013-5-27(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-27(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-27(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-27(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-27(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-27(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-27(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\淘宝项目\会员管家\CRM-2013-5-27(最终版)\SynTest\obj\Debug\SynTest.exe
+F:\淘宝项目\会员管家\CRM-2013-5-27(最终版)\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-28(最终版)\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\CRM-2013-5-28(最终版)\SynTest\bin\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-28(最终版)\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\CRM-2013-5-28(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\CRM-2013-5-28(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\CRM-2013-5-28(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\CRM-2013-5-28(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\CRM-2013-5-28(最终版)\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\CRM-2013-5-28(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\CRM-2013-5-28(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\CRM-2013-5-28(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\CRM-2013-5-28(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\CRM-2013-5-28(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\CRM-2013-5-28(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\CRM-2013-5-28(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\CRM-2013-5-28(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\CRM-2013-5-28(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\CRM-2013-5-28(最终版)\SynTest\obj\Debug\SynTest.exe
+F:\CRM\CRM-2013-5-28(最终版)\SynTest\obj\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\CRM-2013-6-2(最终版)\SynTest\bin\Debug\SynTest.exe.config
+F:\淘宝项目\会员管家\CRM-2013-6-2(最终版)\SynTest\bin\Debug\SynTest.exe
+F:\淘宝项目\会员管家\CRM-2013-6-2(最终版)\SynTest\bin\Debug\SynTest.pdb
+F:\淘宝项目\会员管家\CRM-2013-6-2(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\淘宝项目\会员管家\CRM-2013-6-2(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\淘宝项目\会员管家\CRM-2013-6-2(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+F:\淘宝项目\会员管家\CRM-2013-6-2(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\淘宝项目\会员管家\CRM-2013-6-2(最终版)\SynTest\bin\Debug\TopSdk.dll
+F:\淘宝项目\会员管家\CRM-2013-6-2(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+F:\淘宝项目\会员管家\CRM-2013-6-2(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\淘宝项目\会员管家\CRM-2013-6-2(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\淘宝项目\会员管家\CRM-2013-6-2(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\淘宝项目\会员管家\CRM-2013-6-2(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\淘宝项目\会员管家\CRM-2013-6-2(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\淘宝项目\会员管家\CRM-2013-6-2(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\淘宝项目\会员管家\CRM-2013-6-2(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\淘宝项目\会员管家\CRM-2013-6-2(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\淘宝项目\会员管家\CRM-2013-6-2(最终版)\SynTest\obj\Debug\SynTest.exe
+F:\淘宝项目\会员管家\CRM-2013-6-2(最终版)\SynTest\obj\Debug\SynTest.pdb
+F:\CRM\CRM-2013-6-3(最终版)\SynTest\bin\Debug\SynTest.exe.config
+F:\CRM\CRM-2013-6-3(最终版)\SynTest\bin\Debug\SynTest.exe
+F:\CRM\CRM-2013-6-3(最终版)\SynTest\bin\Debug\SynTest.pdb
+F:\CRM\CRM-2013-6-3(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+F:\CRM\CRM-2013-6-3(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+F:\CRM\CRM-2013-6-3(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+F:\CRM\CRM-2013-6-3(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+F:\CRM\CRM-2013-6-3(最终版)\SynTest\bin\Debug\TopSdk.dll
+F:\CRM\CRM-2013-6-3(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+F:\CRM\CRM-2013-6-3(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+F:\CRM\CRM-2013-6-3(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+F:\CRM\CRM-2013-6-3(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+F:\CRM\CRM-2013-6-3(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+F:\CRM\CRM-2013-6-3(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+F:\CRM\CRM-2013-6-3(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+F:\CRM\CRM-2013-6-3(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+F:\CRM\CRM-2013-6-3(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\CRM-2013-6-3(最终版)\SynTest\obj\Debug\SynTest.exe
+F:\CRM\CRM-2013-6-3(最终版)\SynTest\obj\Debug\SynTest.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-3(最终版)\SynTest\bin\Debug\SynTest.exe.config
+D:\淘宝项目\会员管家\CRM-2013-6-3(最终版)\SynTest\bin\Debug\SynTest.exe
+D:\淘宝项目\会员管家\CRM-2013-6-3(最终版)\SynTest\bin\Debug\SynTest.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-3(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+D:\淘宝项目\会员管家\CRM-2013-6-3(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+D:\淘宝项目\会员管家\CRM-2013-6-3(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+D:\淘宝项目\会员管家\CRM-2013-6-3(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+D:\淘宝项目\会员管家\CRM-2013-6-3(最终版)\SynTest\bin\Debug\TopSdk.dll
+D:\淘宝项目\会员管家\CRM-2013-6-3(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+D:\淘宝项目\会员管家\CRM-2013-6-3(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+D:\淘宝项目\会员管家\CRM-2013-6-3(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-3(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-3(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-3(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-3(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-3(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-3(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+D:\淘宝项目\会员管家\CRM-2013-6-3(最终版)\SynTest\obj\Debug\SynTest.exe
+D:\淘宝项目\会员管家\CRM-2013-6-3(最终版)\SynTest\obj\Debug\SynTest.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-7(最终版)\SynTest\bin\Debug\SynTest.exe.config
+D:\淘宝项目\会员管家\CRM-2013-6-7(最终版)\SynTest\bin\Debug\SynTest.exe
+D:\淘宝项目\会员管家\CRM-2013-6-7(最终版)\SynTest\bin\Debug\SynTest.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-7(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+D:\淘宝项目\会员管家\CRM-2013-6-7(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+D:\淘宝项目\会员管家\CRM-2013-6-7(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+D:\淘宝项目\会员管家\CRM-2013-6-7(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+D:\淘宝项目\会员管家\CRM-2013-6-7(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+D:\淘宝项目\会员管家\CRM-2013-6-7(最终版)\SynTest\bin\Debug\TopSdk.dll
+D:\淘宝项目\会员管家\CRM-2013-6-7(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+D:\淘宝项目\会员管家\CRM-2013-6-7(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-7(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-7(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-7(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-7(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-7(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-7(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+D:\淘宝项目\会员管家\CRM-2013-6-7(最终版)\SynTest\obj\Debug\SynTest.exe
+D:\淘宝项目\会员管家\CRM-2013-6-7(最终版)\SynTest\obj\Debug\SynTest.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-8(最终版)\SynTest\bin\Debug\SynTest.exe.config
+D:\淘宝项目\会员管家\CRM-2013-6-8(最终版)\SynTest\obj\Debug\SynTest.exe
+D:\淘宝项目\会员管家\CRM-2013-6-8(最终版)\SynTest\obj\Debug\SynTest.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-8(最终版)\SynTest\bin\Debug\SynTest.exe
+D:\淘宝项目\会员管家\CRM-2013-6-8(最终版)\SynTest\bin\Debug\SynTest.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-8(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+D:\淘宝项目\会员管家\CRM-2013-6-8(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+D:\淘宝项目\会员管家\CRM-2013-6-8(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+D:\淘宝项目\会员管家\CRM-2013-6-8(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+D:\淘宝项目\会员管家\CRM-2013-6-8(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+D:\淘宝项目\会员管家\CRM-2013-6-8(最终版)\SynTest\bin\Debug\TopSdk.dll
+D:\淘宝项目\会员管家\CRM-2013-6-8(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+D:\淘宝项目\会员管家\CRM-2013-6-8(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-8(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-8(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-8(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-8(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-8(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-8(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-6-8(最终版)\CRM-2013-6-8(最终版)\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-6-8(最终版)\CRM-2013-6-8(最终版)\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-6-8(最终版)\CRM-2013-6-8(最终版)\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-6-8(最终版)\CRM-2013-6-8(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-6-8(最终版)\CRM-2013-6-8(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-6-8(最终版)\CRM-2013-6-8(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-6-8(最终版)\CRM-2013-6-8(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-6-8(最终版)\CRM-2013-6-8(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-6-8(最终版)\CRM-2013-6-8(最终版)\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-6-8(最终版)\CRM-2013-6-8(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-6-8(最终版)\CRM-2013-6-8(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-6-8(最终版)\CRM-2013-6-8(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-6-8(最终版)\CRM-2013-6-8(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-6-8(最终版)\CRM-2013-6-8(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-6-8(最终版)\CRM-2013-6-8(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-6-8(最终版)\CRM-2013-6-8(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-6-8(最终版)\CRM-2013-6-8(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-6-8(最终版)\CRM-2013-6-8(最终版)\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-6-8(最终版)\CRM-2013-6-8(最终版)\SynTest\obj\Debug\SynTest.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-11(最终版)\SynTest\bin\Debug\SynTest.exe.config
+D:\淘宝项目\会员管家\CRM-2013-6-11(最终版)\SynTest\bin\Debug\SynTest.exe
+D:\淘宝项目\会员管家\CRM-2013-6-11(最终版)\SynTest\bin\Debug\SynTest.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-11(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+D:\淘宝项目\会员管家\CRM-2013-6-11(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+D:\淘宝项目\会员管家\CRM-2013-6-11(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+D:\淘宝项目\会员管家\CRM-2013-6-11(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+D:\淘宝项目\会员管家\CRM-2013-6-11(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+D:\淘宝项目\会员管家\CRM-2013-6-11(最终版)\SynTest\bin\Debug\TopSdk.dll
+D:\淘宝项目\会员管家\CRM-2013-6-11(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+D:\淘宝项目\会员管家\CRM-2013-6-11(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-11(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-11(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-11(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-11(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-11(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-11(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+D:\淘宝项目\会员管家\CRM-2013-6-11(最终版)\SynTest\obj\Debug\SynTest.exe
+D:\淘宝项目\会员管家\CRM-2013-6-11(最终版)\SynTest\obj\Debug\SynTest.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-20(最终版)\SynTest\bin\Debug\SynTest.exe.config
+D:\淘宝项目\会员管家\CRM-2013-6-20(最终版)\SynTest\bin\Debug\SynTest.exe
+D:\淘宝项目\会员管家\CRM-2013-6-20(最终版)\SynTest\bin\Debug\SynTest.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-20(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+D:\淘宝项目\会员管家\CRM-2013-6-20(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+D:\淘宝项目\会员管家\CRM-2013-6-20(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+D:\淘宝项目\会员管家\CRM-2013-6-20(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+D:\淘宝项目\会员管家\CRM-2013-6-20(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+D:\淘宝项目\会员管家\CRM-2013-6-20(最终版)\SynTest\bin\Debug\TopSdk.dll
+D:\淘宝项目\会员管家\CRM-2013-6-20(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+D:\淘宝项目\会员管家\CRM-2013-6-20(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-20(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-20(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-20(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-20(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-20(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-20(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+D:\淘宝项目\会员管家\CRM-2013-6-20(最终版)\SynTest\obj\Debug\SynTest.exe
+D:\淘宝项目\会员管家\CRM-2013-6-20(最终版)\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-3(最终版)\CRM-2013-8-3(最终版)\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-3(最终版)\CRM-2013-8-3(最终版)\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-3(最终版)\CRM-2013-8-3(最终版)\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-3(最终版)\CRM-2013-8-3(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-3(最终版)\CRM-2013-8-3(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-3(最终版)\CRM-2013-8-3(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-3(最终版)\CRM-2013-8-3(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-3(最终版)\CRM-2013-8-3(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-3(最终版)\CRM-2013-8-3(最终版)\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-3(最终版)\CRM-2013-8-3(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-3(最终版)\CRM-2013-8-3(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-3(最终版)\CRM-2013-8-3(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-3(最终版)\CRM-2013-8-3(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-3(最终版)\CRM-2013-8-3(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-3(最终版)\CRM-2013-8-3(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-3(最终版)\CRM-2013-8-3(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-3(最终版)\CRM-2013-8-3(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-3(最终版)\CRM-2013-8-3(最终版)\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-3(最终版)\CRM-2013-8-3(最终版)\SynTest\obj\Debug\SynTest.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-4(最终版)\SynTest\bin\Debug\SynTest.exe.config
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-4(最终版)\SynTest\bin\Debug\SynTest.exe
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-4(最终版)\SynTest\bin\Debug\SynTest.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-4(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-4(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-4(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-4(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-4(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-4(最终版)\SynTest\bin\Debug\TopSdk.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-4(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-4(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-4(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-4(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-4(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-4(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-4(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-4(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-4(最终版)\SynTest\obj\Debug\SynTest.exe
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-4(最终版)\SynTest\obj\Debug\SynTest.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-8(最终版)\SynTest\bin\Debug\SynTest.exe.config
+D:\淘宝项目\会员管家\CRM-2013-8-8(最终版)\SynTest\bin\Debug\SynTest.exe
+D:\淘宝项目\会员管家\CRM-2013-8-8(最终版)\SynTest\bin\Debug\SynTest.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-8(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+D:\淘宝项目\会员管家\CRM-2013-8-8(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+D:\淘宝项目\会员管家\CRM-2013-8-8(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+D:\淘宝项目\会员管家\CRM-2013-8-8(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+D:\淘宝项目\会员管家\CRM-2013-8-8(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+D:\淘宝项目\会员管家\CRM-2013-8-8(最终版)\SynTest\bin\Debug\TopSdk.dll
+D:\淘宝项目\会员管家\CRM-2013-8-8(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+D:\淘宝项目\会员管家\CRM-2013-8-8(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-8(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-8(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-8(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-8(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-8(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-8(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+D:\淘宝项目\会员管家\CRM-2013-8-8(最终版)\SynTest\obj\Debug\SynTest.exe
+D:\淘宝项目\会员管家\CRM-2013-8-8(最终版)\SynTest\obj\Debug\SynTest.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-22(最终版)\SynTest\bin\Debug\SynTest.exe.config
+D:\淘宝项目\会员管家\CRM-2013-8-22(最终版)\SynTest\bin\Debug\SynTest.exe
+D:\淘宝项目\会员管家\CRM-2013-8-22(最终版)\SynTest\bin\Debug\SynTest.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-22(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+D:\淘宝项目\会员管家\CRM-2013-8-22(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+D:\淘宝项目\会员管家\CRM-2013-8-22(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+D:\淘宝项目\会员管家\CRM-2013-8-22(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+D:\淘宝项目\会员管家\CRM-2013-8-22(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+D:\淘宝项目\会员管家\CRM-2013-8-22(最终版)\SynTest\bin\Debug\TopSdk.dll
+D:\淘宝项目\会员管家\CRM-2013-8-22(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+D:\淘宝项目\会员管家\CRM-2013-8-22(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-22(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-22(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-22(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-22(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-22(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-22(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+D:\淘宝项目\会员管家\CRM-2013-8-22(最终版)\SynTest\obj\Debug\SynTest.exe
+D:\淘宝项目\会员管家\CRM-2013-8-22(最终版)\SynTest\obj\Debug\SynTest.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-28(最终版)\SynTest\bin\Debug\SynTest.exe.config
+D:\淘宝项目\会员管家\CRM-2013-8-28(最终版)\SynTest\bin\Debug\SynTest.exe
+D:\淘宝项目\会员管家\CRM-2013-8-28(最终版)\SynTest\bin\Debug\SynTest.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-28(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+D:\淘宝项目\会员管家\CRM-2013-8-28(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+D:\淘宝项目\会员管家\CRM-2013-8-28(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+D:\淘宝项目\会员管家\CRM-2013-8-28(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+D:\淘宝项目\会员管家\CRM-2013-8-28(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+D:\淘宝项目\会员管家\CRM-2013-8-28(最终版)\SynTest\bin\Debug\TopSdk.dll
+D:\淘宝项目\会员管家\CRM-2013-8-28(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+D:\淘宝项目\会员管家\CRM-2013-8-28(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-28(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-28(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-28(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-28(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-28(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-28(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+D:\淘宝项目\会员管家\CRM-2013-8-28(最终版)\SynTest\obj\Debug\SynTest.exe
+D:\淘宝项目\会员管家\CRM-2013-8-28(最终版)\SynTest\obj\Debug\SynTest.pdb
+D:\淘宝项目\会员管家\CRM-2013-9-18(最终版)\SynTest\bin\Debug\SynTest.exe.config
+D:\淘宝项目\会员管家\CRM-2013-9-18(最终版)\SynTest\bin\Debug\SynTest.exe
+D:\淘宝项目\会员管家\CRM-2013-9-18(最终版)\SynTest\bin\Debug\SynTest.pdb
+D:\淘宝项目\会员管家\CRM-2013-9-18(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+D:\淘宝项目\会员管家\CRM-2013-9-18(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+D:\淘宝项目\会员管家\CRM-2013-9-18(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+D:\淘宝项目\会员管家\CRM-2013-9-18(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+D:\淘宝项目\会员管家\CRM-2013-9-18(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+D:\淘宝项目\会员管家\CRM-2013-9-18(最终版)\SynTest\bin\Debug\TopSdk.dll
+D:\淘宝项目\会员管家\CRM-2013-9-18(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+D:\淘宝项目\会员管家\CRM-2013-9-18(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+D:\淘宝项目\会员管家\CRM-2013-9-18(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+D:\淘宝项目\会员管家\CRM-2013-9-18(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+D:\淘宝项目\会员管家\CRM-2013-9-18(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+D:\淘宝项目\会员管家\CRM-2013-9-18(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+D:\淘宝项目\会员管家\CRM-2013-9-18(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+D:\淘宝项目\会员管家\CRM-2013-9-18(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+D:\淘宝项目\会员管家\CRM-2013-9-18(最终版)\SynTest\obj\Debug\SynTest.exe
+D:\淘宝项目\会员管家\CRM-2013-9-18(最终版)\SynTest\obj\Debug\SynTest.pdb
+D:\本地-开发环境\CRM(最终版)\SynTest\bin\Debug\SynTest.exe.config
+D:\本地-开发环境\CRM(最终版)\SynTest\bin\Debug\SynTest.exe
+D:\本地-开发环境\CRM(最终版)\SynTest\bin\Debug\SynTest.pdb
+D:\本地-开发环境\CRM(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.dll
+D:\本地-开发环境\CRM(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+D:\本地-开发环境\CRM(最终版)\SynTest\bin\Debug\CTCRM.Common.dll
+D:\本地-开发环境\CRM(最终版)\SynTest\bin\Debug\CTCRM.Components.dll
+D:\本地-开发环境\CRM(最终版)\SynTest\bin\Debug\CTCRM.Entity.dll
+D:\本地-开发环境\CRM(最终版)\SynTest\bin\Debug\TopSdk.dll
+D:\本地-开发环境\CRM(最终版)\SynTest\bin\Debug\CTCRM.DAL.dll
+D:\本地-开发环境\CRM(最终版)\SynTest\bin\Debug\CTCRM.Common.pdb
+D:\本地-开发环境\CRM(最终版)\SynTest\bin\Debug\CTCRM.Components.pdb
+D:\本地-开发环境\CRM(最终版)\SynTest\bin\Debug\CTCRM.DAL.pdb
+D:\本地-开发环境\CRM(最终版)\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+D:\本地-开发环境\CRM(最终版)\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+D:\本地-开发环境\CRM(最终版)\SynTest\bin\Debug\CTCRM.Entity.pdb
+D:\本地-开发环境\CRM(最终版)\SynTest\bin\Debug\TopSdk.pdb
+D:\本地-开发环境\CRM(最终版)\SynTest\obj\Debug\ResolveAssemblyReference.cache
+D:\本地-开发环境\CRM(最终版)\SynTest\obj\Debug\SynTest.exe
+D:\本地-开发环境\CRM(最终版)\SynTest\obj\Debug\SynTest.pdb
+D:\本地-开发环境\CRM(最终版)\SynTest\bin\Debug\TTNI.Framework.Dao.dll
+D:\本地-开发环境\CRM(最终版)\SynTest\bin\Debug\TTNI.Framework.dll
+D:\本地-开发环境\CRM(最终版)\SynTest\bin\Debug\TTNI.Framework.Data.dll
+C:\TB项目\CRM\SynTest\bin\Debug\SynTest.exe.config
+C:\TB项目\CRM\SynTest\bin\Debug\SynTest.exe
+C:\TB项目\CRM\SynTest\bin\Debug\SynTest.pdb
+C:\TB项目\CRM\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\TB项目\CRM\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\TB项目\CRM\SynTest\bin\Debug\CTCRM.Common.dll
+C:\TB项目\CRM\SynTest\bin\Debug\CTCRM.Components.dll
+C:\TB项目\CRM\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\TB项目\CRM\SynTest\bin\Debug\TopSdk.dll
+C:\TB项目\CRM\SynTest\bin\Debug\TTNI.Framework.Dao.dll
+C:\TB项目\CRM\SynTest\bin\Debug\TTNI.Framework.Data.dll
+C:\TB项目\CRM\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\TB项目\CRM\SynTest\bin\Debug\TTNI.Framework.dll
+C:\TB项目\CRM\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\TB项目\CRM\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\TB项目\CRM\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\TB项目\CRM\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\TB项目\CRM\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\TB项目\CRM\SynTest\bin\Debug\TopSdk.pdb
+C:\TB项目\CRM\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\TB项目\CRM\SynTest\obj\Debug\SynTest.csprojResolveAssemblyReference.cache
+C:\TB项目\CRM\SynTest\obj\Debug\SynTest.exe
+C:\TB项目\CRM\SynTest\obj\Debug\SynTest.pdb
+C:\TB项目\CRM0916\SynTest\bin\Debug\SynTest.exe.config
+C:\TB项目\CRM0916\SynTest\bin\Debug\SynTest.exe
+C:\TB项目\CRM0916\SynTest\bin\Debug\SynTest.pdb
+C:\TB项目\CRM0916\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\TB项目\CRM0916\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\TB项目\CRM0916\SynTest\bin\Debug\CTCRM.Common.dll
+C:\TB项目\CRM0916\SynTest\bin\Debug\CTCRM.Components.dll
+C:\TB项目\CRM0916\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\TB项目\CRM0916\SynTest\bin\Debug\TopSdk.dll
+C:\TB项目\CRM0916\SynTest\bin\Debug\TTNI.Framework.Dao.dll
+C:\TB项目\CRM0916\SynTest\bin\Debug\TTNI.Framework.Data.dll
+C:\TB项目\CRM0916\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\TB项目\CRM0916\SynTest\bin\Debug\TTNI.Framework.dll
+C:\TB项目\CRM0916\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\TB项目\CRM0916\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\TB项目\CRM0916\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\TB项目\CRM0916\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\TB项目\CRM0916\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\TB项目\CRM0916\SynTest\bin\Debug\TopSdk.pdb
+C:\TB项目\CRM0916\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\TB项目\CRM0916\SynTest\obj\Debug\SynTest.csprojResolveAssemblyReference.cache
+C:\TB项目\CRM0916\SynTest\obj\Debug\SynTest.exe
+C:\TB项目\CRM0916\SynTest\obj\Debug\SynTest.pdb
+C:\TB项目\CRM0918\SynTest\bin\Debug\SynTest.exe.config
+C:\TB项目\CRM0918\SynTest\bin\Debug\SynTest.exe
+C:\TB项目\CRM0918\SynTest\bin\Debug\SynTest.pdb
+C:\TB项目\CRM0918\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\TB项目\CRM0918\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\TB项目\CRM0918\SynTest\bin\Debug\CTCRM.Common.dll
+C:\TB项目\CRM0918\SynTest\bin\Debug\CTCRM.Components.dll
+C:\TB项目\CRM0918\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\TB项目\CRM0918\SynTest\bin\Debug\TopSdk.dll
+C:\TB项目\CRM0918\SynTest\bin\Debug\TTNI.Framework.Dao.dll
+C:\TB项目\CRM0918\SynTest\bin\Debug\TTNI.Framework.Data.dll
+C:\TB项目\CRM0918\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\TB项目\CRM0918\SynTest\bin\Debug\TTNI.Framework.dll
+C:\TB项目\CRM0918\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\TB项目\CRM0918\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\TB项目\CRM0918\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\TB项目\CRM0918\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\TB项目\CRM0918\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\TB项目\CRM0918\SynTest\bin\Debug\TopSdk.pdb
+C:\TB项目\CRM0918\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\TB项目\CRM0918\SynTest\obj\Debug\SynTest.csprojResolveAssemblyReference.cache
+C:\TB项目\CRM0918\SynTest\obj\Debug\SynTest.exe
+C:\TB项目\CRM0918\SynTest\obj\Debug\SynTest.pdb
+C:\TB项目\CRM0919\SynTest\bin\Debug\SynTest.exe.config
+C:\TB项目\CRM0919\SynTest\bin\Debug\SynTest.exe
+C:\TB项目\CRM0919\SynTest\bin\Debug\SynTest.pdb
+C:\TB项目\CRM0919\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\TB项目\CRM0919\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\TB项目\CRM0919\SynTest\bin\Debug\CTCRM.Common.dll
+C:\TB项目\CRM0919\SynTest\bin\Debug\CTCRM.Components.dll
+C:\TB项目\CRM0919\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\TB项目\CRM0919\SynTest\bin\Debug\TopSdk.dll
+C:\TB项目\CRM0919\SynTest\bin\Debug\TTNI.Framework.Dao.dll
+C:\TB项目\CRM0919\SynTest\bin\Debug\TTNI.Framework.Data.dll
+C:\TB项目\CRM0919\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\TB项目\CRM0919\SynTest\bin\Debug\TTNI.Framework.dll
+C:\TB项目\CRM0919\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\TB项目\CRM0919\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\TB项目\CRM0919\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\TB项目\CRM0919\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\TB项目\CRM0919\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\TB项目\CRM0919\SynTest\bin\Debug\TopSdk.pdb
+C:\TB项目\CRM0919\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\TB项目\CRM0919\SynTest\obj\Debug\SynTest.csprojResolveAssemblyReference.cache
+C:\TB项目\CRM0919\SynTest\obj\Debug\SynTest.exe
+C:\TB项目\CRM0919\SynTest\obj\Debug\SynTest.pdb
+C:\TB项目\CRM0923\SynTest\bin\Debug\SynTest.exe.config
+C:\TB项目\CRM0923\SynTest\bin\Debug\SynTest.exe
+C:\TB项目\CRM0923\SynTest\bin\Debug\SynTest.pdb
+C:\TB项目\CRM0923\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\TB项目\CRM0923\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\TB项目\CRM0923\SynTest\bin\Debug\CTCRM.Common.dll
+C:\TB项目\CRM0923\SynTest\bin\Debug\CTCRM.Components.dll
+C:\TB项目\CRM0923\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\TB项目\CRM0923\SynTest\bin\Debug\TopSdk.dll
+C:\TB项目\CRM0923\SynTest\bin\Debug\TTNI.Framework.Dao.dll
+C:\TB项目\CRM0923\SynTest\bin\Debug\TTNI.Framework.Data.dll
+C:\TB项目\CRM0923\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\TB项目\CRM0923\SynTest\bin\Debug\TTNI.Framework.dll
+C:\TB项目\CRM0923\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\TB项目\CRM0923\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\TB项目\CRM0923\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\TB项目\CRM0923\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\TB项目\CRM0923\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\TB项目\CRM0923\SynTest\bin\Debug\TopSdk.pdb
+C:\TB项目\CRM0923\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\TB项目\CRM0923\SynTest\obj\Debug\SynTest.csprojResolveAssemblyReference.cache
+C:\TB项目\CRM0923\SynTest\obj\Debug\SynTest.exe
+C:\TB项目\CRM0923\SynTest\obj\Debug\SynTest.pdb
+C:\TB项目\CRM0925\SynTest\bin\Debug\SynTest.exe.config
+C:\TB项目\CRM0925\SynTest\bin\Debug\SynTest.exe
+C:\TB项目\CRM0925\SynTest\bin\Debug\SynTest.pdb
+C:\TB项目\CRM0925\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\TB项目\CRM0925\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\TB项目\CRM0925\SynTest\bin\Debug\CTCRM.Common.dll
+C:\TB项目\CRM0925\SynTest\bin\Debug\CTCRM.Components.dll
+C:\TB项目\CRM0925\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\TB项目\CRM0925\SynTest\bin\Debug\TopSdk.dll
+C:\TB项目\CRM0925\SynTest\bin\Debug\TTNI.Framework.Dao.dll
+C:\TB项目\CRM0925\SynTest\bin\Debug\TTNI.Framework.Data.dll
+C:\TB项目\CRM0925\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\TB项目\CRM0925\SynTest\bin\Debug\TTNI.Framework.dll
+C:\TB项目\CRM0925\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\TB项目\CRM0925\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\TB项目\CRM0925\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\TB项目\CRM0925\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\TB项目\CRM0925\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\TB项目\CRM0925\SynTest\bin\Debug\TopSdk.pdb
+C:\TB项目\CRM0925\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\TB项目\CRM0925\SynTest\obj\Debug\SynTest.csprojResolveAssemblyReference.cache
+C:\TB项目\CRM0925\SynTest\obj\Debug\SynTest.exe
+C:\TB项目\CRM0925\SynTest\obj\Debug\SynTest.pdb
+C:\TB项目\CRM0927\SynTest\obj\Debug\SynTest.csprojResolveAssemblyReference.cache
+C:\TB项目\CRM0927\SynTest\bin\Debug\SynTest.exe.config
+C:\TB项目\CRM0927\SynTest\bin\Debug\SynTest.exe
+C:\TB项目\CRM0927\SynTest\bin\Debug\SynTest.pdb
+C:\TB项目\CRM0927\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\TB项目\CRM0927\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\TB项目\CRM0927\SynTest\bin\Debug\CTCRM.Common.dll
+C:\TB项目\CRM0927\SynTest\bin\Debug\CTCRM.Components.dll
+C:\TB项目\CRM0927\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\TB项目\CRM0927\SynTest\bin\Debug\TopSdk.dll
+C:\TB项目\CRM0927\SynTest\bin\Debug\TTNI.Framework.Dao.dll
+C:\TB项目\CRM0927\SynTest\bin\Debug\TTNI.Framework.Data.dll
+C:\TB项目\CRM0927\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\TB项目\CRM0927\SynTest\bin\Debug\TTNI.Framework.dll
+C:\TB项目\CRM0927\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\TB项目\CRM0927\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\TB项目\CRM0927\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\TB项目\CRM0927\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\TB项目\CRM0927\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\TB项目\CRM0927\SynTest\bin\Debug\TopSdk.pdb
+C:\TB项目\CRM0927\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\TB项目\CRM0927\SynTest\obj\Debug\SynTest.exe
+C:\TB项目\CRM0927\SynTest\obj\Debug\SynTest.pdb
+C:\TB项目\CRM0929\SynTest\bin\Debug\SynTest.exe.config
+C:\TB项目\CRM0929\SynTest\bin\Debug\SynTest.exe
+C:\TB项目\CRM0929\SynTest\bin\Debug\SynTest.pdb
+C:\TB项目\CRM0929\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\TB项目\CRM0929\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\TB项目\CRM0929\SynTest\bin\Debug\CTCRM.Common.dll
+C:\TB项目\CRM0929\SynTest\bin\Debug\CTCRM.Components.dll
+C:\TB项目\CRM0929\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\TB项目\CRM0929\SynTest\bin\Debug\TopSdk.dll
+C:\TB项目\CRM0929\SynTest\bin\Debug\TTNI.Framework.Dao.dll
+C:\TB项目\CRM0929\SynTest\bin\Debug\TTNI.Framework.Data.dll
+C:\TB项目\CRM0929\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\TB项目\CRM0929\SynTest\bin\Debug\TTNI.Framework.dll
+C:\TB项目\CRM0929\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\TB项目\CRM0929\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\TB项目\CRM0929\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\TB项目\CRM0929\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\TB项目\CRM0929\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\TB项目\CRM0929\SynTest\bin\Debug\TopSdk.pdb
+C:\TB项目\CRM0929\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\TB项目\CRM0929\SynTest\obj\Debug\SynTest.csprojResolveAssemblyReference.cache
+C:\TB项目\CRM0929\SynTest\obj\Debug\SynTest.exe
+C:\TB项目\CRM0929\SynTest\obj\Debug\SynTest.pdb
+C:\TB项目\CRM0101\SynTest\bin\Debug\SynTest.exe.config
+C:\TB项目\CRM0101\SynTest\bin\Debug\SynTest.exe
+C:\TB项目\CRM0101\SynTest\bin\Debug\SynTest.pdb
+C:\TB项目\CRM0101\SynTest\bin\Debug\CHENGTUAN.Components.dll
+C:\TB项目\CRM0101\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+C:\TB项目\CRM0101\SynTest\bin\Debug\CTCRM.Common.dll
+C:\TB项目\CRM0101\SynTest\bin\Debug\CTCRM.Components.dll
+C:\TB项目\CRM0101\SynTest\bin\Debug\CTCRM.Entity.dll
+C:\TB项目\CRM0101\SynTest\bin\Debug\TopSdk.dll
+C:\TB项目\CRM0101\SynTest\bin\Debug\TTNI.Framework.Dao.dll
+C:\TB项目\CRM0101\SynTest\bin\Debug\TTNI.Framework.Data.dll
+C:\TB项目\CRM0101\SynTest\bin\Debug\CTCRM.DAL.dll
+C:\TB项目\CRM0101\SynTest\bin\Debug\TTNI.Framework.dll
+C:\TB项目\CRM0101\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+C:\TB项目\CRM0101\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+C:\TB项目\CRM0101\SynTest\bin\Debug\CTCRM.Common.pdb
+C:\TB项目\CRM0101\SynTest\bin\Debug\CTCRM.Components.pdb
+C:\TB项目\CRM0101\SynTest\bin\Debug\CTCRM.Entity.pdb
+C:\TB项目\CRM0101\SynTest\bin\Debug\CTCRM.DAL.pdb
+C:\TB项目\CRM0101\SynTest\obj\Debug\SynTest.csprojResolveAssemblyReference.cache
+C:\TB项目\CRM0101\SynTest\obj\Debug\SynTest.exe
+C:\TB项目\CRM0101\SynTest\obj\Debug\SynTest.pdb
+C:\TB项目\CTCRM-Source\SynTest\obj\Debug\SynTest.csprojResolveAssemblyReference.cache
+D:\projects\CTCRM-Source\SynTest\bin\Debug\SynTest.exe.config
+D:\projects\CTCRM-Source\SynTest\bin\Debug\SynTest.exe
+D:\projects\CTCRM-Source\SynTest\bin\Debug\SynTest.pdb
+D:\projects\CTCRM-Source\SynTest\bin\Debug\CHENGTUAN.Components.dll
+D:\projects\CTCRM-Source\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+D:\projects\CTCRM-Source\SynTest\bin\Debug\CTCRM.Common.dll
+D:\projects\CTCRM-Source\SynTest\bin\Debug\CTCRM.Components.dll
+D:\projects\CTCRM-Source\SynTest\bin\Debug\CTCRM.Entity.dll
+D:\projects\CTCRM-Source\SynTest\bin\Debug\TopSdk.dll
+D:\projects\CTCRM-Source\SynTest\bin\Debug\TTNI.Framework.Dao.dll
+D:\projects\CTCRM-Source\SynTest\bin\Debug\TTNI.Framework.Data.dll
+D:\projects\CTCRM-Source\SynTest\bin\Debug\CTCRM.DAL.dll
+D:\projects\CTCRM-Source\SynTest\bin\Debug\TTNI.Framework.dll
+D:\projects\CTCRM-Source\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+D:\projects\CTCRM-Source\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+D:\projects\CTCRM-Source\SynTest\bin\Debug\CTCRM.Common.pdb
+D:\projects\CTCRM-Source\SynTest\bin\Debug\CTCRM.Components.pdb
+D:\projects\CTCRM-Source\SynTest\bin\Debug\CTCRM.Entity.pdb
+D:\projects\CTCRM-Source\SynTest\bin\Debug\CTCRM.DAL.pdb
+D:\projects\CTCRM-Source\SynTest\obj\Debug\SynTest.csprojResolveAssemblyReference.cache
+D:\projects\CTCRM-Source\SynTest\obj\Debug\SynTest.exe
+D:\projects\CTCRM-Source\SynTest\obj\Debug\SynTest.pdb
+D:\代码\CTCRM-Source\SynTest\bin\Debug\SynTest.exe.config
+D:\代码\CTCRM-Source\SynTest\bin\Debug\SynTest.exe
+D:\代码\CTCRM-Source\SynTest\bin\Debug\SynTest.pdb
+D:\代码\CTCRM-Source\SynTest\bin\Debug\CHENGTUAN.Components.dll
+D:\代码\CTCRM-Source\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+D:\代码\CTCRM-Source\SynTest\bin\Debug\CTCRM.Common.dll
+D:\代码\CTCRM-Source\SynTest\bin\Debug\CTCRM.Components.dll
+D:\代码\CTCRM-Source\SynTest\bin\Debug\CTCRM.Entity.dll
+D:\代码\CTCRM-Source\SynTest\bin\Debug\TopSdk.dll
+D:\代码\CTCRM-Source\SynTest\bin\Debug\TTNI.Framework.Dao.dll
+D:\代码\CTCRM-Source\SynTest\bin\Debug\TTNI.Framework.Data.dll
+D:\代码\CTCRM-Source\SynTest\bin\Debug\CTCRM.DAL.dll
+D:\代码\CTCRM-Source\SynTest\bin\Debug\TTNI.Framework.dll
+D:\代码\CTCRM-Source\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+D:\代码\CTCRM-Source\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+D:\代码\CTCRM-Source\SynTest\bin\Debug\CTCRM.Common.pdb
+D:\代码\CTCRM-Source\SynTest\bin\Debug\CTCRM.Components.pdb
+D:\代码\CTCRM-Source\SynTest\bin\Debug\CTCRM.Entity.pdb
+D:\代码\CTCRM-Source\SynTest\bin\Debug\CTCRM.DAL.pdb
+D:\代码\CTCRM-Source\SynTest\obj\Debug\SynTest.csprojResolveAssemblyReference.cache
+D:\代码\CTCRM-Source\SynTest\obj\Debug\SynTest.exe
+D:\代码\CTCRM-Source\SynTest\obj\Debug\SynTest.pdb
+D:\代码\服务器代码\CTCRM-Source\SynTest\bin\Debug\SynTest.exe.config
+D:\代码\服务器代码\CTCRM-Source\SynTest\bin\Debug\SynTest.exe
+D:\代码\服务器代码\CTCRM-Source\SynTest\bin\Debug\SynTest.pdb
+D:\代码\服务器代码\CTCRM-Source\SynTest\bin\Debug\CHENGTUAN.Components.dll
+D:\代码\服务器代码\CTCRM-Source\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+D:\代码\服务器代码\CTCRM-Source\SynTest\bin\Debug\CTCRM.Common.dll
+D:\代码\服务器代码\CTCRM-Source\SynTest\bin\Debug\CTCRM.Components.dll
+D:\代码\服务器代码\CTCRM-Source\SynTest\bin\Debug\CTCRM.DAL.dll
+D:\代码\服务器代码\CTCRM-Source\SynTest\bin\Debug\CTCRM.Entity.dll
+D:\代码\服务器代码\CTCRM-Source\SynTest\bin\Debug\TopSdk.dll
+D:\代码\服务器代码\CTCRM-Source\SynTest\bin\Debug\TTNI.Framework.Dao.dll
+D:\代码\服务器代码\CTCRM-Source\SynTest\bin\Debug\TTNI.Framework.Data.dll
+D:\代码\服务器代码\CTCRM-Source\SynTest\bin\Debug\TTNI.Framework.dll
+D:\代码\服务器代码\CTCRM-Source\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+D:\代码\服务器代码\CTCRM-Source\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+D:\代码\服务器代码\CTCRM-Source\SynTest\bin\Debug\CTCRM.Common.pdb
+D:\代码\服务器代码\CTCRM-Source\SynTest\bin\Debug\CTCRM.Components.pdb
+D:\代码\服务器代码\CTCRM-Source\SynTest\bin\Debug\CTCRM.DAL.pdb
+D:\代码\服务器代码\CTCRM-Source\SynTest\bin\Debug\CTCRM.Entity.pdb
+D:\代码\服务器代码\CTCRM-Source\SynTest\obj\Debug\SynTest.csprojResolveAssemblyReference.cache
+D:\代码\服务器代码\CTCRM-Source\SynTest\obj\Debug\SynTest.exe
+D:\代码\服务器代码\CTCRM-Source\SynTest\obj\Debug\SynTest.pdb
+D:\代码\服务器代码\CTCRM-Source\源码\SynTest\bin\Debug\SynTest.exe.config
+D:\代码\服务器代码\CTCRM-Source\源码\SynTest\bin\Debug\SynTest.exe
+D:\代码\服务器代码\CTCRM-Source\源码\SynTest\bin\Debug\SynTest.pdb
+D:\代码\服务器代码\CTCRM-Source\源码\SynTest\bin\Debug\CHENGTUAN.Components.dll
+D:\代码\服务器代码\CTCRM-Source\源码\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+D:\代码\服务器代码\CTCRM-Source\源码\SynTest\bin\Debug\CTCRM.Common.dll
+D:\代码\服务器代码\CTCRM-Source\源码\SynTest\bin\Debug\CTCRM.Components.dll
+D:\代码\服务器代码\CTCRM-Source\源码\SynTest\bin\Debug\CTCRM.DAL.dll
+D:\代码\服务器代码\CTCRM-Source\源码\SynTest\bin\Debug\CTCRM.Entity.dll
+D:\代码\服务器代码\CTCRM-Source\源码\SynTest\bin\Debug\TopSdk.dll
+D:\代码\服务器代码\CTCRM-Source\源码\SynTest\bin\Debug\TTNI.Framework.Dao.dll
+D:\代码\服务器代码\CTCRM-Source\源码\SynTest\bin\Debug\TTNI.Framework.Data.dll
+D:\代码\服务器代码\CTCRM-Source\源码\SynTest\bin\Debug\TTNI.Framework.dll
+D:\代码\服务器代码\CTCRM-Source\源码\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+D:\代码\服务器代码\CTCRM-Source\源码\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+D:\代码\服务器代码\CTCRM-Source\源码\SynTest\bin\Debug\CTCRM.Common.pdb
+D:\代码\服务器代码\CTCRM-Source\源码\SynTest\bin\Debug\CTCRM.Components.pdb
+D:\代码\服务器代码\CTCRM-Source\源码\SynTest\bin\Debug\CTCRM.DAL.pdb
+D:\代码\服务器代码\CTCRM-Source\源码\SynTest\bin\Debug\CTCRM.Entity.pdb
+D:\代码\服务器代码\CTCRM-Source\源码\SynTest\obj\Debug\SynTest.csprojResolveAssemblyReference.cache
+D:\代码\服务器代码\CTCRM-Source\源码\SynTest\obj\Debug\SynTest.exe
+D:\代码\服务器代码\CTCRM-Source\源码\SynTest\obj\Debug\SynTest.pdb
+D:\代码\服务器代码\本地测试代码\code\源码\SynTest\bin\Debug\SynTest.exe.config
+D:\代码\服务器代码\本地测试代码\code\源码\SynTest\bin\Debug\SynTest.exe
+D:\代码\服务器代码\本地测试代码\code\源码\SynTest\bin\Debug\SynTest.pdb
+D:\代码\服务器代码\本地测试代码\code\源码\SynTest\bin\Debug\CHENGTUAN.Components.dll
+D:\代码\服务器代码\本地测试代码\code\源码\SynTest\bin\Debug\CHENGTUAN.Entity.dll
+D:\代码\服务器代码\本地测试代码\code\源码\SynTest\bin\Debug\CTCRM.Common.dll
+D:\代码\服务器代码\本地测试代码\code\源码\SynTest\bin\Debug\CTCRM.Components.dll
+D:\代码\服务器代码\本地测试代码\code\源码\SynTest\bin\Debug\CTCRM.DAL.dll
+D:\代码\服务器代码\本地测试代码\code\源码\SynTest\bin\Debug\CTCRM.Entity.dll
+D:\代码\服务器代码\本地测试代码\code\源码\SynTest\bin\Debug\TopSdk.dll
+D:\代码\服务器代码\本地测试代码\code\源码\SynTest\bin\Debug\TTNI.Framework.Dao.dll
+D:\代码\服务器代码\本地测试代码\code\源码\SynTest\bin\Debug\TTNI.Framework.Data.dll
+D:\代码\服务器代码\本地测试代码\code\源码\SynTest\bin\Debug\TTNI.Framework.dll
+D:\代码\服务器代码\本地测试代码\code\源码\SynTest\bin\Debug\CHENGTUAN.Components.pdb
+D:\代码\服务器代码\本地测试代码\code\源码\SynTest\bin\Debug\CHENGTUAN.Entity.pdb
+D:\代码\服务器代码\本地测试代码\code\源码\SynTest\bin\Debug\CTCRM.Common.pdb
+D:\代码\服务器代码\本地测试代码\code\源码\SynTest\bin\Debug\CTCRM.Components.pdb
+D:\代码\服务器代码\本地测试代码\code\源码\SynTest\bin\Debug\CTCRM.DAL.pdb
+D:\代码\服务器代码\本地测试代码\code\源码\SynTest\bin\Debug\CTCRM.Entity.pdb
+D:\代码\服务器代码\本地测试代码\code\源码\SynTest\obj\Debug\SynTest.csprojResolveAssemblyReference.cache
+D:\代码\服务器代码\本地测试代码\code\源码\SynTest\obj\Debug\SynTest.exe
+D:\代码\服务器代码\本地测试代码\code\源码\SynTest\obj\Debug\SynTest.pdb

@@ -1,0 +1,17 @@
+D:\本地-开发环境\CRM(最终版)\CHENGTUAN.Entity\bin\Release\CHENGTUAN.Entity.dll
+D:\本地-开发环境\CRM(最终版)\CHENGTUAN.Entity\bin\Release\CHENGTUAN.Entity.pdb
+D:\本地-开发环境\CRM(最终版)\CHENGTUAN.Entity\obj\Release\ResolveAssemblyReference.cache
+D:\本地-开发环境\CRM(最终版)\CHENGTUAN.Entity\obj\Release\CHENGTUAN.Entity.dll
+D:\本地-开发环境\CRM(最终版)\CHENGTUAN.Entity\obj\Release\CHENGTUAN.Entity.pdb
+C:\TB项目\CRM\CHENGTUAN.Entity\bin\Release\CHENGTUAN.Entity.dll
+C:\TB项目\CRM\CHENGTUAN.Entity\bin\Release\CHENGTUAN.Entity.pdb
+C:\TB项目\CRM\CHENGTUAN.Entity\obj\Release\CHENGTUAN.Entity.dll
+C:\TB项目\CRM\CHENGTUAN.Entity\obj\Release\CHENGTUAN.Entity.pdb
+C:\TB项目\CRM0101\CHENGTUAN.Entity\bin\Release\CHENGTUAN.Entity.dll
+C:\TB项目\CRM0101\CHENGTUAN.Entity\bin\Release\CHENGTUAN.Entity.pdb
+C:\TB项目\CRM0101\CHENGTUAN.Entity\obj\Release\CHENGTUAN.Entity.dll
+C:\TB项目\CRM0101\CHENGTUAN.Entity\obj\Release\CHENGTUAN.Entity.pdb
+D:\projects\CTCRM-Source\CHENGTUAN.Entity\bin\Release\CHENGTUAN.Entity.dll
+D:\projects\CTCRM-Source\CHENGTUAN.Entity\bin\Release\CHENGTUAN.Entity.pdb
+D:\projects\CTCRM-Source\CHENGTUAN.Entity\obj\Release\CHENGTUAN.Entity.dll
+D:\projects\CTCRM-Source\CHENGTUAN.Entity\obj\Release\CHENGTUAN.Entity.pdb

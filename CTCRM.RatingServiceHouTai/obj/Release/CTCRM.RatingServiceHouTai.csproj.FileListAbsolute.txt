@@ -1,0 +1,14 @@
+C:\TB项目\CRM0101\CTCRM.RatingServiceHouTai\bin\Release\CTCRM.RatingServiceHouTai.exe.config
+C:\TB项目\CRM0101\CTCRM.RatingServiceHouTai\bin\Release\CTCRM.RatingServiceHouTai.exe
+C:\TB项目\CRM0101\CTCRM.RatingServiceHouTai\bin\Release\CTCRM.RatingServiceHouTai.pdb
+C:\TB项目\CRM0101\CTCRM.RatingServiceHouTai\bin\Release\CHENGTUAN.Components.dll
+C:\TB项目\CRM0101\CTCRM.RatingServiceHouTai\bin\Release\CHENGTUAN.Entity.dll
+C:\TB项目\CRM0101\CTCRM.RatingServiceHouTai\bin\Release\CTCRM.Entity.dll
+C:\TB项目\CRM0101\CTCRM.RatingServiceHouTai\bin\Release\TopSdk.dll
+C:\TB项目\CRM0101\CTCRM.RatingServiceHouTai\bin\Release\CHENGTUAN.Components.pdb
+C:\TB项目\CRM0101\CTCRM.RatingServiceHouTai\bin\Release\CHENGTUAN.Entity.pdb
+C:\TB项目\CRM0101\CTCRM.RatingServiceHouTai\bin\Release\CTCRM.Entity.pdb
+C:\TB项目\CRM0101\CTCRM.RatingServiceHouTai\obj\Release\CTCRM.RatingServiceHouTai.ProjectInstaller.resources
+C:\TB项目\CRM0101\CTCRM.RatingServiceHouTai\obj\Release\CTCRM.RatingServiceHouTai.csproj.GenerateResource.Cache
+C:\TB项目\CRM0101\CTCRM.RatingServiceHouTai\obj\Release\CTCRM.RatingServiceHouTai.exe
+C:\TB项目\CRM0101\CTCRM.RatingServiceHouTai\obj\Release\CTCRM.RatingServiceHouTai.pdb

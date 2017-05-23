@@ -1,0 +1,1358 @@
+
+===================================
+时间:           2016/3/25 14:43:18
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetShopName(String nick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 1238
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 14:43:18
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select CellPhone from Seller where NICK = ' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select CellPhone from Seller where NICK = ' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetSellerPhone(String nick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 1262
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 14:43:18
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetShopName(String nick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 1238
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 14:43:18
+错误号:         1000
+标题:           参数化查询 '(@sellerNick nvarchar(4000))SELECT serviceStatus FROM MsgTrans W' 需要参数 @sellerNick，但未提供该参数。
+内容:           参数化查询 '(@sellerNick nvarchar(4000))SELECT serviceStatus FROM MsgTrans W' 需要参数 @sellerNick，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.MsgDAL.CheckSellerMsgTransIsExit(String sellerNick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\MsgDAL.cs:行号 181
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 14:43:18
+错误号:         1000
+标题:           参数化查询 '(@packageName nvarchar(16),@type nvarchar(4),@price int,@perPric' 需要参数 @sellerNick，但未提供该参数。
+内容:           参数化查询 '(@packageName nvarchar(16),@type nvarchar(4),@price int,@perPric' 需要参数 @sellerNick，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 65
+   在 CTCRM.DAL.MsgDAL.AddMsgPackage(MsgPackage obj) 位置 c:\TB项目\CRM0101\CTCRM.DAL\MsgDAL.cs:行号 33
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 14:43:19
+错误号:         1000
+标题:           参数化查询 '(@packageName nvarchar(16),@canUseStartDate datetime,@msgCanUseC' 需要参数 @sellerNick，但未提供该参数。
+内容:           参数化查询 '(@packageName nvarchar(16),@canUseStartDate datetime,@msgCanUseC' 需要参数 @sellerNick，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 65
+   在 CTCRM.DAL.MsgDAL.AddMsgTrans(MsgPackage obj) 位置 c:\TB项目\CRM0101\CTCRM.DAL\MsgDAL.cs:行号 212
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 14:43:19
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select OrderVersion,OrderCyc from Seller w' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select OrderVersion,OrderCyc from Seller w' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetOrderVersion(String strNick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 178
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 14:44:42
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetShopName(String nick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 1238
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 14:44:42
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select CellPhone from Seller where NICK = ' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select CellPhone from Seller where NICK = ' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetSellerPhone(String nick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 1262
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 14:44:42
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetShopName(String nick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 1238
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 14:44:42
+错误号:         1000
+标题:           参数化查询 '(@sellerNick nvarchar(4000))SELECT serviceStatus FROM MsgTrans W' 需要参数 @sellerNick，但未提供该参数。
+内容:           参数化查询 '(@sellerNick nvarchar(4000))SELECT serviceStatus FROM MsgTrans W' 需要参数 @sellerNick，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.MsgDAL.CheckSellerMsgTransIsExit(String sellerNick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\MsgDAL.cs:行号 181
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 14:44:42
+错误号:         1000
+标题:           参数化查询 '(@packageName nvarchar(16),@type nvarchar(4),@price int,@perPric' 需要参数 @sellerNick，但未提供该参数。
+内容:           参数化查询 '(@packageName nvarchar(16),@type nvarchar(4),@price int,@perPric' 需要参数 @sellerNick，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 65
+   在 CTCRM.DAL.MsgDAL.AddMsgPackage(MsgPackage obj) 位置 c:\TB项目\CRM0101\CTCRM.DAL\MsgDAL.cs:行号 33
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 14:44:42
+错误号:         1000
+标题:           参数化查询 '(@packageName nvarchar(16),@canUseStartDate datetime,@msgCanUseC' 需要参数 @sellerNick，但未提供该参数。
+内容:           参数化查询 '(@packageName nvarchar(16),@canUseStartDate datetime,@msgCanUseC' 需要参数 @sellerNick，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 65
+   在 CTCRM.DAL.MsgDAL.AddMsgTrans(MsgPackage obj) 位置 c:\TB项目\CRM0101\CTCRM.DAL\MsgDAL.cs:行号 212
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 14:44:42
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select OrderVersion,OrderCyc from Seller w' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select OrderVersion,OrderCyc from Seller w' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetOrderVersion(String strNick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 178
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 14:47:11
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetShopName(String nick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 1238
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 14:47:11
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select CellPhone from Seller where NICK = ' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select CellPhone from Seller where NICK = ' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetSellerPhone(String nick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 1262
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 14:47:11
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetShopName(String nick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 1238
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 14:47:11
+错误号:         1000
+标题:           参数化查询 '(@sellerNick nvarchar(4000))SELECT serviceStatus FROM MsgTrans W' 需要参数 @sellerNick，但未提供该参数。
+内容:           参数化查询 '(@sellerNick nvarchar(4000))SELECT serviceStatus FROM MsgTrans W' 需要参数 @sellerNick，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.MsgDAL.CheckSellerMsgTransIsExit(String sellerNick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\MsgDAL.cs:行号 181
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 14:47:11
+错误号:         1000
+标题:           参数化查询 '(@packageName nvarchar(16),@type nvarchar(4),@price int,@perPric' 需要参数 @sellerNick，但未提供该参数。
+内容:           参数化查询 '(@packageName nvarchar(16),@type nvarchar(4),@price int,@perPric' 需要参数 @sellerNick，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 65
+   在 CTCRM.DAL.MsgDAL.AddMsgPackage(MsgPackage obj) 位置 c:\TB项目\CRM0101\CTCRM.DAL\MsgDAL.cs:行号 33
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 14:47:11
+错误号:         1000
+标题:           参数化查询 '(@packageName nvarchar(16),@canUseStartDate datetime,@msgCanUseC' 需要参数 @sellerNick，但未提供该参数。
+内容:           参数化查询 '(@packageName nvarchar(16),@canUseStartDate datetime,@msgCanUseC' 需要参数 @sellerNick，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 65
+   在 CTCRM.DAL.MsgDAL.AddMsgTrans(MsgPackage obj) 位置 c:\TB项目\CRM0101\CTCRM.DAL\MsgDAL.cs:行号 212
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 14:47:11
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select OrderVersion,OrderCyc from Seller w' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select OrderVersion,OrderCyc from Seller w' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetOrderVersion(String strNick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 178
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 15:06:45
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetShopName(String nick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 1238
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 15:06:45
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select CellPhone from Seller where NICK = ' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select CellPhone from Seller where NICK = ' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetSellerPhone(String nick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 1262
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 15:06:45
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetShopName(String nick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 1238
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 15:06:45
+错误号:         1000
+标题:           参数化查询 '(@sellerNick nvarchar(4000))SELECT serviceStatus FROM MsgTrans W' 需要参数 @sellerNick，但未提供该参数。
+内容:           参数化查询 '(@sellerNick nvarchar(4000))SELECT serviceStatus FROM MsgTrans W' 需要参数 @sellerNick，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.MsgDAL.CheckSellerMsgTransIsExit(String sellerNick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\MsgDAL.cs:行号 181
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 15:06:46
+错误号:         1000
+标题:           参数化查询 '(@packageName nvarchar(16),@type nvarchar(4),@price int,@perPric' 需要参数 @sellerNick，但未提供该参数。
+内容:           参数化查询 '(@packageName nvarchar(16),@type nvarchar(4),@price int,@perPric' 需要参数 @sellerNick，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 65
+   在 CTCRM.DAL.MsgDAL.AddMsgPackage(MsgPackage obj) 位置 c:\TB项目\CRM0101\CTCRM.DAL\MsgDAL.cs:行号 33
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 15:06:46
+错误号:         1000
+标题:           参数化查询 '(@packageName nvarchar(16),@canUseStartDate datetime,@msgCanUseC' 需要参数 @sellerNick，但未提供该参数。
+内容:           参数化查询 '(@packageName nvarchar(16),@canUseStartDate datetime,@msgCanUseC' 需要参数 @sellerNick，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 65
+   在 CTCRM.DAL.MsgDAL.AddMsgTrans(MsgPackage obj) 位置 c:\TB项目\CRM0101\CTCRM.DAL\MsgDAL.cs:行号 212
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 15:06:46
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select OrderVersion,OrderCyc from Seller w' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select OrderVersion,OrderCyc from Seller w' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetOrderVersion(String strNick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 178
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 15:08:19
+错误号:         1
+标题:           {"user_response":{"user":{"user_id":"","nick":"","shop_name":""},"address":{"city":"\u6210\u90FD\u5E02","contact_name":"\u674E\u70AB","country":"\u6B66\u4FAF\u533A","province":"\u56DB\u5DDD\u7701","phone":"","mobile":"18980517951","zip_code":"610000","addr":"\u4E2D\u82D1\u5DF7\u5357\u65B9\u82B1\u56ED3-11-4"}}}
+内容:           {"user_response":{"user":{"user_id":"","nick":"","shop_name":""},"address":{"city":"\u6210\u90FD\u5E02","contact_name":"\u674E\u70AB","country":"\u6B66\u4FAF\u533A","province":"\u56DB\u5DDD\u7701","phone":"","mobile":"18980517951","zip_code":"610000","addr":"\u4E2D\u82D1\u5DF7\u5357\u65B9\u82B1\u56ED3-11-4"}}}
+出现错误的位置: TBApply_Data
+错误级别:       important
+=====================================
+
+===================================
+时间:           2016/3/25 15:09:22
+错误号:         1000
+标题:           未将对象引用设置到对象的实例。
+内容:           未将对象引用设置到对象的实例。
+CTCRM.Common
+   在 CTCRM.Common.UTF8String.ValueOf(String content) 位置 c:\TB项目\CRM0101\Common\UTF8String.cs:行号 135
+   在 CTCRM.print.index.user_get() 位置 c:\TB项目\CRM0101\CTCRM\print\index.aspx.cs:行号 92
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 16:10:33
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetShopName(String nick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 1238
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 16:10:33
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select CellPhone from Seller where NICK = ' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select CellPhone from Seller where NICK = ' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetSellerPhone(String nick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 1262
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 16:10:33
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetShopName(String nick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 1238
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 16:10:33
+错误号:         1000
+标题:           参数化查询 '(@sellerNick nvarchar(4000))SELECT serviceStatus FROM MsgTrans W' 需要参数 @sellerNick，但未提供该参数。
+内容:           参数化查询 '(@sellerNick nvarchar(4000))SELECT serviceStatus FROM MsgTrans W' 需要参数 @sellerNick，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.MsgDAL.CheckSellerMsgTransIsExit(String sellerNick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\MsgDAL.cs:行号 181
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 16:10:33
+错误号:         1000
+标题:           参数化查询 '(@packageName nvarchar(16),@type nvarchar(4),@price int,@perPric' 需要参数 @sellerNick，但未提供该参数。
+内容:           参数化查询 '(@packageName nvarchar(16),@type nvarchar(4),@price int,@perPric' 需要参数 @sellerNick，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 65
+   在 CTCRM.DAL.MsgDAL.AddMsgPackage(MsgPackage obj) 位置 c:\TB项目\CRM0101\CTCRM.DAL\MsgDAL.cs:行号 33
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 16:10:33
+错误号:         1000
+标题:           参数化查询 '(@packageName nvarchar(16),@canUseStartDate datetime,@msgCanUseC' 需要参数 @sellerNick，但未提供该参数。
+内容:           参数化查询 '(@packageName nvarchar(16),@canUseStartDate datetime,@msgCanUseC' 需要参数 @sellerNick，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 65
+   在 CTCRM.DAL.MsgDAL.AddMsgTrans(MsgPackage obj) 位置 c:\TB项目\CRM0101\CTCRM.DAL\MsgDAL.cs:行号 212
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 16:10:33
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select OrderVersion,OrderCyc from Seller w' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select OrderVersion,OrderCyc from Seller w' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetOrderVersion(String strNick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 178
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 16:10:51
+错误号:         1
+标题:           start_created: 2016-03-25 14:55:00 end_created: 2016-03-25 16:06:18 pageNO: 1 sessionKey：6202b059c7f5bdfafab43ab989e3d32c436a2f8e9ef542d599517280
+内容:           start_created: 2016-03-25 14:55:00 end_created: 2016-03-25 16:06:18 pageNO: 1 sessionKey：6202b059c7f5bdfafab43ab989e3d32c436a2f8e9ef542d599517280
+出现错误的位置: TBApply_Data
+错误级别:       important
+=====================================
+
+===================================
+时间:           2016/3/25 17:18:58
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetShopName(String nick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 1238
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 17:18:58
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select CellPhone from Seller where NICK = ' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select CellPhone from Seller where NICK = ' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetSellerPhone(String nick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 1262
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 17:18:58
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetShopName(String nick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 1238
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 17:18:58
+错误号:         1000
+标题:           参数化查询 '(@sellerNick nvarchar(4000))SELECT serviceStatus FROM MsgTrans W' 需要参数 @sellerNick，但未提供该参数。
+内容:           参数化查询 '(@sellerNick nvarchar(4000))SELECT serviceStatus FROM MsgTrans W' 需要参数 @sellerNick，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.MsgDAL.CheckSellerMsgTransIsExit(String sellerNick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\MsgDAL.cs:行号 181
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 17:18:58
+错误号:         1000
+标题:           参数化查询 '(@packageName nvarchar(16),@type nvarchar(4),@price int,@perPric' 需要参数 @sellerNick，但未提供该参数。
+内容:           参数化查询 '(@packageName nvarchar(16),@type nvarchar(4),@price int,@perPric' 需要参数 @sellerNick，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 65
+   在 CTCRM.DAL.MsgDAL.AddMsgPackage(MsgPackage obj) 位置 c:\TB项目\CRM0101\CTCRM.DAL\MsgDAL.cs:行号 33
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 17:18:58
+错误号:         1000
+标题:           参数化查询 '(@packageName nvarchar(16),@canUseStartDate datetime,@msgCanUseC' 需要参数 @sellerNick，但未提供该参数。
+内容:           参数化查询 '(@packageName nvarchar(16),@canUseStartDate datetime,@msgCanUseC' 需要参数 @sellerNick，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 65
+   在 CTCRM.DAL.MsgDAL.AddMsgTrans(MsgPackage obj) 位置 c:\TB项目\CRM0101\CTCRM.DAL\MsgDAL.cs:行号 212
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 17:18:58
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select OrderVersion,OrderCyc from Seller w' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select OrderVersion,OrderCyc from Seller w' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetOrderVersion(String strNick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 178
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 17:19:16
+错误号:         1
+标题:           start_created: 2016-03-25 14:55:00 end_created: 2016-03-25 16:06:18 pageNO: 1 sessionKey：6200d29677ba768fee1554ac79b840286ce2fhjfdd6a319599517280
+内容:           start_created: 2016-03-25 14:55:00 end_created: 2016-03-25 16:06:18 pageNO: 1 sessionKey：6200d29677ba768fee1554ac79b840286ce2fhjfdd6a319599517280
+出现错误的位置: TBApply_Data
+错误级别:       important
+=====================================
+
+===================================
+时间:           2016/3/25 17:26:02
+错误号:         1
+标题:           {"trades_response":{"trades":{"trade":[{"tid":"1746489466114637","type":"fixed","buyer_nick":"etaoq20886011658750340156","receiver_name":"李**","receiver_state":"湖北省","receiver_city":"武汉市","receiver_district":"江岸区","receiver_address":"车*街办事处西单商场对面金沙**中心C座","receiver_phone":"","receiver_mobile":"1801987****","receiver_zip":"430014","buyer_area":"四川成都电信","created":"2016-03-25 15:59:18","seller_nick":"ljhkim6","payment":"17.00","status":"WAIT_SELLER_SEND_GOODS","shipping_type":"express","pay_time":"2016-03-25 16:00:43","modified":"2016-03-25 16:00:43","orders":{"order":[{"outer_iid":null,"discount_fee":"0.00","payment":"17.00","status":"WAIT_SELLER_SEND_GOODS","pic_path":"http://img02.taobaocdn.com/bao/uploaded/i2/TB1JRInIFXXXXavXpXXXXXXXXXX_!!0-item_pic.jpg","sku_properties_name":null,"adjust_fee":"0.00","outer_sku_id":null,"cid":"50000697","item_meal_name":null,"num":"1","title":"官方旗舰店女秋时尚百搭银线连帽休闲长袖毛衫开衫（测试）","price":"7.00","oid":"1746489466114637","total_fee":"7.00","num_iid":"520791716048","sku_id":null,"seller_type":"C","refund_id":"0","refund_status":"NO_REFUND"}]},"promotion_details":null,"post_fee":"10.00"},{"tid":"1746759204928520","type":"fixed","buyer_nick":"alitestforisv01","receiver_name":"马*","receiver_state":"广西壮族自治区","receiver_city":"柳州市","receiver_district":"鱼峰区","receiver_address":"驾*街道杭州**路","receiver_phone":"","receiver_mobile":"1595167****","receiver_zip":"000000","buyer_area":"四川成都电信","created":"2016-03-25 15:56:02","seller_nick":"ljhkim6","payment":"17.00","status":"TRADE_NO_CREATE_PAY","shipping_type":"express","pay_time":null,"modified":"2016-03-25 15:56:40","orders":{"order":[{"outer_iid":null,"discount_fee":"0.00","payment":"17.00","status":"TRADE_NO_CREATE_PAY","pic_path":"http://img02.taobaocdn.com/bao/uploaded/i2/TB1JRInIFXXXXavXpXXXXXXXXXX_!!0-item_pic.jpg","sku_properties_name":null,"adjust_fee":"0.00","outer_sku_id":null,"cid":"50000697","item_meal_name":null,"num":"1","title":"官方旗舰店女秋时尚百搭银线连帽休闲长袖毛衫开衫（测试）","price":"7.00","oid":"1746759204928520","total_fee":"7.00","num_iid":"520791716048","sku_id":null,"seller_type":"C","refund_id":"0","refund_status":"NO_REFUND"}]},"promotion_details":null,"post_fee":"10.00"}]},"has_next":false}}
+内容:           {"trades_response":{"trades":{"trade":[{"tid":"1746489466114637","type":"fixed","buyer_nick":"etaoq20886011658750340156","receiver_name":"李**","receiver_state":"湖北省","receiver_city":"武汉市","receiver_district":"江岸区","receiver_address":"车*街办事处西单商场对面金沙**中心C座","receiver_phone":"","receiver_mobile":"1801987****","receiver_zip":"430014","buyer_area":"四川成都电信","created":"2016-03-25 15:59:18","seller_nick":"ljhkim6","payment":"17.00","status":"WAIT_SELLER_SEND_GOODS","shipping_type":"express","pay_time":"2016-03-25 16:00:43","modified":"2016-03-25 16:00:43","orders":{"order":[{"outer_iid":null,"discount_fee":"0.00","payment":"17.00","status":"WAIT_SELLER_SEND_GOODS","pic_path":"http://img02.taobaocdn.com/bao/uploaded/i2/TB1JRInIFXXXXavXpXXXXXXXXXX_!!0-item_pic.jpg","sku_properties_name":null,"adjust_fee":"0.00","outer_sku_id":null,"cid":"50000697","item_meal_name":null,"num":"1","title":"官方旗舰店女秋时尚百搭银线连帽休闲长袖毛衫开衫（测试）","price":"7.00","oid":"1746489466114637","total_fee":"7.00","num_iid":"520791716048","sku_id":null,"seller_type":"C","refund_id":"0","refund_status":"NO_REFUND"}]},"promotion_details":null,"post_fee":"10.00"},{"tid":"1746759204928520","type":"fixed","buyer_nick":"alitestforisv01","receiver_name":"马*","receiver_state":"广西壮族自治区","receiver_city":"柳州市","receiver_district":"鱼峰区","receiver_address":"驾*街道杭州**路","receiver_phone":"","receiver_mobile":"1595167****","receiver_zip":"000000","buyer_area":"四川成都电信","created":"2016-03-25 15:56:02","seller_nick":"ljhkim6","payment":"17.00","status":"TRADE_NO_CREATE_PAY","shipping_type":"express","pay_time":null,"modified":"2016-03-25 15:56:40","orders":{"order":[{"outer_iid":null,"discount_fee":"0.00","payment":"17.00","status":"TRADE_NO_CREATE_PAY","pic_path":"http://img02.taobaocdn.com/bao/uploaded/i2/TB1JRInIFXXXXavXpXXXXXXXXXX_!!0-item_pic.jpg","sku_properties_name":null,"adjust_fee":"0.00","outer_sku_id":null,"cid":"50000697","item_meal_name":null,"num":"1","title":"官方旗舰店女秋时尚百搭银线连帽休闲长袖毛衫开衫（测试）","price":"7.00","oid":"1746759204928520","total_fee":"7.00","num_iid":"520791716048","sku_id":null,"seller_type":"C","refund_id":"0","refund_status":"NO_REFUND"}]},"promotion_details":null,"post_fee":"10.00"}]},"has_next":false}}
+出现错误的位置: TBApply_Data
+错误级别:       important
+=====================================
+
+===================================
+时间:           2016/3/25 17:30:56
+错误号:         1
+标题:           start_created: 2016-03-25 14:55:00 end_created: 2016-03-25 16:06:18 pageNO: 1 sessionKey：6200d29677ba768fee1554ac79b840286ce2fhjfdd6a319599517280
+内容:           start_created: 2016-03-25 14:55:00 end_created: 2016-03-25 16:06:18 pageNO: 1 sessionKey：6200d29677ba768fee1554ac79b840286ce2fhjfdd6a319599517280
+出现错误的位置: TBApply_Data
+错误级别:       important
+=====================================
+
+===================================
+时间:           2016/3/25 17:31:04
+错误号:         1
+标题:           {"trades_response":{"trades":{"trade":[{"tid":"1746489466114637","type":"fixed","buyer_nick":"etaoq20886011658750340156","receiver_name":"李**","receiver_state":"湖北省","receiver_city":"武汉市","receiver_district":"江岸区","receiver_address":"车*街办事处西单商场对面金沙**中心C座","receiver_phone":"","receiver_mobile":"1801987****","receiver_zip":"430014","buyer_area":"四川成都电信","created":"2016-03-25 15:59:18","seller_nick":"ljhkim6","payment":"17.00","status":"WAIT_SELLER_SEND_GOODS","shipping_type":"express","pay_time":"2016-03-25 16:00:43","modified":"2016-03-25 16:00:43","orders":{"order":[{"outer_iid":"","discount_fee":"0.00","payment":"17.00","status":"WAIT_SELLER_SEND_GOODS","pic_path":"http://img02.taobaocdn.com/bao/uploaded/i2/TB1JRInIFXXXXavXpXXXXXXXXXX_!!0-item_pic.jpg","sku_properties_name":"","adjust_fee":"0.00","outer_sku_id":"","cid":"50000697","item_meal_name":"","num":"1","title":"官方旗舰店女秋时尚百搭银线连帽休闲长袖毛衫开衫（测试）","price":"7.00","oid":"1746489466114637","total_fee":"7.00","num_iid":"520791716048","sku_id":"","seller_type":"C","refund_id":"0","refund_status":"NO_REFUND"}]},"promotion_details":null,"post_fee":"10.00"},{"tid":"1746759204928520","type":"fixed","buyer_nick":"alitestforisv01","receiver_name":"马*","receiver_state":"广西壮族自治区","receiver_city":"柳州市","receiver_district":"鱼峰区","receiver_address":"驾*街道杭州**路","receiver_phone":"","receiver_mobile":"1595167****","receiver_zip":"000000","buyer_area":"四川成都电信","created":"2016-03-25 15:56:02","seller_nick":"ljhkim6","payment":"17.00","status":"TRADE_NO_CREATE_PAY","shipping_type":"express","pay_time":"","modified":"2016-03-25 15:56:40","orders":{"order":[{"outer_iid":"","discount_fee":"0.00","payment":"17.00","status":"TRADE_NO_CREATE_PAY","pic_path":"http://img02.taobaocdn.com/bao/uploaded/i2/TB1JRInIFXXXXavXpXXXXXXXXXX_!!0-item_pic.jpg","sku_properties_name":"","adjust_fee":"0.00","outer_sku_id":"","cid":"50000697","item_meal_name":"","num":"1","title":"官方旗舰店女秋时尚百搭银线连帽休闲长袖毛衫开衫（测试）","price":"7.00","oid":"1746759204928520","total_fee":"7.00","num_iid":"520791716048","sku_id":"","seller_type":"C","refund_id":"0","refund_status":"NO_REFUND"}]},"promotion_details":null,"post_fee":"10.00"}]},"has_next":false}}
+内容:           {"trades_response":{"trades":{"trade":[{"tid":"1746489466114637","type":"fixed","buyer_nick":"etaoq20886011658750340156","receiver_name":"李**","receiver_state":"湖北省","receiver_city":"武汉市","receiver_district":"江岸区","receiver_address":"车*街办事处西单商场对面金沙**中心C座","receiver_phone":"","receiver_mobile":"1801987****","receiver_zip":"430014","buyer_area":"四川成都电信","created":"2016-03-25 15:59:18","seller_nick":"ljhkim6","payment":"17.00","status":"WAIT_SELLER_SEND_GOODS","shipping_type":"express","pay_time":"2016-03-25 16:00:43","modified":"2016-03-25 16:00:43","orders":{"order":[{"outer_iid":"","discount_fee":"0.00","payment":"17.00","status":"WAIT_SELLER_SEND_GOODS","pic_path":"http://img02.taobaocdn.com/bao/uploaded/i2/TB1JRInIFXXXXavXpXXXXXXXXXX_!!0-item_pic.jpg","sku_properties_name":"","adjust_fee":"0.00","outer_sku_id":"","cid":"50000697","item_meal_name":"","num":"1","title":"官方旗舰店女秋时尚百搭银线连帽休闲长袖毛衫开衫（测试）","price":"7.00","oid":"1746489466114637","total_fee":"7.00","num_iid":"520791716048","sku_id":"","seller_type":"C","refund_id":"0","refund_status":"NO_REFUND"}]},"promotion_details":null,"post_fee":"10.00"},{"tid":"1746759204928520","type":"fixed","buyer_nick":"alitestforisv01","receiver_name":"马*","receiver_state":"广西壮族自治区","receiver_city":"柳州市","receiver_district":"鱼峰区","receiver_address":"驾*街道杭州**路","receiver_phone":"","receiver_mobile":"1595167****","receiver_zip":"000000","buyer_area":"四川成都电信","created":"2016-03-25 15:56:02","seller_nick":"ljhkim6","payment":"17.00","status":"TRADE_NO_CREATE_PAY","shipping_type":"express","pay_time":"","modified":"2016-03-25 15:56:40","orders":{"order":[{"outer_iid":"","discount_fee":"0.00","payment":"17.00","status":"TRADE_NO_CREATE_PAY","pic_path":"http://img02.taobaocdn.com/bao/uploaded/i2/TB1JRInIFXXXXavXpXXXXXXXXXX_!!0-item_pic.jpg","sku_properties_name":"","adjust_fee":"0.00","outer_sku_id":"","cid":"50000697","item_meal_name":"","num":"1","title":"官方旗舰店女秋时尚百搭银线连帽休闲长袖毛衫开衫（测试）","price":"7.00","oid":"1746759204928520","total_fee":"7.00","num_iid":"520791716048","sku_id":"","seller_type":"C","refund_id":"0","refund_status":"NO_REFUND"}]},"promotion_details":null,"post_fee":"10.00"}]},"has_next":false}}
+出现错误的位置: TBApply_Data
+错误级别:       important
+=====================================
+
+===================================
+时间:           2016/3/25 17:31:06
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetShopName(String nick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 1238
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 17:31:06
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select CellPhone from Seller where NICK = ' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select CellPhone from Seller where NICK = ' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetSellerPhone(String nick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 1262
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 17:31:06
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select SignShopName from Seller where NICK' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetShopName(String nick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 1238
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 17:31:06
+错误号:         1000
+标题:           参数化查询 '(@sellerNick nvarchar(4000))SELECT serviceStatus FROM MsgTrans W' 需要参数 @sellerNick，但未提供该参数。
+内容:           参数化查询 '(@sellerNick nvarchar(4000))SELECT serviceStatus FROM MsgTrans W' 需要参数 @sellerNick，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.MsgDAL.CheckSellerMsgTransIsExit(String sellerNick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\MsgDAL.cs:行号 181
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 17:31:06
+错误号:         1000
+标题:           参数化查询 '(@packageName nvarchar(16),@type nvarchar(4),@price int,@perPric' 需要参数 @sellerNick，但未提供该参数。
+内容:           参数化查询 '(@packageName nvarchar(16),@type nvarchar(4),@price int,@perPric' 需要参数 @sellerNick，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 65
+   在 CTCRM.DAL.MsgDAL.AddMsgPackage(MsgPackage obj) 位置 c:\TB项目\CRM0101\CTCRM.DAL\MsgDAL.cs:行号 33
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 17:31:06
+错误号:         1000
+标题:           参数化查询 '(@packageName nvarchar(16),@canUseStartDate datetime,@msgCanUseC' 需要参数 @sellerNick，但未提供该参数。
+内容:           参数化查询 '(@packageName nvarchar(16),@canUseStartDate datetime,@msgCanUseC' 需要参数 @sellerNick，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 65
+   在 CTCRM.DAL.MsgDAL.AddMsgTrans(MsgPackage obj) 位置 c:\TB项目\CRM0101\CTCRM.DAL\MsgDAL.cs:行号 212
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 17:31:06
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select OrderVersion,OrderCyc from Seller w' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select OrderVersion,OrderCyc from Seller w' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetOrderVersion(String strNick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 178
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/3/25 17:35:16
+错误号:         1
+标题:           start_created: 2016-03-25 14:55:00 end_created: 2016-03-25 16:06:18 pageNO: 1 sessionKey：6200d29677ba768fee1554ac79b840286ce2fhjfdd6a319599517280
+内容:           start_created: 2016-03-25 14:55:00 end_created: 2016-03-25 16:06:18 pageNO: 1 sessionKey：6200d29677ba768fee1554ac79b840286ce2fhjfdd6a319599517280
+出现错误的位置: TBApply_Data
+错误级别:       important
+=====================================
+
+===================================
+时间:           2016/3/25 17:35:18
+错误号:         1
+标题:           {"trades_response":{"trades":{"trade":[{"tid":"1746489466114637","type":"fixed","buyer_nick":"etaoq20886011658750340156","receiver_name":"李**","receiver_state":"湖北省","receiver_city":"武汉市","receiver_district":"江岸区","receiver_address":"车*街办事处西单商场对面金沙**中心C座","receiver_phone":"","receiver_mobile":"1801987****","receiver_zip":"430014","buyer_area":"四川成都电信","created":"2016-03-25 15:59:18","seller_nick":"ljhkim6","payment":"17.00","status":"WAIT_SELLER_SEND_GOODS","shipping_type":"express","pay_time":"2016-03-25 16:00:43","modified":"2016-03-25 16:00:43","orders":{"order":[{"outer_iid":"","discount_fee":"0.00","payment":"17.00","status":"WAIT_SELLER_SEND_GOODS","pic_path":"http://img02.taobaocdn.com/bao/uploaded/i2/TB1JRInIFXXXXavXpXXXXXXXXXX_!!0-item_pic.jpg","sku_properties_name":"","adjust_fee":"0.00","outer_sku_id":"","cid":"50000697","item_meal_name":"","num":"1","title":"官方旗舰店女秋时尚百搭银线连帽休闲长袖毛衫开衫（测试）","price":"7.00","oid":"1746489466114637","total_fee":"7.00","num_iid":"520791716048","sku_id":"","seller_type":"C","refund_id":"0","refund_status":"NO_REFUND"}]},"promotion_details":null,"post_fee":"10.00"},{"tid":"1746759204928520","type":"fixed","buyer_nick":"alitestforisv01","receiver_name":"马*","receiver_state":"广西壮族自治区","receiver_city":"柳州市","receiver_district":"鱼峰区","receiver_address":"驾*街道杭州**路","receiver_phone":"","receiver_mobile":"1595167****","receiver_zip":"000000","buyer_area":"四川成都电信","created":"2016-03-25 15:56:02","seller_nick":"ljhkim6","payment":"17.00","status":"TRADE_NO_CREATE_PAY","shipping_type":"express","pay_time":"","modified":"2016-03-25 15:56:40","orders":{"order":[{"outer_iid":"","discount_fee":"0.00","payment":"17.00","status":"TRADE_NO_CREATE_PAY","pic_path":"http://img02.taobaocdn.com/bao/uploaded/i2/TB1JRInIFXXXXavXpXXXXXXXXXX_!!0-item_pic.jpg","sku_properties_name":"","adjust_fee":"0.00","outer_sku_id":"","cid":"50000697","item_meal_name":"","num":"1","title":"官方旗舰店女秋时尚百搭银线连帽休闲长袖毛衫开衫（测试）","price":"7.00","oid":"1746759204928520","total_fee":"7.00","num_iid":"520791716048","sku_id":"","seller_type":"C","refund_id":"0","refund_status":"NO_REFUND"}]},"promotion_details":null,"post_fee":"10.00"}]},"has_next":false}}
+内容:           {"trades_response":{"trades":{"trade":[{"tid":"1746489466114637","type":"fixed","buyer_nick":"etaoq20886011658750340156","receiver_name":"李**","receiver_state":"湖北省","receiver_city":"武汉市","receiver_district":"江岸区","receiver_address":"车*街办事处西单商场对面金沙**中心C座","receiver_phone":"","receiver_mobile":"1801987****","receiver_zip":"430014","buyer_area":"四川成都电信","created":"2016-03-25 15:59:18","seller_nick":"ljhkim6","payment":"17.00","status":"WAIT_SELLER_SEND_GOODS","shipping_type":"express","pay_time":"2016-03-25 16:00:43","modified":"2016-03-25 16:00:43","orders":{"order":[{"outer_iid":"","discount_fee":"0.00","payment":"17.00","status":"WAIT_SELLER_SEND_GOODS","pic_path":"http://img02.taobaocdn.com/bao/uploaded/i2/TB1JRInIFXXXXavXpXXXXXXXXXX_!!0-item_pic.jpg","sku_properties_name":"","adjust_fee":"0.00","outer_sku_id":"","cid":"50000697","item_meal_name":"","num":"1","title":"官方旗舰店女秋时尚百搭银线连帽休闲长袖毛衫开衫（测试）","price":"7.00","oid":"1746489466114637","total_fee":"7.00","num_iid":"520791716048","sku_id":"","seller_type":"C","refund_id":"0","refund_status":"NO_REFUND"}]},"promotion_details":null,"post_fee":"10.00"},{"tid":"1746759204928520","type":"fixed","buyer_nick":"alitestforisv01","receiver_name":"马*","receiver_state":"广西壮族自治区","receiver_city":"柳州市","receiver_district":"鱼峰区","receiver_address":"驾*街道杭州**路","receiver_phone":"","receiver_mobile":"1595167****","receiver_zip":"000000","buyer_area":"四川成都电信","created":"2016-03-25 15:56:02","seller_nick":"ljhkim6","payment":"17.00","status":"TRADE_NO_CREATE_PAY","shipping_type":"express","pay_time":"","modified":"2016-03-25 15:56:40","orders":{"order":[{"outer_iid":"","discount_fee":"0.00","payment":"17.00","status":"TRADE_NO_CREATE_PAY","pic_path":"http://img02.taobaocdn.com/bao/uploaded/i2/TB1JRInIFXXXXavXpXXXXXXXXXX_!!0-item_pic.jpg","sku_properties_name":"","adjust_fee":"0.00","outer_sku_id":"","cid":"50000697","item_meal_name":"","num":"1","title":"官方旗舰店女秋时尚百搭银线连帽休闲长袖毛衫开衫（测试）","price":"7.00","oid":"1746759204928520","total_fee":"7.00","num_iid":"520791716048","sku_id":"","seller_type":"C","refund_id":"0","refund_status":"NO_REFUND"}]},"promotion_details":null,"post_fee":"10.00"}]},"has_next":false}}
+出现错误的位置: TBApply_Data
+错误级别:       important
+=====================================

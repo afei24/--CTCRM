@@ -1,0 +1,4 @@
+D:\projects\CTCRM-Source\TopSdk\bin\Release\TopSdk.dll
+D:\projects\CTCRM-Source\TopSdk\bin\Release\TopSdk.pdb
+D:\projects\CTCRM-Source\TopSdk\obj\Release\TopSdk.dll
+D:\projects\CTCRM-Source\TopSdk\obj\Release\TopSdk.pdb

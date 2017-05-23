@@ -1,0 +1,28 @@
+﻿/*顶部*/
+*{padding: 0;margin: 0; font-family:宋体; font-size:12px;}
+a{ cursor:pointer;  text-decoration:none;}
+body,body form,body form #main{width:100%;height: 100%;}
+body form #main #top,body form #main #bottom{ width:100%; height:100%; }
+body form #main #top{ height:150px;*height:146px; background-image:url("../Images/Temp/pic_001.jpg"); background-repeat:repeat-x;margin-top:-6px;}
+body form #main .t_c{ height:100%; width:982px; margin:0 auto; padding-top:5px;}
+body form #main .t_c_m{ padding-top:0px;}
+body form #main .t_c .t_c_t,body form #main .t_c .t_c_b{ width:100%;}
+body form #main .t_c .t_c_t{  height:100px; background-image:url("../Images/Temp/pic_002a.png"); background-repeat:no-repeat;}
+body form #main .t_c .t_c_t .t_c_t_u{ position:relative; width:250px;  left:73%;   top:65%; list-style-type:none;}
+body form #main .t_c .t_c_t .t_c_t_u .t_c_t_l{ display:block; width:83px; height:40%; float:left;}
+body form #main .t_c .t_c_t .t_c_t_u  .t_c_t_l_m{ width:42px;}
+body form #main .t_c .t_c_t .t_c_t_u  .t_c_t_l_l{ width:50px;}
+body form #main .t_c .t_c_t .t_c_t_u .t_c_t_l a{  color:White; line-height:44px; text-align:right; display:block;}
+form #main .t_c .t_c_b{ height:40px; margin-top:4px;}
+form #main .t_c .t_c_b .nav{   width:100%; height:100%; list-style:none;margin-top:7px;}
+form #main .t_c .t_c_b .nav .n_l{ width:120px; float:left; height:30px; margin-top:4px;  }
+form #main .t_c .t_c_b .nav .n_l_f{ margin-left:30px;}
+form #main .t_c .t_c_b .nav .n_l .n_a{ display:block; width:100%; height:100%; line-height:30px; text-align:center; font-size:14px; color:White; text-decoration:none; font-weight:bold;}
+form #main .t_c .t_c_b .nav .n_l .n_a:hover,.NavSelected{ background:url("../Images/Temp/pic_007.png"); background-repeat:no-repeat; background-position:14px 0;}
+form #main  #bottom{  height:500px; background-image:url("../Images/Temp/pic_006.png"); background-color:#fbfbfa; background-repeat:repeat-x;}
+#bottom .t_c .b_t,#bottom .t_c .b_b{ height:9px;}
+#bottom .t_c .b_m{ height:450px; background-image:url("../Images/Temp/Pic_004.jpg"); background-repeat:repeat-y;}
+#bottom .t_c .b_t{ background-image:url("../Images/Temp/pic_003.png"); background-repeat:no-repeat;}
+#bottom .t_c .b_b{ background-image:url("../Images/Temp/pic_005.png"); background-repeat:no-repeat;}
+#bottom .t_c .b_m .b_c{ width:92.5%;   margin-left:3%; height:100%;}
+.exit{  width:80px; height:40px;}

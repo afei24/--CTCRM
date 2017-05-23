@@ -1,0 +1,226 @@
+﻿/*顶部*/
+* {
+
+    font-family: 宋体;
+
+    margin-top: 0;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+body, body form, body form #main {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+    body form #main #top, body form #main #bottom {
+        width: 50%;
+        height: 100%;
+        margin-top:-7px;
+        float:left;
+
+    }
+
+    body form #main #top {
+        height: 1217px;
+        background-color:#EDEEF2;
+        width:20%;
+    }
+
+    body form #main .t_c {
+        height: 461px;
+        width: 90%;
+        /*padding-top: 5px;*/
+    }
+
+
+    body form #main .t_c .t_c_t {
+        width: 100%;
+    }
+    /*导航栏*/
+        body form #main .t_c .t_c_b
+        {
+            width: 80%;
+            height:161%;
+        }
+    form #main .t_c .t_c_b .nav {
+        height: 100%;
+        width: 5%;
+        list-style: none;
+    }
+
+        form #main .t_c .t_c_b .nav .n_l {
+            width: 200px;
+            float: left;
+            height: 40px;
+            
+            /*background-image:url("Images/Temp/n_l.PNG");*/
+            background-repeat: repeat-x;
+        }
+        /*LOGO*/
+        .n_logo{
+            padding-left:40px;
+            width: 314px;
+            float: left;
+            height: 80px;
+            background-image:url("Images/logo.jpg");
+        }
+        .tou
+        {
+            float: right;
+            height: 84px;
+            width: 10px;
+        }
+        .n_user{
+            padding-left:40px;
+            width: 314px;
+            float: left;
+            height: 82px;
+        }
+        .user
+        {
+            text-align:center;
+            padding-top:30px;
+        }
+
+        form #main .t_c .t_c_b .nav .n_l_f {
+            width: 96px;
+            height: 32px;
+        }
+
+        form #main .t_c .t_c_b .nav .n_l .n_a {
+            width: 314px;
+            height: 40px;
+            display: block;
+            line-height: 40px;
+            text-align: center;
+            font-size: 14px;
+            color: White;
+            text-decoration: none;
+            font-weight: bold;
+            background-color:#2F3A4C;
+        }
+
+            form #main .t_c .t_c_b .nav .n_l .n_a:hover, .NavSelected {
+                width: 314px;
+                height: 40px;
+                display: block;
+                line-height: 40px;
+                text-align: center;
+                font-size: 14px;
+                color: White;
+                text-decoration: none;
+                font-weight: bold;
+                background-color:black;
+            }
+    .navlist {
+        position: relative;
+        width: 960px;
+        margin: 0 auto;
+        overflow: hidden;
+        height: 50px;
+        font-family: Arial,'Times New Roman','Microsoft YaHei',SimHei;
+        text-align: right;
+    }
+
+    .navlist li {
+        margin-top:5px;
+        float: left;
+        display: inline-block;
+        _display: inline;
+        line-height: 30px;
+        cursor: pointer;
+        height: 40px;
+        font-weight:200;
+        color:white;
+    }
+
+    .mod_user {
+        padding: 0 0 18px;
+        border-bottom: solid 1px #e4e4e4;
+        margin: 0 0 20px;
+        position: relative;
+    }
+
+    .header_top {
+        width: 100%;
+        height: 40px;
+        background: #2f2f2f;
+    }
+
+
+        body form #main .t_c .t_c_t .t_c_t_u {
+            position: relative;
+            width: 250px;
+            left: 73%;
+            top: 62%;
+            list-style-type: none;
+        }
+
+            body form #main .t_c .t_c_t .t_c_t_u .t_c_t_l {
+                display: block;
+                width: 83px;
+                height: 40%;
+                float: left;
+            }
+
+            body form #main .t_c .t_c_t .t_c_t_u .t_c_t_l_m {
+                width: 74px;
+            }
+
+            body form #main .t_c .t_c_t .t_c_t_u .t_c_t_l_l {
+                width: 113px;
+            }
+
+            body form #main .t_c .t_c_t .t_c_t_u .t_c_t_l a {
+                color: White;
+                line-height: 44px;
+                text-align: right;
+                display: block;
+            }
+
+
+    
+
+form #main #bottom {
+    height: 500px;
+    /*background-image: url("/Images/Temp/pic_006.jpg");*/
+    background-repeat: repeat-x;
+}
+
+#bottom .t_c .b_t, #bottom .t_c .b_b {
+    height: 14px;
+}
+
+#bottom .t_c .b_m {
+    height: auto;
+    width: 982px;
+    display: inline-block;
+    /*background-image: url("/Images/Temp/Pic_005.png");*/
+    background-repeat: repeat-y;
+}
+
+#bottom .t_c .b_t {
+    background-image: url("/Images/Temp/pic_003.jpg");
+    background-repeat: no-repeat;
+}
+
+#bottom .t_c .b_b {
+    background-image: url("/Images/Temp/pic_004.jpg");
+    background-repeat: no-repeat;
+}
+
+#bottom .t_c .b_m .b_c {
+    width: 92.5%;
+    margin-left: 3%;
+    height: 100%;
+}
+
+.exit {
+    width: 80px;
+    height: 40px;
+}

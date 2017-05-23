@@ -1,0 +1,383 @@
+@charset "utf-8";
+html {
+	color: #000;
+	background: #FFF;
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
+	margin: 0;
+	padding: 0;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+fieldset, img {
+	border: 0;
+}
+sup {
+	vertical-align: text-top
+}
+sub {
+	vertical-align: text-bottom
+}
+ol, ul {
+	list-style: none;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-size: 100%;
+	font-weight: normal;
+}
+q:before, q:after {
+	content: '';
+}
+input, textarea, select {
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: inherit;
+}
+input, textarea, select {
+ *font-size:100%;
+}
+caption, th {
+	text-align: left;
+}
+legend {
+	color: #000;
+}
+body, button, input, select, textarea {
+	font: 12px/1.5 arial, "宋体";
+ *line-height:1.5
+}
+a {
+	color: #666;
+	text-decoration: none
+}
+a:hover {
+	color: #b71635;
+	text-decoration: underline
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.fcl {
+	clear: both;
+}
+.clearfix:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+.clearfix {
+	display: inline-block;
+}
+/* Hides from IE-mac \*/
+* html .clearfix {
+	height: 1%;
+}
+.clearfix {
+	display: block;
+}
+/* End hide from IE-mac */
+
+
+body {
+	_text-align:center;
+}
+#toolbar {
+	height:30px;
+	color:#666;
+}
+#toolbar .wrap {
+	position:relative;	
+}
+#toolbar .wrap .wrap1 {
+	position:absolute;
+	right:0px;
+	top:0px;
+}
+#toolbar .i1 {
+	height:30px;
+	line-height:30px;
+	background:url(../images/b1.gif) no-repeat left top;
+	padding-left:20px;
+	float:left;
+}
+#toolbar .i1 span {
+	display:block;
+	background:url(../images/b2.gif) no-repeat right top;
+	height:30px;
+	padding-right:20px;
+}
+#toolbar .i1 span .xf {
+	color:#cf1101;
+	padding-left:5px;
+	padding-right:5px;
+}
+#toolbar .i1 span b {
+	color:#cf1101;
+	font-weight:bold;
+}
+#toolbar .i1 span a.cz {
+	display:inline-block;
+	margin-left:10px;
+	background:url(../images/btb1.gif) no-repeat;
+	width:60px;
+	height:19px;
+	line-height:19px;
+	text-align:center;
+	color:#fff;
+	text-decoration:none;
+}
+#toolbar .i2 {
+	height:30px;
+	line-height:30px;
+	float:left;
+	margin:0px 10px;
+}
+#toolbar .i2 a{
+	color:#666;
+}
+
+#headwrap {
+	width:100%;
+	height:82px;
+	background:url(../images/hdb.gif) repeat-x top;
+	margin-top:-30px;
+	height:117px;
+	border-bottom:1px solid #bd3e38;
+}
+#hd .logo{
+	width:120px;
+	height:82px;
+	background:url(../images/logo.jpg) no-repeat top left;
+	float:left;
+}
+#nav {
+	width: 880px;
+	float:left;
+	margin-top:52px;
+	line-height: 30px;
+	background: #bd3e38;
+	position:relative;
+}
+#nav ul.navi {
+	height: 30px;
+	line-height: 30px;
+}
+.navi li {
+	float: left;
+	_width:50px;
+	_white-space:nowrap;
+	margin-right:2px;
+}
+.navi li a, .navi li span {
+	height:30px;
+	display:block;
+	position:relative;
+	color:#fff;
+}
+.navi li span.n a {
+	font-size: 16px;
+	color: #fff;
+	font-family:"微软雅黑","Arial";
+	font-weight: normal;
+	text-align:center;
+	_padding:0px 10px;
+	text-decoration:none;
+}
+.navi li span.n a span {
+	padding: 0px 16px;	
+}
+
+.navi li span.n a:hover , .navi li.on span.n a, .navi li span.n a.sele {
+	background:#fff url(../images/nb1.gif) no-repeat left top;
+	color:#bb3937;
+}
+.navi li span.n a:hover span , .navi li.on span.n a.sele span,  .navi li span.n a.sele span{
+	background: url(../images/nb2.gif) no-repeat right top;
+	color:#bb3937;
+	font-weight:bold;
+}
+
+.navi li .navi2 {
+	position: absolute;
+	left: -120px;
+	padding-left:120px;
+	width: 100%;
+	height:35px;	
+	line-height:35px;
+
+	background:#fff;
+	font-family:"微软雅黑","Arial";
+}
+.navi2 {
+	display:none;
+}
+.navi li.on .navi2 {
+	display: block;
+}
+.navi2 li span, .navi2 li a{
+	background:none;
+	color:#333;
+	font-size:15px;
+	font-weight:normal;
+	line-height:33px;
+	height:35px;
+	text-decoration:none;
+	padding-left:10px;
+	padding-right:10px;
+}
+.navi2 li a:hover, .navi2 li a:hover span, .navi2 li.on a,.navi2 li.on a span{
+	background:none;
+	color:#bd3e38;
+	font-size:15px;
+	font-weight:normal;
+	border-bottom:2px solid #bd3e38;
+	line-height:33px;
+	height:33px;
+}
+#nav .tip {
+	float: right;
+}
+.navi li em {
+	position: absolute;
+	width: 32px;
+	height: 19px;
+	background: url(../img/common/beta.gif) no-repeat;
+	display: block;
+	right: 5px;
+	top: -6px;
+}
+.w {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.ad {
+	margin:15px auto;
+	width:1200px;
+}
+
+#footer {
+	width: 100%;
+	min-width: 1000px;
+	margin-top:10px;
+	border-top:1px solid #d3d3d3;
+}
+.foot {
+	width: 1000px;
+	margin: 0 auto;
+	text-align:center;	
+	color:#666;
+	line-height:22px;
+	padding:8px;
+}
+.foot a {
+	color:#666;
+}
+.foot img {
+	vertical-align:text-bottom;
+}
+
+.here {
+	height:34px;
+	line-height:34px;
+	padding-left:5px;
+	color:#666;
+}
+.here span {
+	font-family:"宋体";
+}
+
+
+
+#pager {
+	margin-top:6px;
+	margin-bottom:20px;
+}
+#pager ul {
+	float:right;
+}
+#pager ul li.act {
+	_width:70px;
+}
+#pager ul li {
+	float:left;
+	margin-left:5px;
+	_width:20px;
+	_text-align:center;
+}
+#pager ul li a {
+	display:block;
+	padding:6px 9px;
+	border:1px solid #d4d4d4;
+	text-align:center;
+	font-size:14px;
+	font-family:"微软雅黑","Arial";
+	color:#666;
+	text-decoration:none;
+	height:14px;
+	line-height:14px;
+}
+#pager ul li a:hover {
+	background:#b71735;
+	color:#fff;
+	border:1px solid #b71735;
+}
+#pager ul li.disable a{
+	color:#999;
+}
+#pager ul li.disable a:hover {
+	background:none;
+	color:#999;
+	border:1px solid #d4d4d4;
+}
+#pager ul li.cur a{
+	background:#b71735;
+	color:#fff;
+	border:1px solid #b71735;
+}
+
+/* popup */
+#container {
+	margin:0 auto;
+}
+#basic-modal {
+
+}
+#basic-modal-content {
+	display:none;
+
+}
+/* Overlay */
+#simplemodal-overlay {
+	background-color:#000;
+	_background-color:transparent;
+}
+/* Container */
+#simplemodal-container {
+	width:600px;
+	height:500px;
+	color:#333;
+	background:#bd3e38;
+	font: 12px/22px verdana, arial, sans-serif;
+}
+#simplemodal-container .simplemodal-data {
+	
+}
+#simplemodal-container a.modalCloseImg {
+	width:12px;
+	height:11px;
+	display:inline;
+	z-index:3200;
+	position:absolute;
+	top:10px;
+	right:11px;
+	cursor:pointer;
+	background: url(../images/x.gif) no-repeat;
+}

@@ -1,0 +1,540 @@
+
+===================================
+时间:           2016/9/12 10:49:11
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 10:49:11
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 10:49:11
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 10:49:11
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 10:49:11
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 10:49:11
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 10:49:11
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 10:49:11
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 10:49:11
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 10:49:11
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 10:49:11
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 10:49:11
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 10:49:22
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 10:49:22
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 10:49:22
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 10:49:22
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 10:49:22
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 10:49:22
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 10:49:22
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 10:49:22
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 10:49:22
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 10:49:22
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 10:49:22
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 10:49:22
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 16:13:15
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 16:13:15
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 16:13:15
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 16:13:15
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 16:13:15
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 16:13:15
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 16:13:15
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 16:13:15
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 16:13:15
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 16:13:15
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 16:13:15
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/12 16:13:15
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================

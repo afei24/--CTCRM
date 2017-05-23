@@ -1,0 +1,230 @@
+
+===================================
+时间:           2016/7/6 23:29:33
+错误号:         1000
+标题:           对象名 'Buyer_' 无效。
+内容:           对象名 'Buyer_' 无效。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType)
+   在 CTCRM.DAL.BuyerDAL.GetBuyerCount(String flag, String sellerNick, String Seller_Id)
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/7/6 23:29:35
+错误号:         1000
+标题:           对象名 'Buyer_' 无效。
+内容:           对象名 'Buyer_' 无效。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType)
+   在 CTCRM.DAL.BuyerDAL.GetBuyerCount(String flag, String sellerNick, String Seller_Id)
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/7/6 23:29:36
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.89.36 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.89.36 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\projects\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\projects\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\projects\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\projects\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.TBTrade.GetBuyerTrades(String strSessionKey, Int64 pageNum, Boolean& hasNext) 位置 d:\projects\CTCRM-Source\CTCRM.Components\TopCRM\TBTrade.cs:行号 53
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/7/6 23:29:36
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.89.36 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.89.36 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\projects\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\projects\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\projects\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\projects\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.TBBuyer.GetBuyer(String strSessionKey, Int64 currentPage, Int64 pagesize, Int64& total) 位置 d:\projects\CTCRM-Source\CTCRM.Components\TopCRM\TBBuyer.cs:行号 37
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/7/6 23:29:38
+错误号:         1000
+标题:           对象名 'Buyer_' 无效。
+内容:           对象名 'Buyer_' 无效。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType)
+   在 CTCRM.DAL.BuyerDAL.GetBuyerCount(String flag, String sellerNick, String Seller_Id)
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/7/6 23:29:38
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.89.36 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.89.36 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\projects\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\projects\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\projects\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\projects\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.TBTrade.GetBuyerTrades(String strSessionKey, Int64 pageNum, Boolean& hasNext) 位置 d:\projects\CTCRM-Source\CTCRM.Components\TopCRM\TBTrade.cs:行号 53
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/7/6 23:29:38
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.89.36 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.89.36 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\projects\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\projects\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\projects\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\projects\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.TBBuyer.GetBuyer(String strSessionKey, Int64 currentPage, Int64 pagesize, Int64& total) 位置 d:\projects\CTCRM-Source\CTCRM.Components\TopCRM\TBBuyer.cs:行号 37
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/7/6 23:34:55
+错误号:         1000
+标题:           对象名 'Buyer_' 无效。
+内容:           对象名 'Buyer_' 无效。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType)
+   在 CTCRM.DAL.BuyerDAL.GetBuyerCount(String flag, String sellerNick, String Seller_Id)
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/7/6 23:35:07
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.89.36 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.89.36 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\projects\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\projects\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\projects\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\projects\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.TBTrade.GetBuyerTrades(String strSessionKey, Int64 pageNum, Boolean& hasNext) 位置 d:\projects\CTCRM-Source\CTCRM.Components\TopCRM\TBTrade.cs:行号 53
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/7/6 23:35:07
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.89.36 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.89.36 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\projects\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\projects\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\projects\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\projects\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.TBBuyer.GetBuyer(String strSessionKey, Int64 currentPage, Int64 pagesize, Int64& total) 位置 d:\projects\CTCRM-Source\CTCRM.Components\TopCRM\TBBuyer.cs:行号 37
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/7/6 23:35:37
+错误号:         1000
+标题:           对象名 'Buyer_' 无效。
+内容:           对象名 'Buyer_' 无效。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType)
+   在 CTCRM.DAL.BuyerDAL.GetBuyerCount(String flag, String sellerNick, String Seller_Id)
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================

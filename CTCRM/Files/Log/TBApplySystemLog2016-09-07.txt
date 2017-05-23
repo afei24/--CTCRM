@@ -1,0 +1,124 @@
+
+===================================
+时间:           2016/9/7 11:45:59
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/7 11:46:13
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/7 11:46:13
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/7 11:46:13
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/7 16:01:58
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.211.151 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.211.151 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\代码\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.TBShortlink.SetShortLink(String shortLinkName, String linkType, String shortLinkData, String& msg) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBShortlink.cs:行号 23
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/7 16:02:24
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.211.151 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.211.151 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\代码\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.TBShortlink.SetShortLink(String shortLinkName, String linkType, String shortLinkData, String& msg) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBShortlink.cs:行号 23
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================

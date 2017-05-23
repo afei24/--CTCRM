@@ -1,0 +1,292 @@
+
+===================================
+时间:           2016/10/24 14:01:09
+错误号:         1000
+标题:           无法打开登录所请求的数据库 "CTCRM"。登录失败。
+用户 'sa' 登录失败。
+内容:           无法打开登录所请求的数据库 "CTCRM"。登录失败。
+用户 'sa' 登录失败。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 130
+   在 CTCRM.DAL.MsgDAL.GetSellerMsgStatus(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\MsgDAL.cs:行号 478
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/10/24 14:01:09
+错误号:         1000
+标题:           无法打开登录所请求的数据库 "CTCRM"。登录失败。
+用户 'sa' 登录失败。
+内容:           无法打开登录所请求的数据库 "CTCRM"。登录失败。
+用户 'sa' 登录失败。
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 107
+   在 CTCRM.DAL.SystemMessagesDAL.QueryShowMsg() 位置 d:\代码\CTCRM-Source\CTCRM.DAL\SystemMessagesDAL.cs:行号 71
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/10/24 18:50:46
+错误号:         1000
+标题:           正在中止线程。
+内容:           正在中止线程。
+mscorlib
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 CTCRM.Components.Users.get_OrderVersion() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 119
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 42
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/10/24 20:25:01
+错误号:         1000
+标题:           正在中止线程。
+内容:           正在中止线程。
+mscorlib
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 CTCRM.Components.Users.get_OrderVersion() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 119
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 42
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/10/24 20:32:17
+错误号:         1000
+标题:           正在中止线程。
+内容:           正在中止线程。
+mscorlib
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 CTCRM.Components.Users.get_OrderVersion() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 119
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 42
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/10/24 20:32:54
+错误号:         1000
+标题:           正在中止线程。
+内容:           正在中止线程。
+mscorlib
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 CTCRM.Components.Users.get_OrderVersion() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 119
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 42
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/10/24 20:33:41
+错误号:         1000
+标题:           正在中止线程。
+内容:           正在中止线程。
+mscorlib
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 CTCRM.Components.Users.get_OrderVersion() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 119
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 42
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/10/24 20:34:38
+错误号:         1000
+标题:           正在中止线程。
+内容:           正在中止线程。
+mscorlib
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 CTCRM.Components.Users.get_Deadline() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 102
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 43
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/10/24 20:39:31
+错误号:         1000
+标题:           未将对象引用设置到对象的实例。
+内容:           未将对象引用设置到对象的实例。
+CTCRM.Components
+   在 CTCRM.Components.Users.get_Deadline() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 106
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 43
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/10/24 20:39:40
+错误号:         1000
+标题:           未将对象引用设置到对象的实例。
+内容:           未将对象引用设置到对象的实例。
+CTCRM.Components
+   在 CTCRM.Components.Users.get_Deadline() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 106
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 43
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/10/24 20:40:01
+错误号:         1000
+标题:           未将对象引用设置到对象的实例。
+内容:           未将对象引用设置到对象的实例。
+CTCRM.Components
+   在 CTCRM.Components.Users.get_Deadline() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 106
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 43
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/10/24 20:40:22
+错误号:         1000
+标题:           未将对象引用设置到对象的实例。
+内容:           未将对象引用设置到对象的实例。
+CTCRM.Components
+   在 CTCRM.Components.Users.get_Deadline() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 106
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 43
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/10/24 20:52:25
+错误号:         1000
+标题:           未将对象引用设置到对象的实例。
+内容:           未将对象引用设置到对象的实例。
+CTCRM.Components
+   在 CTCRM.Components.Users.get_OrderVersion() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 123
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 42
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/10/24 22:08:24
+错误号:         1000
+标题:           正在中止线程。
+内容:           正在中止线程。
+mscorlib
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 CTCRM.Components.Users.get_OrderVersion() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 119
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 42
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/10/24 22:10:22
+错误号:         1000
+标题:           未将对象引用设置到对象的实例。
+内容:           未将对象引用设置到对象的实例。
+CTCRM.Components
+   在 CTCRM.Components.Users.get_OrderVersion() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 123
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 42
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/10/24 22:11:04
+错误号:         1000
+标题:           未将对象引用设置到对象的实例。
+内容:           未将对象引用设置到对象的实例。
+CTCRM.Components
+   在 CTCRM.Components.Users.get_OrderVersion() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 123
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 42
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/10/24 22:31:32
+错误号:         1000
+标题:           正在中止线程。
+内容:           正在中止线程。
+mscorlib
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 CTCRM.Components.Users.get_OrderVersion() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 119
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 42
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/10/24 22:32:33
+错误号:         1000
+标题:           未将对象引用设置到对象的实例。
+内容:           未将对象引用设置到对象的实例。
+CTCRM.Components
+   在 CTCRM.Components.Users.get_Deadline() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 105
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 43
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/10/24 22:33:09
+错误号:         1000
+标题:           未将对象引用设置到对象的实例。
+内容:           未将对象引用设置到对象的实例。
+CTCRM.Components
+   在 CTCRM.Components.Users.get_Deadline() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 105
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 43
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================

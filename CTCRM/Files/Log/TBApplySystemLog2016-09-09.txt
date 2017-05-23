@@ -1,0 +1,348 @@
+
+===================================
+时间:           2016/9/9 12:05:51
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.162.230.33 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.162.230.33 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\代码\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.RatingTop.GetTradeRate(Int64 currentPage, Int64 pagesize, String getStartDate, String getEndDate, Int64& total) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\RatingTop.cs:行号 134
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/9 12:05:52
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.162.230.33 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.162.230.33 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\代码\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.RatingTop.GetTradeRate(Int64 currentPage, Int64 pagesize, String getStartDate, String getEndDate, Int64& total) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\RatingTop.cs:行号 134
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/9 12:06:05
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.162.230.33 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.162.230.33 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\代码\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.RatingTop.GetTradeRate(Int64 currentPage, Int64 pagesize, String getStartDate, String getEndDate, Int64& total) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\RatingTop.cs:行号 134
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/9 13:07:10
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.91.29 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.91.29 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\代码\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.RatingTop.GetTradeRate(Int64 currentPage, Int64 pagesize, String getStartDate, String getEndDate, Int64& total) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\RatingTop.cs:行号 134
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/9 13:07:10
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.91.29 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.91.29 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\代码\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.RatingTop.GetTradeRate(Int64 currentPage, Int64 pagesize, String getStartDate, String getEndDate, Int64& total) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\RatingTop.cs:行号 134
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/9 16:30:50
+错误号:         1000
+标题:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+内容:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 67
+   在 CTCRM.DAL.MemberNotifyDAL.AddMsgConfig(MsgSendConfig o) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\MemberNotifyDAL.cs:行号 138
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/9 16:30:52
+错误号:         1000
+标题:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+内容:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 67
+   在 CTCRM.DAL.MemberNotifyDAL.AddMsgConfig(MsgSendConfig o) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\MemberNotifyDAL.cs:行号 138
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/9 16:30:57
+错误号:         1000
+标题:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+内容:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 67
+   在 CTCRM.DAL.MemberNotifyDAL.AddMsgConfig(MsgSendConfig o) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\MemberNotifyDAL.cs:行号 138
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/9 16:40:17
+错误号:         1000
+标题:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+内容:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 67
+   在 CTCRM.DAL.MemberNotifyDAL.AddMsgConfig(MsgSendConfig o) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\MemberNotifyDAL.cs:行号 138
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/9 16:40:17
+错误号:         1000
+标题:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+内容:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 67
+   在 CTCRM.DAL.MemberNotifyDAL.AddMsgConfig(MsgSendConfig o) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\MemberNotifyDAL.cs:行号 138
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/9 16:42:19
+错误号:         1000
+标题:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+内容:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 67
+   在 CTCRM.DAL.MemberNotifyDAL.AddMsgConfig(MsgSendConfig o) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\MemberNotifyDAL.cs:行号 138
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/9 16:42:19
+错误号:         1000
+标题:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+内容:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 67
+   在 CTCRM.DAL.MemberNotifyDAL.AddMsgConfig(MsgSendConfig o) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\MemberNotifyDAL.cs:行号 138
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/9 16:42:41
+错误号:         1000
+标题:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+内容:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 67
+   在 CTCRM.DAL.MemberNotifyDAL.AddMsgConfig(MsgSendConfig o) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\MemberNotifyDAL.cs:行号 138
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/9 16:51:23
+错误号:         1000
+标题:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+内容:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 67
+   在 CTCRM.DAL.MemberNotifyDAL.AddMsgConfig(MsgSendConfig o) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\MemberNotifyDAL.cs:行号 138
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/9 16:53:12
+错误号:         1000
+标题:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+内容:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 67
+   在 CTCRM.DAL.MemberNotifyDAL.AddMsgConfig(MsgSendConfig o) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\MemberNotifyDAL.cs:行号 138
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/9 16:54:39
+错误号:         1000
+标题:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+内容:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 67
+   在 CTCRM.DAL.MemberNotifyDAL.AddMsgConfig(MsgSendConfig o) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\MemberNotifyDAL.cs:行号 138
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/9 17:17:16
+错误号:         1000
+标题:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+内容:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 67
+   在 CTCRM.DAL.MemberNotifyDAL.AddMsgConfig(MsgSendConfig o) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\MemberNotifyDAL.cs:行号 138
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/9 17:23:42
+错误号:         1000
+标题:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+内容:           参数化查询 '(@sellerNick nvarchar(7),@unPayType nvarchar(1),@unpayMsg nvarch' 需要参数 '@unpayMsg'，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 67
+   在 CTCRM.DAL.MemberNotifyDAL.AddMsgConfig(MsgSendConfig o) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\MemberNotifyDAL.cs:行号 138
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================

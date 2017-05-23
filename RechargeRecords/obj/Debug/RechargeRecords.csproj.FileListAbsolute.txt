@@ -1,0 +1,6 @@
+D:\代码\服务器代码\CTCRM-Source\源码\RechargeRecords\bin\Debug\RechargeRecords.exe.config
+D:\代码\服务器代码\CTCRM-Source\源码\RechargeRecords\bin\Debug\RechargeRecords.exe
+D:\代码\服务器代码\CTCRM-Source\源码\RechargeRecords\bin\Debug\RechargeRecords.pdb
+D:\代码\服务器代码\CTCRM-Source\源码\RechargeRecords\obj\Debug\RechargeRecords.csprojResolveAssemblyReference.cache
+D:\代码\服务器代码\CTCRM-Source\源码\RechargeRecords\obj\Debug\RechargeRecords.exe
+D:\代码\服务器代码\CTCRM-Source\源码\RechargeRecords\obj\Debug\RechargeRecords.pdb

@@ -1,0 +1,30 @@
+
+===================================
+时间:           2015/12/29 17:03:30
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 101.204.30.55 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 101.204.30.55 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 c:\TB项目\CRM0101\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 c:\TB项目\CRM0101\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 c:\TB项目\CRM0101\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 c:\TB项目\CRM0101\CTCRM.Components\TopCRM\TBManager.cs:行号 48
+   在 CTCRM.Components.TopCRM.TBShortlink.SetShortLink(String shortLinkName, String linkType, String shortLinkData, String& msg) 位置 c:\TB项目\CRM0101\CTCRM.Components\TopCRM\TBShortlink.cs:行号 23
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2015/12/29 17:03:35
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 101.204.30.55 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 101.204.30.55 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 c:\TB项目\CRM0101\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 c:\TB项目\CRM0101\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 c:\TB项目\CRM0101\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 c:\TB项目\CRM0101\CTCRM.Components\TopCRM\TBManager.cs:行号 48
+   在 CTCRM.Components.TopCRM.TBShortlink.SetShortLink(String shortLinkName, String linkType, String shortLinkData, String& msg) 位置 c:\TB项目\CRM0101\CTCRM.Components\TopCRM\TBShortlink.cs:行号 23
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================

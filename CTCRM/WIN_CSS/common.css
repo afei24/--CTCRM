@@ -1,0 +1,199 @@
+﻿
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background-color: #EEF3FA;
+    font-family:"微软雅黑";
+}
+
+.div_top_head
+{
+    width:90%;
+    height:56px;
+    background-color:white;
+    margin:0 auto;
+     max-width: 1441px;
+     border-bottom:1px solid #d0cbcb;
+}
+
+.tb_frame
+{
+    margin: 0 auto;
+    padding: 0px;
+    margin-top: 0px;
+    width: 90%;
+    max-width: 1441px;
+    height: 1000px;
+    border:0px;
+    border-collapse: collapse;    
+    border-spacing: 0px;
+    /*border: 1px solid;*/
+}
+
+.tb_left
+{
+    width: 214px;
+    /*max-width:214px;*/
+    min-width: 214px;
+    background-color: #2F3A4C;
+    padding: 0px;
+    vertical-align: top;
+    overflow: hidden;
+}
+
+.tb_right
+{
+    width: 70%;
+    max-width: 1170px;
+}
+
+.left_top_img
+{
+    width: 214px;
+    min-height: 2px;
+    min-width: 5px;
+    margin-top: 0px;
+}
+
+.div_user
+{
+    width: 214px;
+    height: 80px;
+    margin-top: 0px;
+}
+
+.div_user_info
+{
+    width: 100%;
+    margin-top: 10px;
+    color: white;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.div_right_top
+{
+    text-align: left;
+    float: left;
+    height: 100%;
+    width: 1200px;
+}
+
+.iframe_main
+{
+    width: 99%;
+    height: 99%;
+    margin: 0px;
+    padding: 0px;
+    top: 0px;
+    border: 0px;
+}
+
+.div_user_img
+{
+    width: 100%;
+    background-color: #2F3A4C;
+    margin-top: 18px;
+    color: white;
+}
+
+.f_user
+{
+    margin-left: 5px;
+}
+
+.img_touxiang
+{
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+    vertical-align: middle;
+}
+
+.img_main, .tubiao
+{
+    padding-left: 20px;
+}
+
+.li_navigation2
+{
+    padding-left: 47px;
+    border-bottom: #202936 1px solid;
+    font-size: 15px;
+}
+
+.li_navigation
+{
+    /*text-align:center;*/
+    color: white;
+    width: 214px;
+    height: 40px;
+    padding-top: 15px;
+    cursor: pointer;
+    border-bottom: #202936 1px solid;
+}
+
+.ul_left_navigation .li_navigation2
+{
+    color: white;
+    display: none;
+    height: 40px;
+    line-height: 40px;
+     cursor: pointer;
+}
+
+.ul_left_navigation
+{
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    text-align: left;
+}
+
+    .ul_left_navigation .li_navigation
+    {
+        list-style: none;
+        text-align: left;
+        width: 214px;
+    }
+
+.li_navigation2
+{
+    width: 100%;
+    list-style: none;
+}
+
+.ul_left_navigation .li_msg
+{
+    text-align: center;
+    color: white;
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    list-style: none;
+
+}
+
+.ul_left_navigation .li_navigation:hover
+{
+    background-color: black;
+    width: 214px;
+}
+
+.三角形
+{
+    float: right;
+}
+
+.三角形左
+{
+    float: right;
+    margin-right: 20px;
+}
+
+
+.tubiao, .img_main
+{
+    padding-right: 10px;
+}

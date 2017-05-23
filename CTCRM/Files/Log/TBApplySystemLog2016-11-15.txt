@@ -1,0 +1,202 @@
+
+===================================
+时间:           2016/11/15 14:37:48
+错误号:         1000
+标题:           ')' 附近有语法错误。
+内容:           ')' 附近有语法错误。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM.DAL\DataBase.cs:行号 67
+   在 CTCRM.DAL.AdminChongZhiMsgDAl.DeleteAdminChongZhiMsg(String id) 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM.DAL\AdminChongZhiMsgDAl.cs:行号 89
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/11/15 14:42:45
+错误号:         1000
+标题:           ')' 附近有语法错误。
+内容:           ')' 附近有语法错误。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM.DAL\DataBase.cs:行号 67
+   在 CTCRM.DAL.AdminChongZhiMsgDAl.DeleteAdminChongZhiMsg(String Date) 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM.DAL\AdminChongZhiMsgDAl.cs:行号 89
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/11/15 14:44:43
+错误号:         1000
+标题:           ')' 附近有语法错误。
+内容:           ')' 附近有语法错误。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM.DAL\DataBase.cs:行号 67
+   在 CTCRM.DAL.AdminChongZhiMsgDAl.DeleteAdminChongZhiMsg(String Date) 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM.DAL\AdminChongZhiMsgDAl.cs:行号 89
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/11/15 14:45:14
+错误号:         1000
+标题:           ')' 附近有语法错误。
+内容:           ')' 附近有语法错误。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM.DAL\DataBase.cs:行号 67
+   在 CTCRM.DAL.AdminChongZhiMsgDAl.DeleteAdminChongZhiMsg(String Date) 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM.DAL\AdminChongZhiMsgDAl.cs:行号 89
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/11/15 14:46:11
+错误号:         1000
+标题:           ')' 附近有语法错误。
+内容:           ')' 附近有语法错误。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM.DAL\DataBase.cs:行号 67
+   在 CTCRM.DAL.AdminChongZhiMsgDAl.DeleteAdminChongZhiMsg(String Date) 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM.DAL\AdminChongZhiMsgDAl.cs:行号 89
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/11/15 14:47:21
+错误号:         1000
+标题:           ')' 附近有语法错误。
+内容:           ')' 附近有语法错误。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr, SqlParameter[] param) 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM.DAL\DataBase.cs:行号 67
+   在 CTCRM.DAL.AdminChongZhiMsgDAl.DeleteAdminChongZhiMsg(String Date) 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM.DAL\AdminChongZhiMsgDAl.cs:行号 89
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/11/15 18:16:25
+错误号:         1000
+标题:           关键字 'from' 附近有语法错误。
+内容:           关键字 'from' 附近有语法错误。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr) 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM.DAL\DataBase.cs:行号 46
+   在 CTCRM.DAL.MsgDAL.DeleteMsgRecords() 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM.DAL\MsgDAL.cs:行号 1190
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/11/15 18:19:14
+错误号:         1000
+标题:           关键字 'from' 附近有语法错误。
+内容:           关键字 'from' 附近有语法错误。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr) 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM.DAL\DataBase.cs:行号 46
+   在 CTCRM.DAL.MsgDAL.DeleteMsgRecords() 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM.DAL\MsgDAL.cs:行号 1190
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/11/15 18:20:02
+错误号:         1000
+标题:           关键字 'from' 附近有语法错误。
+内容:           关键字 'from' 附近有语法错误。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr) 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM.DAL\DataBase.cs:行号 46
+   在 CTCRM.DAL.MsgDAL.DeleteMsgRecords() 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM.DAL\MsgDAL.cs:行号 1190
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/11/15 18:21:13
+错误号:         1000
+标题:           关键字 'from' 附近有语法错误。
+内容:           关键字 'from' 附近有语法错误。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CTCRM.DAL.DataBase.ExecuteSql(String Sqlstr) 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM.DAL\DataBase.cs:行号 46
+   在 CTCRM.DAL.MsgDAL.DeleteMsgRecords() 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM.DAL\MsgDAL.cs:行号 1190
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================

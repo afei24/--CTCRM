@@ -1,0 +1,90 @@
+
+===================================
+时间:           2016/7/4 21:23:02
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.89.92 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.89.92 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\projects\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\projects\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\projects\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\projects\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.TBTrade.GetBuyerTrades(String strSessionKey, Int64 pageNum, Boolean& hasNext) 位置 d:\projects\CTCRM-Source\CTCRM.Components\TopCRM\TBTrade.cs:行号 53
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/7/4 21:23:02
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.89.92 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.89.92 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\projects\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\projects\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\projects\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\projects\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.TBBuyer.GetBuyer(String strSessionKey, Int64 currentPage, Int64 pagesize, Int64& total) 位置 d:\projects\CTCRM-Source\CTCRM.Components\TopCRM\TBBuyer.cs:行号 37
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/7/4 21:23:24
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.89.92 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.89.92 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\projects\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\projects\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\projects\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\projects\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.TBTrade.GetBuyerTrades(String strSessionKey, Int64 pageNum, Boolean& hasNext) 位置 d:\projects\CTCRM-Source\CTCRM.Components\TopCRM\TBTrade.cs:行号 53
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/7/4 21:23:25
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.89.92 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.89.92 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\projects\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\projects\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\projects\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\projects\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.TBBuyer.GetBuyer(String strSessionKey, Int64 currentPage, Int64 pagesize, Int64& total) 位置 d:\projects\CTCRM-Source\CTCRM.Components\TopCRM\TBBuyer.cs:行号 37
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/7/4 21:23:28
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.89.92 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.89.92 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\projects\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\projects\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\projects\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\projects\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.TBTrade.GetBuyerTrades(String strSessionKey, Int64 pageNum, Boolean& hasNext) 位置 d:\projects\CTCRM-Source\CTCRM.Components\TopCRM\TBTrade.cs:行号 53
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/7/4 21:23:28
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.89.92 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.89.92 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\projects\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\projects\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\projects\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\projects\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.TBBuyer.GetBuyer(String strSessionKey, Int64 currentPage, Int64 pagesize, Int64& total) 位置 d:\projects\CTCRM-Source\CTCRM.Components\TopCRM\TBBuyer.cs:行号 37
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================

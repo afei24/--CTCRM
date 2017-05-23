@@ -1,0 +1,99 @@
+﻿* {
+	margin:0;
+	padding:0;
+	list-style-type:none;
+}
+a, img {
+	border:0;
+}
+body {
+	font-size:12px;
+	line-height:22px;
+	font-family: Arial, Helvetica, Sans-Serif;
+	color:#555;
+	background:#fff;
+}
+/* popbox */
+.popbox {
+	width:630px;
+	padding:10px 10px 15px 20px;
+	background-color:#fff;
+	border:3px #606060 solid;
+	position:absolute;
+	top:0;
+	left:0;
+	display:none;
+	z-index:120;
+}
+.popbox h2 {
+	height:42px;
+	font-size:14px;
+	position:relative;
+	padding-left:10px;
+	line-height:42px;
+	color:#b51533;
+	font-family:"微软雅黑";
+	font-size:16pt;
+}
+.popbox h2 a {
+	position:absolute;
+	right:5px;
+	_right:-30px;
+	background:url(/Images/close.gif) no-repeat;
+	width:20px;
+	height:20px;
+}
+.popbox .mainlist {
+	padding:10px;
+	line-height:36px;
+	font-size:14px;
+	color:#333333;
+	margin-left:16px;
+}
+.popbox .mainlist input {
+	border:1px solid #cacaca;
+	width:136px;
+	height:20px;
+}
+.popbox .mainlist input.wss{ width:70px;}
+.popbox .mainlist input.qwxq {
+	width:265px;
+}
+.popbox .mainlist label {
+	width:90px;
+	display:inline-block;
+}
+.popbox .mainlist label em {
+	color:#de0029;
+	font-style:normal;
+}
+.popbox .mainlist input.tijiao {
+	background:url(tijiao.gif) no-repeat;
+	width:131px;
+	height:38px;
+	text-indent:-9999px;
+	border:none;
+	clear:both;
+	float:right;
+	margin-top:25px;
+}
+.tijiaodiv{ width:580px; overflow:hidden;}
+.popbox .mainlist textarea {
+	border:1px solid #cacaca;
+}
+#screen {
+	width:100%;
+	height:100%;
+	position:absolute;
+	top:0;
+	left:0;
+	display:none;
+	z-index:100;
+	background-color:#666;
+	opacity:0.5;
+	filter:alpha(opacity=50);
+	-moz-opacity:0.5;
+}
+.marl{ margin-left:80px;}
+.miaoshu,.textarea{ float:left}
+.textarea{ color:#ccc; font-size:12px;}

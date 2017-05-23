@@ -1,0 +1,17 @@
+C:\TB项目\CRM0101\Magic.Common.CSVHelper\bin\Release\Magic.Common.CSVHelper.dll
+C:\TB项目\CRM0101\Magic.Common.CSVHelper\bin\Release\Magic.Common.CSVHelper.pdb
+C:\TB项目\CRM0101\Magic.Common.CSVHelper\bin\Release\CHENGTUAN.Components.dll
+C:\TB项目\CRM0101\Magic.Common.CSVHelper\bin\Release\CHENGTUAN.Entity.dll
+C:\TB项目\CRM0101\Magic.Common.CSVHelper\bin\Release\CHENGTUAN.Components.pdb
+C:\TB项目\CRM0101\Magic.Common.CSVHelper\bin\Release\CHENGTUAN.Entity.pdb
+C:\TB项目\CRM0101\Magic.Common.CSVHelper\obj\Release\Magic.Common.CSVHelper.dll
+C:\TB项目\CRM0101\Magic.Common.CSVHelper\obj\Release\Magic.Common.CSVHelper.pdb
+D:\projects\CTCRM-Source\Magic.Common.CSVHelper\bin\Release\Magic.Common.CSVHelper.dll
+D:\projects\CTCRM-Source\Magic.Common.CSVHelper\bin\Release\Magic.Common.CSVHelper.pdb
+D:\projects\CTCRM-Source\Magic.Common.CSVHelper\bin\Release\CHENGTUAN.Components.dll
+D:\projects\CTCRM-Source\Magic.Common.CSVHelper\bin\Release\CHENGTUAN.Entity.dll
+D:\projects\CTCRM-Source\Magic.Common.CSVHelper\bin\Release\CHENGTUAN.Components.pdb
+D:\projects\CTCRM-Source\Magic.Common.CSVHelper\bin\Release\CHENGTUAN.Entity.pdb
+D:\projects\CTCRM-Source\Magic.Common.CSVHelper\obj\Release\Magic.Common.CSVHelper.csprojResolveAssemblyReference.cache
+D:\projects\CTCRM-Source\Magic.Common.CSVHelper\obj\Release\Magic.Common.CSVHelper.dll
+D:\projects\CTCRM-Source\Magic.Common.CSVHelper\obj\Release\Magic.Common.CSVHelper.pdb

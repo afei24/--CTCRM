@@ -1,0 +1,17 @@
+﻿.title
+{
+	font-size: 16px;
+	font-weight: bold;
+}
+.fontColor
+{
+	color: #cc0000;
+	font-size:19px;
+	font-weight: bold;
+}
+.content{ list-style-type:none;}
+#bottom .t_c .b_m{ height:auto; }
+.img{  margin-left:120px;}
+.float{ float:left;}
+.contract{ height:40px; font-size:25px;}
+#bottom .t_c .b_m{ height:680px;}

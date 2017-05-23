@@ -1,0 +1,57 @@
+/* reset */
+form {display:block; margin:0; padding:0;} body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, /* structural elements 结构元素 */dl, dt, dd, ul, ol, li, /* list elements 列表元素 */pre, /* text formatting elements 文本格式元素 */fieldset, lengend, button, input, textarea, /* form elements 表单元素 */th, td { /* table elements 表格元素 */    margin: 0;    padding: 0;} table th,table td {padding:1px} /* 设置默认字体 */body,button, input, select, textarea { /* for ie */    /*font: 12px/1 Tahoma, Helvetica, Arial, "宋体", sans-serif;*/    font: 12px/1 verdana,tahoma,arial,sans-serif; /* 用 ascii 字符表示，使得在任何编码下都无问题 */}h1 { font-size: 18px; /* 18px / 12px = 1.5 */ }h2 { font-size: 16px; }h3 { font-size: 14px; }h4, h5, h6 { font-size: 100%; }address, cite, dfn, em, var { font-style: normal; } /* 将斜体扶正 */code, kbd, pre, samp, tt { font-family: "Courier New", Courier, monospace; } /* 统一等宽字体 */small { font-size: 12px; } /* 小于 12px 的中文很难阅读，让 small 正常化 *//* 重置列表元素 */ul, ol { list-style: none; }/* 重置文本格式元素 */a { text-decoration: none; }a:hover { text-decoration: underline; }abbr[title], acronym[title] { /* 注：1.ie6 不支持 abbr; 2.这里用了属性选择符，ie6 下无效果 */	border-bottom: 1px dotted;	cursor: help;}q:before, q:after { content: ''; }/* 重置表单元素 */legend { color: #000; } /* for ie6 */fieldset, img { border: none; } /* img 搭车：让链接里的 img 无边框 *//* 注：optgroup 无法扶正 */button, input, select, textarea {    font-size: 100%; /* 使得表单元素在 ie 下能继承字体大小 */}/* 重置表格元素 */table {	border-collapse: collapse;	border-spacing: 0;}/* 重置 hr */hr {    border: none;    height: 1px;}
+body, button, input, select, textarea { line-height:1.231; }
+s{ display:inline-block; *display:inline; zoom:1;}
+.clear{ clear:both;}
+.bodyBj{ background:#d4f0fe; margin:auto; overflow:hiddn;}
+.bodyBj1{ background:#f1f6ff;}
+.login{ width:434px; margin:0 auto;}
+.bjt{ width:100%; height:367px; background:url('../images/bj1.png') no-repeat; margin:180px 0 0 0; overflow:hidden;}
+.inpt1{ width:250px; height:25px; border:1px solid #fff;}
+.bjt table{ width:327px; margin:110px 0 0 55px;}
+.bjt table th{ color:#fff; text-align:right; padding:10px 5px;}
+.bjt table td{ padding:10px 5px;}
+.inpt3{ width:90px; height:25px; border:1px solid #fff;}
+.bjt table a{ color:#fff; text-decoration:underline;}
+.inpt2{ width:158px; height:44px; background:url('../images/bj2.png') no-repeat; border:none;}
+.main{ }
+.left{ float:left; display:inline; width:185px;  min-height:520px; background:#7faee6; padding:10px 10px 200px 10px; margin:0 10px 0 -215px;}
+.right{ float:left;  display:block; width:100%; margin:10px 0 0 0; padding:0;}
+.pmain{ margin: 10px 10px 10px 225px; width:auto;}
+.leftMain{ width:100%; background:#fff; overflow:hidden;}
+.logo{ width:185px; height:62px; background:url('../images/bj3.png') 0 0 no-repeat;}
+.lbj1{ width:100%; height:25px; background:url('../images/bj3.png') 0 -64px no-repeat; margin:5px 0 0 0;}
+.ts1{ height:18px; text-align:center; color:#1367b3; line-height:18px;}
+.lbts{ width:100%; margin:5px 0;}
+.pinpt1{ width:66px; height:24px; border:none; background:url('../images/bj3.png') 0 -96px no-repeat;}
+.pinpt2{ background:url('../images/bj3.png') -71px -96px no-repeat;}
+.cdan{ width:100%; overflow:hidden;}
+.cdan dt{ position:relative; color:#1367b3; font-size:14px; font-weight:bold; line-height:25px;}
+.ps1{ position:absolute; width:16px; height:16px; background:url('../images/bj3.png') -142px -96px no-repeat;  cursor:pointer; top:5px; right:8px;}
+.cdan dd{ margin:0 5px; padding:5px 0;}
+.cdan dd s{ width:15px; height:13px; background:url('../images/bj3.png') -163px -96px no-repeat; vertical-align:-2px; *vertical-align:0; margin:0 5px 0 35px;}
+.fgx{ border-bottom:1px dashed #878787;}
+.cdan dd a{ color:#000;}
+.right .title{ width:100%; height:18px; border-bottom:2px solid #7faee6;}
+.right .title p{ width:139px; height:18px; background:url('../images/bj3.png') 0 -125px no-repeat; color:#fff; text-align:center; line-height:18px; font-weight:bold; margin:0 0 0 20px; font-size:14px;}
+.jsuo{ width:908px; margin:20px 20px 20px 70px;}
+.jsuo table td{ padding:0 5px;}
+.pinpt4{ border-style: none;
+	border-color: inherit;
+	border-width: medium;
+	width:69px; 	color:#fff; 	text-align:center; 	line-height:23px; 	background:url('../images/bj3.png') 0 -151px no-repeat;
+}
+.nrkuai{ width:958px; margin:0 15px 20px 15px;}
+.nrkuai table th{ border:1px solid #4195cc;  background:url('../images/bj4.png') repeat-x; color:#fff; font-size:14px;}
+.right   div table .tr_col{ height:40px;}
+.nrkuai table td{ border-bottom:1px solid #36aade;}
+
+.nrkuai2{ width:100%; margin:40px 0 20px 0; border-top:1px solid #36aade;}
+.nrkuai2 table{ margin:10px 0 0 0;}
+.nrkuai2 table th{ padding:5px 0; vertical-align:top;}
+.nrkuai2 table td{ padding:5px 0;}
+.pinpt5{ width:960px; height:20px;}
+.pinpt6{ width:960px; height:438px;}
+.red{ color:red;}
+.lbj1 .nav{ width:100%; height:100%; display:block; text-decoration:none; color:#1367B3; cursor:pointer;}
+

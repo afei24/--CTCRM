@@ -1,0 +1,28 @@
+﻿body {
+}
+
+.td_left {
+    /*width: 40%;*/
+    text-align: right;
+    border: none;
+    padding-right: 5px;
+}
+
+.td_right {
+    /*width: 60%;*/
+    text-align: left;
+    border: none;
+    padding-left: 5px;
+}
+
+.td_right, .td_left {
+    height: 40px;
+    line-height: 40px;
+    background-color: white;
+}
+
+
+#Div1 {
+    border: 1px solid #00BFE9;
+    border-radius: 5px;
+}

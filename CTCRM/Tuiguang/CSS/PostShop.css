@@ -1,0 +1,26 @@
+﻿#bottom .t_c .b_m{ height:628px;*height:778px; }
+#bottom .t_c .b_m ul{ list-style-type:none;}
+#bottom .t_c .b_m ul #name{  padding-top:10px;}
+#bottom .t_c .b_m ul,#bottom .t_c .b_m ul .shop{  margin-left:-20px;}
+#bottom .t_c .b_m ul #name,#bottom .t_c .b_m ul  #cats,#bottom .t_c .b_m ul #introduction,#bottom .t_c .b_m ul #postcode,
+#bottom .t_c .b_m ul #Address{ height:40px;}
+#bottom .t_c .b_m ul li .txt { background-image:url("../Images/shop/pic_002.png"); padding-left:5px; line-height:24px; background-repeat:no-repeat; width:199px; height:24px; border:0px; background-position:-2px -2px;}
+#bottom .t_c .b_m ul #logo{ height:90px;}
+#bottom .t_c .b_m ul #shopType,#bottom .t_c .b_m ul #fixed,#factory{ height:30px;}
+#bottom .t_c .b_m ul #remark{ height:130px;}
+#bottom .t_c .b_m ul #from{ height:50px;}
+#bottom .t_c .b_m ul li{ vertical-align:middle;}
+#bottom .t_c .b_m ul li .mark{ color:#00BFEA; position:relative; left:34px;}
+#Address .txt_address{ background-image:url("../Images/shop/pic_001.png"); line-height:24px; padding-left:5px; background-repeat:no-repeat;  height:24px;  width:372px; border:0; background-position:-3px -3px;}
+#bottom .t_c .b_m ul  #submit{ height:40px;}
+#bottom .t_c .b_m ul li .mark ,
+#bottom .t_c .b_m ul li .txt,
+#bottom .t_c .b_m ul li .radio,
+#bottom .t_c .b_m ul li .lab,
+#bottom .t_c .b_m ul li .logo_c
+{ display:block; float:left;}
+#bottom .t_c .b_m ul li  .lab{ height:30px;  width:100px; text-align:right; margin-right:10px; line-height:20px;}
+#bottom .t_c .b_m ul  #cats .drp{ width:206px; height:25px; display:block;}
+#bottom .t_c .b_m ul li .logo_c{ width:300px; height:80%;}
+#bottom .t_c .b_m ul li .logo_c .img{ height:91px;}
+#bottom .t_c .b_m ul li .btnSubmit,#bottom .t_c .b_m ul li .war{ position:relative; left:110px;}

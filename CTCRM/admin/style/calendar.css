@@ -1,0 +1,91 @@
+﻿/* 功能按钮同样样式 */
+.calendar_btn {
+	height: 16px;
+	font-size: 9pt;
+	color: white;
+	border: 0 solid #CCCCCC;
+	cursor: hand;
+	background-color: #2650A6;
+}
+
+/* 翻年、月等的按钮 */
+.calendar_ym_btn {
+	width: 28px;
+	height: 16px;
+	font-size: 9pt;
+	color: white;
+	border: 0 solid #CCCCCC;
+	cursor: hand;
+	background-color: #2650A6;
+}
+
+/* 关闭、清空等按钮样式 */
+.calendar_close_btn {
+	width: 22px;
+	height: 16px;
+	font-size: 9pt;
+	color: white;
+	border: 0 solid #CCCCCC;
+	cursor: hand;
+	background-color: #2650A6;
+}
+
+/* 年选择下拉框 */
+.calendar_y_select {
+	width: 64px;
+	display: none;
+}
+
+/* 月、时、分选择下拉框 */
+.calendar_yhs_select {
+	width: 46px;
+	display: none;
+}
+
+/* 日期选择控件体的样式 */
+.calendar_body {
+	width: 150;
+	background-color: #2650A6;
+	display: none;
+	z-index: 9998;
+	position: absolute;
+	border-left: 1 solid #CCCCCC;
+	border-top: 1 solid #CCCCCC;
+	border-right: 1 solid #999999;
+	border-bottom: 1 solid #999999;
+}
+
+/* 显示日的td的样式 */
+.calendar_day {
+	width: 21px;
+	height: 20px;
+	background-color: #D8F0FC;
+	font-size: 10pt;
+}
+
+/* 字体样式 */
+.calendar_font {
+	color: #FFCC00;
+	font-size: 9pt;
+	cursor: hand;
+}
+
+/* 字体样式2 */
+.calendar_font2 {
+	color: #FFCC00;
+	font-size: 9pt;
+	cursor: hand;
+	display:none;
+}
+
+/* 链接的样式 */
+.calendar_link {
+	text-decoration: none;
+	font-size: 9pt;
+	color: #2650A6;
+}
+
+/* 横线 */
+.calendar_line {
+	border-bottom: 1 solid #6699CC;
+}

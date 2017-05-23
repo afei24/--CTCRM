@@ -1,0 +1,64 @@
+
+===================================
+时间:           2016/9/24 14:27:17
+错误号:         1000
+标题:           在将 nvarchar 值 '事实上' 转换成数据类型 int 时失败。
+内容:           在将 nvarchar 值 '事实上' 转换成数据类型 int 时失败。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.HasMoreRows()
+   在 System.Data.SqlClient.SqlDataReader.ReadInternal(Boolean setTimeout)
+   在 System.Data.SqlClient.SqlDataReader.Read()
+   在 System.Data.Common.DataAdapter.FillLoadDataRow(SchemaMapping mapping)
+   在 System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   在 System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 131
+   在 CTCRM.DAL.BuyerDAL.GetBuyerInfo(String buyerNick, String status, String area, String grade, String group, String tradeAmount1, String tradeAmount2, String sellerNick2, String buyCount, String Seller_Id) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\BuyerDAL.cs:行号 550
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/24 14:53:41
+错误号:         1000
+标题:           FROM 子句语法错误。
+内容:           FROM 子句语法错误。
+Microsoft JET Database Engine
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.Common.CSVHelper.ExecuteTable(String sql) 位置 d:\代码\CTCRM-Source\Common\CSVHelper.cs:行号 154
+   在 CTCRM.Common.CSVHelper.Read(String[] colNames) 位置 d:\代码\CTCRM-Source\Common\CSVHelper.cs:行号 137
+   在 CTCRM.Common.CSVHelper.Read() 位置 d:\代码\CTCRM-Source\Common\CSVHelper.cs:行号 30
+   在 CTCRM.Download.download.imgImportData_Click(Object sender, ImageClickEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\SynData\downloads.aspx.cs:行号 165
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/24 17:00:08
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 114.95.133.237 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 114.95.133.237 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\代码\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.TBShortlink.SetShortLink(String shortLinkName, String linkType, String shortLinkData, String& msg) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBShortlink.cs:行号 23
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================

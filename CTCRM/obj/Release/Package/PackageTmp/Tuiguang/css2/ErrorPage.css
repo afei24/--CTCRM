@@ -1,0 +1,8 @@
+﻿.e{ float:left; height:100px; list-style:none;}
+#content.first{ width:600px; padding-top:50px; }
+#bottom .t_c .b_m .first{ height:89%;}
+li#left{ width:70px; margin-left:240px;  display:inline; background-image:url("/Images/Error/pic_001.png"); background-repeat:no-repeat;}
+li#middle{ width:2px; background-color:#75787A; margin:0 20px 0 20px;}
+li#right{ width:450px;}
+li#right p{ color:#75787A; font-size:20px;  height:30px; line-height:20px; font-family:宋体;  line-height:30px; font-weight:bold; }
+li#right p a{ color:Red; font-weight:bold; font-size:17px;}

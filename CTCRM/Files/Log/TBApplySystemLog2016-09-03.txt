@@ -1,0 +1,3210 @@
+
+===================================
+时间:           2016/9/3 10:33:46
+错误号:         1000
+标题:           超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+内容:           超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+System.Data
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 10:33:48
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 10:33:48
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 10:33:48
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:14:03
+错误号:         1000
+标题:           超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+内容:           超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+System.Data
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:14:05
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:14:05
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:14:57
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:14:57
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:14:57
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:14:57
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:18:22
+错误号:         1000
+标题:           超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+内容:           超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+System.Data
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:18:24
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:18:24
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:18:24
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:19:25
+错误号:         1000
+标题:           超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+内容:           超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+System.Data
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:19:27
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:19:27
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:19:27
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:25:24
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:25:39
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:25:39
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:25:39
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:27:02
+错误号:         1000
+标题:           超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+内容:           超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+System.Data
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:27:04
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:27:04
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:27:04
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:29:45
+错误号:         1000
+标题:           超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+内容:           超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+System.Data
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:29:47
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:29:47
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 11:29:47
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:02:09
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:02:23
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:02:23
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:02:23
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:02:26
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:02:26
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.CheckRateConfigIsExit(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 148
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:02:28
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:02:28
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.CheckRateConfigIsExit(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 148
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:02:48
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:02:48
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetBlakListByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 966
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:02:56
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.88.135 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.88.135 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\代码\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.RatingTop.GetTradeRate(Int64 currentPage, Int64 pagesize, String getStartDate, String getEndDate, Int64& total) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\RatingTop.cs:行号 134
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:03:10
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:03:27
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.CheckIsOpenAddBlakList(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 117
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:03:48
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetAutoRateListByNick(String sellerNick, String startDate, String endRateDate) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 869
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:22
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:22
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:22
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:22
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:22
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:22
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:22
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:22
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:22
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:22
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:22
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:50
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:50
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:50
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:50
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:50
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:50
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:50
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:50
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:50
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:50
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:50
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:57
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:57
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:57
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:57
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:57
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:57
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:57
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:57
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:57
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:57
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:57
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:46:57
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:02
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:02
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:02
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:02
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:02
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:02
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:02
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:02
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:02
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:02
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:02
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:02
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:05
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:05
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:05
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:05
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:05
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:05
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:05
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:05
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:05
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:05
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:05
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:05
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:09
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:09
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:09
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:09
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:09
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:09
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:09
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:09
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:09
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:09
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:09
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:09
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:10
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:10
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:10
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:10
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:10
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:10
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:10
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:10
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:10
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:10
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:10
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:10
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:13
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:13
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:13
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:13
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:13
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:13
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:13
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:13
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:13
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:13
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:13
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:13
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:16
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:16
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:16
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:16
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:16
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:16
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:16
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:16
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:16
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:16
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:16
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 14:47:16
+错误号:         1000
+标题:           指定的参数已超出有效值的范围。
+参数名: index
+内容:           指定的参数已超出有效值的范围。
+参数名: index
+System.Web
+   在 System.Web.UI.ControlCollection.get_Item(Int32 index)
+   在 System.Web.UI.WebControls.TableCellCollection.get_Item(Int32 index)
+   在 CTCRM.admin.memberData.index.grdCus_RowDataBound(Object sender, GridViewRowEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\admin\memberData\index.aspx.cs:行号 155
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 15:56:33
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 15:56:47
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 15:56:47
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 15:56:47
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 15:56:48
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 15:56:48
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 15:58:09
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 15:58:23
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.CheckRateConfigIsExit(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 148
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 15:58:40
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 15:58:40
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.CheckRateConfigIsExit(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 148
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 16:03:03
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 16:03:17
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 16:03:17
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 16:03:17
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 16:03:22
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetAutoRateListByNick(String sellerNick, String startDate, String endRateDate) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 869
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 16:03:29
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.88.135 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.175.88.135 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\代码\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.RatingTop.GetTradeRate(Int64 currentPage, Int64 pagesize, String getStartDate, String getEndDate, Int64& total) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\RatingTop.cs:行号 134
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 16:03:46
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 16:03:46
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.CheckIsOpenAddBlakList(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 117
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 16:03:49
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 16:03:49
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetBlakListByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 966
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 16:03:50
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 16:03:50
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 16:05:09
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 16:05:23
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 16:07:27
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 16:07:41
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 17:59:33
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBSessoinImpl.Open()
+   在 CTCRM.Common.ComDbOpen.DbOpen(IDBSession dbSession) 位置 d:\代码\CTCRM-Source\Common\ComDbOpen.cs:行号 24
+出现错误的位置: TBApply_Configuration
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/3 17:59:48
+错误号:         1000
+标题:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+内容:           在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommand()
+   在 TTNI.Framework.Data.DBOperatroImpl.InitCommandText()
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataSet(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBOperatroImpl.ExecuteDataTable(String p_Sql, List`1 p_Params)
+   在 TTNI.Framework.Data.DBSessoinImpl.ExecuteDataTable(String p_Sql)
+   在 CTCRM.DAL.RatingDAL.GetRateConfigByNick(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\RatingDAL.cs:行号 793
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================

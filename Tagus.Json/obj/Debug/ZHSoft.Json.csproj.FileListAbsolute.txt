@@ -1,0 +1,145 @@
+D:\CShape2012\Framework\ZHSoft.Json.dll
+D:\CShape2012\Framework\ZHSoft.Json.pdb
+D:\CShape2012\Go2ApplicationLast\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+D:\CShape2012\Go2ApplicationLast\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+D:\CShape2012\Go2ApplicationLast\Tagus.Json\obj\Debug\ZHSoft.Json.csprojResolveAssemblyReference.cache
+C:\Users\newbie\Documents\Visual Studio 2012\Projects\Framework\ZHSoft.Json.dll
+C:\Users\newbie\Documents\Visual Studio 2012\Projects\Framework\ZHSoft.Json.pdb
+C:\Users\newbie\Documents\Visual Studio 2012\Projects\ajaxDemo\Tagus.Json\obj\Debug\ZHSoft.Json.csprojResolveAssemblyReference.cache
+C:\Users\newbie\Documents\Visual Studio 2012\Projects\ajaxDemo\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+C:\Users\newbie\Documents\Visual Studio 2012\Projects\ajaxDemo\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+F:\淘宝项目\会员管家\Framework\ZHSoft.Json.dll
+F:\淘宝项目\会员管家\Framework\ZHSoft.Json.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-24(最终版)\Tagus.Json\obj\Debug\ResolveAssemblyReference.cache
+F:\淘宝项目\会员管家\CRM-2013-5-24(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+F:\淘宝项目\会员管家\CRM-2013-5-24(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-26(最终版)\Tagus.Json\obj\Debug\ResolveAssemblyReference.cache
+F:\淘宝项目\会员管家\CRM-2013-5-26(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+F:\淘宝项目\会员管家\CRM-2013-5-26(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+F:\CRM\Framework\ZHSoft.Json.dll
+F:\CRM\Framework\ZHSoft.Json.pdb
+F:\CRM\CRM-2013-5-26(最终版)\Tagus.Json\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\CRM-2013-5-26(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+F:\CRM\CRM-2013-5-26(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+F:\淘宝项目\会员管家\CRM-2013-5-27(最终版)\Tagus.Json\obj\Debug\ResolveAssemblyReference.cache
+F:\淘宝项目\会员管家\CRM-2013-5-27(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+F:\淘宝项目\会员管家\CRM-2013-5-27(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+F:\CRM\CRM-2013-5-28(最终版)\Tagus.Json\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\CRM-2013-5-28(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+F:\CRM\CRM-2013-5-28(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+F:\淘宝项目\会员管家\CRM-2013-6-2(最终版)\Tagus.Json\obj\Debug\ResolveAssemblyReference.cache
+F:\淘宝项目\会员管家\CRM-2013-6-2(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+F:\淘宝项目\会员管家\CRM-2013-6-2(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+F:\CRM\CRM-2013-6-3(最终版)\Tagus.Json\obj\Debug\ResolveAssemblyReference.cache
+F:\CRM\CRM-2013-6-3(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+F:\CRM\CRM-2013-6-3(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+D:\淘宝项目\会员管家\Framework\ZHSoft.Json.dll
+D:\淘宝项目\会员管家\Framework\ZHSoft.Json.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-3(最终版)\Tagus.Json\obj\Debug\ResolveAssemblyReference.cache
+D:\淘宝项目\会员管家\CRM-2013-6-3(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+D:\淘宝项目\会员管家\CRM-2013-6-3(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-7(最终版)\Tagus.Json\obj\Debug\ResolveAssemblyReference.cache
+D:\淘宝项目\会员管家\CRM-2013-6-7(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+D:\淘宝项目\会员管家\CRM-2013-6-7(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-8(最终版)\Tagus.Json\obj\Debug\ResolveAssemblyReference.cache
+D:\淘宝项目\会员管家\CRM-2013-6-8(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+D:\淘宝项目\会员管家\CRM-2013-6-8(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-6-8(最终版)\Framework\ZHSoft.Json.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-6-8(最终版)\Framework\ZHSoft.Json.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-6-8(最终版)\CRM-2013-6-8(最终版)\Tagus.Json\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-6-8(最终版)\CRM-2013-6-8(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-6-8(最终版)\CRM-2013-6-8(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-11(最终版)\Tagus.Json\obj\Debug\ResolveAssemblyReference.cache
+D:\淘宝项目\会员管家\CRM-2013-6-11(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+D:\淘宝项目\会员管家\CRM-2013-6-11(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+D:\淘宝项目\会员管家\CRM-2013-6-20(最终版)\Tagus.Json\obj\Debug\ResolveAssemblyReference.cache
+D:\淘宝项目\会员管家\CRM-2013-6-20(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+D:\淘宝项目\会员管家\CRM-2013-6-20(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-3(最终版)\Framework\ZHSoft.Json.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-3(最终版)\Framework\ZHSoft.Json.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-3(最终版)\CRM-2013-8-3(最终版)\Tagus.Json\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-3(最终版)\CRM-2013-8-3(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-3(最终版)\CRM-2013-8-3(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+C:\Documents and Settings\whza012569adm\桌面\Framework\ZHSoft.Json.dll
+C:\Documents and Settings\whza012569adm\桌面\Framework\ZHSoft.Json.pdb
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-4(最终版)\Tagus.Json\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-4(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+C:\Documents and Settings\whza012569adm\桌面\CRM-2013-8-4(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-8(最终版)\Tagus.Json\obj\Debug\ResolveAssemblyReference.cache
+D:\淘宝项目\会员管家\CRM-2013-8-8(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+D:\淘宝项目\会员管家\CRM-2013-8-8(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-22(最终版)\Tagus.Json\obj\Debug\ResolveAssemblyReference.cache
+D:\淘宝项目\会员管家\CRM-2013-8-22(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+D:\淘宝项目\会员管家\CRM-2013-8-22(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+D:\淘宝项目\会员管家\CRM-2013-8-28(最终版)\Tagus.Json\obj\Debug\ResolveAssemblyReference.cache
+D:\淘宝项目\会员管家\CRM-2013-8-28(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+D:\淘宝项目\会员管家\CRM-2013-8-28(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+D:\淘宝项目\会员管家\CRM-2013-9-18(最终版)\Tagus.Json\obj\Debug\ResolveAssemblyReference.cache
+D:\淘宝项目\会员管家\CRM-2013-9-18(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+D:\淘宝项目\会员管家\CRM-2013-9-18(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+D:\本地-开发环境\Framework\ZHSoft.Json.dll
+D:\本地-开发环境\Framework\ZHSoft.Json.pdb
+D:\本地-开发环境\CRM(最终版)\Tagus.Json\obj\Debug\ResolveAssemblyReference.cache
+D:\本地-开发环境\CRM(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+D:\本地-开发环境\CRM(最终版)\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+D:\本地-开发环境\CRM(最终版)\Framework\ZHSoft.Json.dll
+D:\本地-开发环境\CRM(最终版)\Framework\ZHSoft.Json.pdb
+D:\本地-开发环境\CRM(最终版)\会员管家源代码\Tagus.Json\obj\Debug\ResolveAssemblyReference.cache
+D:\本地-开发环境\CRM(最终版)\会员管家源代码\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+D:\本地-开发环境\CRM(最终版)\会员管家源代码\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+D:\CPlusPlus2012\会员管家源代码_详情\Framework\ZHSoft.Json.dll
+D:\CPlusPlus2012\会员管家源代码_详情\Framework\ZHSoft.Json.pdb
+D:\CPlusPlus2012\会员管家源代码_详情\会员管家源代码_详情\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+D:\CPlusPlus2012\会员管家源代码_详情\会员管家源代码_详情\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+D:\CPlusPlus2012\会员管家源代码_详情\会员管家源代码_详情\Tagus.Json\obj\Debug\ZHSoft.Json.csprojResolveAssemblyReference.cache
+C:\TB项目\会员管家源代码_详情(1)\Tagus.Json\obj\Debug\ZHSoft.Json.csprojResolveAssemblyReference.cache
+C:\TB项目\会员管家源代码_详情(1)\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+C:\TB项目\会员管家源代码_详情(1)\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+C:\TB项目\CRM\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+C:\TB项目\CRM\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+C:\TB项目\CRM0916\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+C:\TB项目\CRM0916\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+C:\TB项目\CRM0918\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+C:\TB项目\CRM0918\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+C:\TB项目\CRM0919\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+C:\TB项目\CRM0919\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+C:\TB项目\CRM0923\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+C:\TB项目\CRM0923\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+C:\TB项目\CRM0925\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+C:\TB项目\CRM0925\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+C:\TB项目\CRM0927\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+C:\TB项目\CRM0927\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+C:\TB项目\CRM0929\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+C:\TB项目\CRM0929\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+C:\TB项目\Framework\ZHSoft.Json.dll
+C:\TB项目\Framework\ZHSoft.Json.pdb
+C:\TB项目\CRM0101\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+C:\TB项目\CRM0101\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+C:\TB项目\CRM0101\Tagus.Json\obj\Debug\ZHSoft.Json.csprojResolveAssemblyReference.cache
+C:\TB项目\CTCRM-Source\Tagus.Json\obj\Debug\ZHSoft.Json.csprojResolveAssemblyReference.cache
+C:\TB项目\CTCRM-Source\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+C:\TB项目\CTCRM-Source\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+D:\projects\Framework\ZHSoft.Json.dll
+D:\projects\Framework\ZHSoft.Json.pdb
+D:\projects\CTCRM-Source\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+D:\projects\CTCRM-Source\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+D:\代码\Framework\ZHSoft.Json.dll
+D:\代码\Framework\ZHSoft.Json.pdb
+D:\代码\CTCRM-Source\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+D:\代码\CTCRM-Source\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+D:\代码\CTCRM-Source\Tagus.Json\obj\Debug\ZHSoft.Json.csprojResolveAssemblyReference.cache
+D:\代码\服务器代码\Framework\ZHSoft.Json.dll
+D:\代码\服务器代码\Framework\ZHSoft.Json.pdb
+D:\代码\服务器代码\CTCRM-Source\Tagus.Json\obj\Debug\ZHSoft.Json.csprojResolveAssemblyReference.cache
+D:\代码\服务器代码\CTCRM-Source\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+D:\代码\服务器代码\CTCRM-Source\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+D:\代码\服务器代码\CTCRM-Source\Framework\ZHSoft.Json.dll
+D:\代码\服务器代码\CTCRM-Source\Framework\ZHSoft.Json.pdb
+D:\代码\服务器代码\CTCRM-Source\源码\Tagus.Json\obj\Debug\ZHSoft.Json.csprojResolveAssemblyReference.cache
+D:\代码\服务器代码\CTCRM-Source\源码\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+D:\代码\服务器代码\CTCRM-Source\源码\Tagus.Json\obj\Debug\ZHSoft.Json.pdb
+D:\代码\服务器代码\本地测试代码\code\Framework\ZHSoft.Json.dll
+D:\代码\服务器代码\本地测试代码\code\Framework\ZHSoft.Json.pdb
+D:\代码\服务器代码\本地测试代码\code\源码\Tagus.Json\obj\Debug\ZHSoft.Json.csprojResolveAssemblyReference.cache
+D:\代码\服务器代码\本地测试代码\code\源码\Tagus.Json\obj\Debug\ZHSoft.Json.dll
+D:\代码\服务器代码\本地测试代码\code\源码\Tagus.Json\obj\Debug\ZHSoft.Json.pdb

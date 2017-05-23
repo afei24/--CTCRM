@@ -1,0 +1,13 @@
+﻿body {font:12px/1.2 Tahoma, Geneva, sans-serif; color:#404040; }
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { margin:0; padding:0; }	
+#footer { text-align:center; margin:10px 0; line-height:24px;}
+#footer .wrapper { border-top:1px solid #EEE; padding:10px 0; }
+#citysplit{width:250px;background:#f8f8f8;border:1px solid #ddd;padding:5px;position:absolute;left:60px;top:-35px;display:none;}
+
+/* Page */
+div.page { padding:3px;  text-align:center; clear:both;}
+div.page a { border:#ddd 1px solid; padding:2px 5px; color:#16B; margin-right:2px;text-decoration:none; border-radius:2px;}
+div.page a:hover { border:#36C 1px solid; color:#16B; background-color:#FF0;}
+div.page a:active { border:#36C 1px solid; color:#16B; background-color:#FF0;}
+div.page span.current{ border:#16B 1px solid; padding:2px 5px; font-weight:bold; color:#fff; margin-right:2px; background-color:#16B; border-radius:2px;}
+div.page span.disabled{ border:#f3f3f3 1px solid; padding:2p 5px; color:#ccc;margin-right:2px; border-bottom:#f3f3f3 1px solid;}

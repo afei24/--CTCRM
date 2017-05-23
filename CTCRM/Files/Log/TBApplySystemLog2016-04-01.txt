@@ -1,0 +1,118 @@
+
+===================================
+时间:           2016/4/1 10:39:35
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select OrderVersion,OrderCyc from Seller w' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select OrderVersion,OrderCyc from Seller w' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetOrderVersion(String strNick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 178
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/4/1 10:40:31
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select OrderVersion,OrderCyc from Seller w' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select OrderVersion,OrderCyc from Seller w' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetOrderVersion(String strNick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 178
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/4/1 10:53:18
+错误号:         1000
+标题:           参数化查询 '(@NICK nvarchar(4000))select OrderVersion,OrderCyc from Seller w' 需要参数 @NICK，但未提供该参数。
+内容:           参数化查询 '(@NICK nvarchar(4000))select OrderVersion,OrderCyc from Seller w' 需要参数 @NICK，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 c:\TB项目\CRM0101\CTCRM.DAL\DataBase.cs:行号 129
+   在 CTCRM.DAL.SellersDAL.GetOrderVersion(String strNick) 位置 c:\TB项目\CRM0101\CTCRM.DAL\SellersDAL.cs:行号 178
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/4/1 11:35:09
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 182.150.27.130 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 182.150.27.130 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 c:\TB项目\CRM0101\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 c:\TB项目\CRM0101\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 c:\TB项目\CRM0101\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 c:\TB项目\CRM0101\CTCRM.Components\TopCRM\TBManager.cs:行号 48
+   在 CTCRM.Components.TopCRM.TBOnSalePro.GetAllOnSalePro(String sessionKey) 位置 c:\TB项目\CRM0101\CTCRM.Components\TopCRM\TBOnSalePro.cs:行号 25
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/4/1 17:02:12
+错误号:         1000
+标题:           操作超时
+内容:           操作超时
+TopSdk
+   在 Top.Api.DefaultTopClient.DoExecute[T](ITopRequest`1 request, String session, DateTime timestamp) 位置 c:\TB项目\CRM0101\TopSdk\DefaultTopClient.cs:行号 230
+   在 Top.Api.DefaultTopClient.Execute[T](ITopRequest`1 request, String session, DateTime timestamp) 位置 c:\TB项目\CRM0101\TopSdk\DefaultTopClient.cs:行号 126
+   在 Top.Api.DefaultTopClient.Execute[T](ITopRequest`1 request, String session) 位置 c:\TB项目\CRM0101\TopSdk\DefaultTopClient.cs:行号 121
+   在 Top.Api.DefaultTopClient.Execute[T](ITopRequest`1 request) 位置 c:\TB项目\CRM0101\TopSdk\DefaultTopClient.cs:行号 116
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 c:\TB项目\CRM0101\TopSdk\Cluster\ClusterManager.cs:行号 72
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 c:\TB项目\CRM0101\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 c:\TB项目\CRM0101\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 c:\TB项目\CRM0101\CTCRM.Components\TopCRM\TBManager.cs:行号 48
+   在 CTCRM.Components.TopCRM.TBOnSalePro.GetItemByID(String sessionKey, String itemNo) 位置 c:\TB项目\CRM0101\CTCRM.Components\TopCRM\TBOnSalePro.cs:行号 49
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================

@@ -1,0 +1,104 @@
+
+===================================
+时间:           2016/11/16 14:29:48
+错误号:         1000
+标题:           对象不能从 DBNull 转换为其他类型。
+内容:           对象不能从 DBNull 转换为其他类型。
+mscorlib
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 CTCRM.admin.message.sellerMsgAcount.MsgDataBind() 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM\admin\message\sellerMsgAcount.aspx.cs:行号 54
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/11/16 14:30:05
+错误号:         1000
+标题:           对象不能从 DBNull 转换为其他类型。
+内容:           对象不能从 DBNull 转换为其他类型。
+mscorlib
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 CTCRM.admin.message.sellerMsgAcount.MsgDataBind() 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM\admin\message\sellerMsgAcount.aspx.cs:行号 54
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/11/16 14:31:42
+错误号:         1000
+标题:           对象不能从 DBNull 转换为其他类型。
+内容:           对象不能从 DBNull 转换为其他类型。
+mscorlib
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 CTCRM.admin.message.sellerMsgAcount.MsgDataBind() 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM\admin\message\sellerMsgAcount.aspx.cs:行号 54
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/11/16 14:32:24
+错误号:         1000
+标题:           对象不能从 DBNull 转换为其他类型。
+内容:           对象不能从 DBNull 转换为其他类型。
+mscorlib
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 CTCRM.admin.message.sellerMsgAcount.MsgDataBind() 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM\admin\message\sellerMsgAcount.aspx.cs:行号 54
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/11/16 14:33:23
+错误号:         1000
+标题:           对象不能从 DBNull 转换为其他类型。
+内容:           对象不能从 DBNull 转换为其他类型。
+mscorlib
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 CTCRM.admin.message.sellerMsgAcount.MsgDataBind() 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM\admin\message\sellerMsgAcount.aspx.cs:行号 54
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/11/16 14:40:07
+错误号:         1000
+标题:           对象不能从 DBNull 转换为其他类型。
+内容:           对象不能从 DBNull 转换为其他类型。
+mscorlib
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 CTCRM.admin.message.sellerMsgAcount.MsgDataBind() 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM\admin\message\sellerMsgAcount.aspx.cs:行号 54
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/11/16 14:41:10
+错误号:         1000
+标题:           对象不能从 DBNull 转换为其他类型。
+内容:           对象不能从 DBNull 转换为其他类型。
+mscorlib
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 CTCRM.admin.message.sellerMsgAcount.MsgDataBind() 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM\admin\message\sellerMsgAcount.aspx.cs:行号 54
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/11/16 14:45:31
+错误号:         1000
+标题:           对象不能从 DBNull 转换为其他类型。
+内容:           对象不能从 DBNull 转换为其他类型。
+mscorlib
+   在 System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   在 System.Convert.ToDateTime(Object value)
+   在 CTCRM.admin.message.sellerMsgAcount.MsgDataBind() 位置 d:\代码\服务器代码\CTCRM-Source\源码\CTCRM\admin\message\sellerMsgAcount.aspx.cs:行号 54
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================

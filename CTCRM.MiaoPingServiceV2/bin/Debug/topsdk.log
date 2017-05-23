@@ -1,0 +1,2 @@
+2016-10-07 16:35:08 WARN: http://gw.api.taobao.com/router/rest?method=taobao.httpdns.get&v=2.0&sign_method=md5&app_key=21088197&format=json&partner_id=top-sdk-net-20150914&timestamp=2016-10-07+16%3a35%3a08&sign=C1AB5DF0A9DFA1251BE19890E6FA7846 response error!
+{"error_response":{"code":25,"msg":"Invalid signature","request_id":"z24wcnglubvx"}}

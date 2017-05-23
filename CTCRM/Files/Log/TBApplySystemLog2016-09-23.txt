@@ -1,0 +1,464 @@
+
+===================================
+时间:           2016/9/23 14:33:34
+错误号:         1000
+标题:           参数化查询 '(@sellerNick nvarchar(4000))SELECT msgCanUseCount FROM MsgTrans ' 需要参数 '@sellerNick'，但未提供该参数。
+内容:           参数化查询 '(@sellerNick nvarchar(4000))SELECT msgCanUseCount FROM MsgTrans ' 需要参数 '@sellerNick'，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 131
+   在 CTCRM.DAL.MsgDAL.GetSellerMsgStatus(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\MsgDAL.cs:行号 445
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/23 14:33:36
+错误号:         1000
+标题:           参数化查询 '(@sellerNick nvarchar(4000))select group_name,groupID from UserG' 需要参数 '@sellerNick'，但未提供该参数。
+内容:           参数化查询 '(@sellerNick nvarchar(4000))select group_name,groupID from UserG' 需要参数 '@sellerNick'，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 131
+   在 CTCRM.DAL.GroupDAL.GetGroupByID(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\GroupDAL.cs:行号 121
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/23 14:33:36
+错误号:         1000
+标题:           参数化查询 '(@sellerNick nvarchar(4000))select group_name,groupID from UserG' 需要参数 '@sellerNick'，但未提供该参数。
+内容:           参数化查询 '(@sellerNick nvarchar(4000))select group_name,groupID from UserG' 需要参数 '@sellerNick'，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 131
+   在 CTCRM.DAL.GroupDAL.GetGroupByID(String sellerNick) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\GroupDAL.cs:行号 121
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/23 14:33:38
+错误号:         1000
+标题:           参数化查询 '(@SELLER_ID nvarchar(4000))select buyer_id,buyer_nick,ISNULL(buy' 需要参数 '@SELLER_ID'，但未提供该参数。
+内容:           参数化查询 '(@SELLER_ID nvarchar(4000))select buyer_id,buyer_nick,ISNULL(buy' 需要参数 '@SELLER_ID'，但未提供该参数。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 131
+   在 CTCRM.DAL.BuyerOldDAL.GetBuyerInfo(String buyerNick, String status, String area, String grade, String group, String tradeAmount1, String tradeAmount2, String sellerNick2, String buyCount) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\BuyerOldDAL.cs:行号 606
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/23 15:21:10
+错误号:         1000
+标题:           在将 nvarchar 值 '是' 转换成数据类型 int 时失败。
+内容:           在将 nvarchar 值 '是' 转换成数据类型 int 时失败。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.HasMoreRows()
+   在 System.Data.SqlClient.SqlDataReader.ReadInternal(Boolean setTimeout)
+   在 System.Data.SqlClient.SqlDataReader.Read()
+   在 System.Data.Common.DataAdapter.FillLoadDataRow(SchemaMapping mapping)
+   在 System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   在 System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 131
+   在 CTCRM.DAL.BuyerDAL.GetBuyerInfo(String buyerNick, String status, String area, String grade, String group, String tradeAmount1, String tradeAmount2, String sellerNick2, String buyCount, String Seller_Id) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\BuyerDAL.cs:行号 550
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/23 15:21:28
+错误号:         1000
+标题:           从数据类型 nvarchar 转换为 numeric 时出错。
+内容:           从数据类型 nvarchar 转换为 numeric 时出错。
+.Net SqlClient Data Provider
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.HasMoreRows()
+   在 System.Data.SqlClient.SqlDataReader.ReadInternal(Boolean setTimeout)
+   在 System.Data.SqlClient.SqlDataReader.Read()
+   在 System.Data.Common.DataAdapter.FillLoadDataRow(SchemaMapping mapping)
+   在 System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   在 System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.DAL.DataBase.ExecuteDt(String Sqlstr, SqlParameter[] param, CommandType commandType) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\DataBase.cs:行号 131
+   在 CTCRM.DAL.BuyerDAL.GetBuyerInfo(String buyerNick, String status, String area, String grade, String group, String tradeAmount1, String tradeAmount2, String sellerNick2, String buyCount, String Seller_Id) 位置 d:\代码\CTCRM-Source\CTCRM.DAL\BuyerDAL.cs:行号 550
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/23 16:05:23
+错误号:         1000
+标题:           FROM 子句语法错误。
+内容:           FROM 子句语法错误。
+Microsoft JET Database Engine
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.Common.CSVHelper.ExecuteTable(String sql) 位置 d:\代码\CTCRM-Source\Common\CSVHelper.cs:行号 154
+   在 CTCRM.Common.CSVHelper.Read(String[] colNames) 位置 d:\代码\CTCRM-Source\Common\CSVHelper.cs:行号 137
+   在 CTCRM.Common.CSVHelper.Read() 位置 d:\代码\CTCRM-Source\Common\CSVHelper.cs:行号 30
+   在 CTCRM.Download.download.imgImportData_Click(Object sender, ImageClickEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\SynData\downloads.aspx.cs:行号 165
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/23 16:08:41
+错误号:         1000
+标题:           FROM 子句语法错误。
+内容:           FROM 子句语法错误。
+Microsoft JET Database Engine
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.Common.CSVHelper.ExecuteTable(String sql) 位置 d:\代码\CTCRM-Source\Common\CSVHelper.cs:行号 154
+   在 CTCRM.Common.CSVHelper.Read(String[] colNames) 位置 d:\代码\CTCRM-Source\Common\CSVHelper.cs:行号 137
+   在 CTCRM.Common.CSVHelper.Read() 位置 d:\代码\CTCRM-Source\Common\CSVHelper.cs:行号 30
+   在 CTCRM.Download.download.imgImportData_Click(Object sender, ImageClickEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\SynData\downloads.aspx.cs:行号 165
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/23 16:10:09
+错误号:         1000
+标题:           FROM 子句语法错误。
+内容:           FROM 子句语法错误。
+Microsoft JET Database Engine
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 CTCRM.Common.CSVHelper.ExecuteTable(String sql) 位置 d:\代码\CTCRM-Source\Common\CSVHelper.cs:行号 154
+   在 CTCRM.Common.CSVHelper.Read(String[] colNames) 位置 d:\代码\CTCRM-Source\Common\CSVHelper.cs:行号 137
+   在 CTCRM.Common.CSVHelper.Read() 位置 d:\代码\CTCRM-Source\Common\CSVHelper.cs:行号 30
+   在 CTCRM.Download.download.imgImportData_Click(Object sender, ImageClickEventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\SynData\downloads.aspx.cs:行号 165
+出现错误的位置: TBApply_Data
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/23 17:01:07
+错误号:         1000
+标题:           正在中止线程。
+内容:           正在中止线程。
+mscorlib
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 CTCRM.Components.Users.get_Nick() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 29
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 35
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/23 17:01:49
+错误号:         1000
+标题:           正在中止线程。
+内容:           正在中止线程。
+mscorlib
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 CTCRM.Components.Users.get_Nick() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 29
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 35
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/23 17:01:55
+错误号:         1000
+标题:           正在中止线程。
+内容:           正在中止线程。
+mscorlib
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 CTCRM.Components.Users.get_Nick() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 29
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 35
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/23 17:08:03
+错误号:         1000
+标题:           正在中止线程。
+内容:           正在中止线程。
+mscorlib
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 CTCRM.Components.Users.get_Nick() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 29
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 35
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/23 17:09:54
+错误号:         1000
+标题:           正在中止线程。
+内容:           正在中止线程。
+mscorlib
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 CTCRM.Components.Users.get_Nick() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 29
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 35
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/23 17:10:41
+错误号:         1000
+标题:           正在中止线程。
+内容:           正在中止线程。
+mscorlib
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 CTCRM.Components.Users.get_Nick() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 29
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 35
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/23 17:14:40
+错误号:         1000
+标题:           正在中止线程。
+内容:           正在中止线程。
+mscorlib
+   在 System.Threading.Thread.AbortInternal()
+   在 System.Threading.Thread.Abort(Object stateInfo)
+   在 System.Web.HttpResponse.End()
+   在 System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   在 System.Web.HttpResponse.Redirect(String url)
+   在 CTCRM.Components.Users.get_Nick() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 29
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 35
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/23 17:15:25
+错误号:         1000
+标题:           未将对象引用设置到对象的实例。
+内容:           未将对象引用设置到对象的实例。
+CTCRM.Components
+   在 CTCRM.Components.Users.get_Nick() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 33
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 35
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/23 17:16:43
+错误号:         1000
+标题:           未将对象引用设置到对象的实例。
+内容:           未将对象引用设置到对象的实例。
+CTCRM.Components
+   在 CTCRM.Components.Users.get_Nick() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 33
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 35
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/23 17:18:07
+错误号:         1000
+标题:           未将对象引用设置到对象的实例。
+内容:           未将对象引用设置到对象的实例。
+CTCRM.Components
+   在 CTCRM.Components.Users.get_Nick() 位置 d:\代码\CTCRM-Source\CTCRM.Components\Users.cs:行号 33
+   在 CTCRM.WIN_Aspx.main.Page_Load(Object sender, EventArgs e) 位置 d:\代码\CTCRM-Source\CTCRM\WIN_Aspx\main.aspx.cs:行号 35
+出现错误的位置: TBApply_Web_UI
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/23 18:04:40
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.162.229.165 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.162.229.165 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\代码\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.TBShortlink.SetShortLink(String shortLinkName, String linkType, String shortLinkData, String& msg) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBShortlink.cs:行号 23
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/23 18:05:19
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.162.229.165 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.162.229.165 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\代码\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.TBShortlink.SetShortLink(String shortLinkName, String linkType, String shortLinkData, String& msg) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBShortlink.cs:行号 23
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/23 18:05:51
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.162.229.165 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.162.229.165 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\代码\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.TBShortlink.SetShortLink(String shortLinkName, String linkType, String shortLinkData, String& msg) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBShortlink.cs:行号 23
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/23 18:06:05
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.162.229.165 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.162.229.165 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\代码\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.TBShortlink.SetShortLink(String shortLinkName, String linkType, String shortLinkData, String& msg) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBShortlink.cs:行号 23
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
+
+===================================
+时间:           2016/9/23 18:17:50
+错误号:         1000
+标题:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.162.231.60 is not included
+内容:           isv.permission-ip-whitelist-limit:The appkey 21088197 is only allowed to call from its ip white list, but the source ip 180.162.231.60 is not included
+TopSdk
+   在 Top.Api.Cluster.ClusterManager.GetDnsConfigFromTop(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 79
+   在 Top.Api.Cluster.ClusterManager.InitRefreshThread(ITopClient client) 位置 d:\代码\CTCRM-Source\TopSdk\Cluster\ClusterManager.cs:行号 44
+   在 Top.Api.ClusterTopClient..ctor(String serverUrl, String appKey, String appSecret) 位置 d:\代码\CTCRM-Source\TopSdk\ClusterTopClient.cs:行号 14
+   在 CTCRM.Components.TopCRM.TBManager.GetClient() 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBManager.cs:行号 43
+   在 CTCRM.Components.TopCRM.TBShortlink.SetShortLink(String shortLinkName, String linkType, String shortLinkData, String& msg) 位置 d:\代码\CTCRM-Source\CTCRM.Components\TopCRM\TBShortlink.cs:行号 23
+出现错误的位置: TopApi
+错误级别:       urgency
+=====================================
